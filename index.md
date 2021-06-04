@@ -1,29 +1,22 @@
 ## Welcome to sunilshukla's code archive 
 
-You can use the [editor on GitHub](https://github.com/sunil-shukla/sunil-shukla.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can find this and other code and some amazing projects in future. Find my code archive website [sunil-shukla](sunil-shukla.github.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is updated regularly on a daily basis.
 
-### Markdown
+### let's get started :smile:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below is the code to multilply matrix of upto 10x10.
 
-```markdown
 Syntax highlighted code block
+# C++ Example
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```cpp
+int main() {
+  int y = SOME_MACRO_REFERENCE;
+  int x = 5 + 6;
+  cout << "Hello World! " << x << std::endl();
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

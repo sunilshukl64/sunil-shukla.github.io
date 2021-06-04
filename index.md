@@ -10,7 +10,7 @@ Below is the code to multilply matrix of upto 10x10.
 
 
 # C++ code to multiply upto 10x10 matrix
-## You can copy code from upper-right corner button and run code [here](https://ide.usaco.guide/)
+### You can copy code from upper-right corner button and run code [here](https://ide.usaco.guide/)
 
 ```cpp
 #include <iostream>

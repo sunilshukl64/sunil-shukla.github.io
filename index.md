@@ -69,7 +69,7 @@ int main()
 }
 
 ```
-## Run code [here](ide.usaco.guide)
+## Run code [here](https://ide.usaco.guide/)
 
 ### Support or Contact
 

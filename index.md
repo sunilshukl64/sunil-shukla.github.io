@@ -4,27 +4,73 @@ You can find this and other code and some amazing projects in future. Find my co
 
 This is updated regularly on a daily basis.
 
-### let's get started :smile:
+### let's get started :yawning_face:
 
 Below is the code to multilply matrix of upto 10x10.
 
-Syntax highlighted code block
-# C++ Example
+
+# C++ code to multiply upto 10x10 matrix
 
 ```cpp
-int main() {
-  int y = SOME_MACRO_REFERENCE;
-  int x = 5 + 6;
-  cout << "Hello World! " << x << std::endl();
+#include <iostream>
+using namespace std;
+
+// loops
+#define FOR(i, b) for (int i = 0; i < (b); ++i)
+
+int main()
+{
+    int r, c, x, y, z;
+    int a[10][10], b[10][10], mul[10][10];
+    cout << "enter no of row : ";
+    cin >> r;
+    cout << "enter no of columns : ";
+    cin >> c;
+
+    cout << "enter elements of 1st array :\n";
+    FOR(x, r)
+    {
+        FOR(y, c)
+        {
+            cin >> a[x][y];
+        }
+    }
+
+    cout << "enter elements of 2nd array :\n";
+    FOR(x, r)
+    {
+        FOR(y, c)
+        {
+            cin >> b[x][y];
+        }
+    }
+
+    cout << "multiplication of both matrices is :\n";
+    FOR(x, r)
+    {
+        FOR(y, c)
+        {
+            mul[x][y] = 0;
+            FOR(z, c)
+            {
+                mul[x][y] += a[x][z] * b[z][y];
+            }
+        }
+    }
+    FOR(x, r)
+    {
+        FOR(y, c)
+        {
+            cout << mul[x][y]<<"\t";
+        }
+        cout << "\n";
+    }
+    return 0;
 }
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunil-shukla/sunil-shukla.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Run code [here](ide.usaco.guide)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with code? Catch me on [contact support](dummyforsunil@gmail.com) and we’ll help you sort it out.

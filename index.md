@@ -73,4 +73,4 @@ int main()
 
 ### Support or Contact
 
-Having trouble with code? Catch me on [dummyforsunil@gmail.com](mailto:dummyforsunil) and we’ll help you sort it out.
+Having trouble with code? Catch me on [dummyforsunil@gmail.com](mailto:dummyforsunil@gmail.com) and we’ll help you sort it out.

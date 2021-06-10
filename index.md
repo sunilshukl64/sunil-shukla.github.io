@@ -4672,25 +4672,25 @@ Made in :india:
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 <td style="text-align:center">🔰<a href="https://open.kattis.com/problems/satisfaction" title="satisfaction">satisfaction</a></td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 </tr>
 <tr>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 <td style="text-align:center">🔰<a href="https://open.kattis.com/problems/hopper" title="hopper">hopper</a></td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 </tr>
 <tr>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 <td style="text-align:center">🔰<a href="https://open.kattis.com/problems/magicalmysteryknigh" title="magicalmysteryknigh">magicalmysteryknigh</a></td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
-<td style="text-align:center">&lt;......................../........................&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
+<td style="text-align:center">&lt;............/............&gt;</td>
 </tr>
 </tbody>
 </table>

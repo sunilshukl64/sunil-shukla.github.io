@@ -4659,7 +4659,7 @@ Made in :india:
 </tbody>
 </table>
 <blockquote>
-<h3 id="and-now-last-but-the-beast-smiling_imp-problems-waiting-for-you-for-a-long-time">AND NOW <em><code>LAST BUT THE BEAST</code></em>:smiling_imp: problems waiting for you for a long time</h3>
+<h3>AND NOW LAST BUT THE BEAST😈 problems waiting for you for a long time</h3>
 <table>
 <thead>
 <tr>

@@ -4698,7 +4698,7 @@ Made in :india:
 ---
 >### </>_For any support. Feel free to give any relevent suggestion to this noob
 
-:e-mail:: Email me <dummyforsunil@gmail.com>
+📧: Email me dummyforsunil@gmail.com
 
 Made in IN. && Made for WORLD.
 ---

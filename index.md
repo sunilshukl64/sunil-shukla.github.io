@@ -77,5 +77,5 @@ int main()
 Having trouble with code? Catch me on [dummyforsunil@gmail.com](mailto:dummyforsunil@gmail.com) and we’ll help you sort it out.
 
 Made in :india: 
-![indiaflag](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png=100x20 "INDIA")
+![indiaflag](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png =100x20 "INDIA")
 

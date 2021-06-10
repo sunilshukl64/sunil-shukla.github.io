@@ -4694,6 +4694,7 @@ Made in :india:
 </tr>
 </tbody>
 </table>
+---
 ### CONTACT && SUPPORT && SUGGESTION
 ---
 >### </>_For any support. Feel free to give any relevent suggestion to this noob
@@ -4702,4 +4703,4 @@ Made in :india:
 
 Made in IN. && Made for WORLD.
 ---
-Copyright :copyright: 2021 [sunil-shukla](contestarchive.github.io)
+Copyright ©️ 2021 [sunil-shukla](contestarchive.github.io)

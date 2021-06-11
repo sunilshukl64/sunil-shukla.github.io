@@ -71,7 +71,7 @@ int main()
 
 ```
  !-->
-
+🔰
 | Easy | Lower Medium | Upper Medium | Hard                                                                                                                          
 | :---: | :---: | :---: | :---: |
 | :beginner: [tarifa](https://open.katts.com/problems/tarifa "tarifa")                                                                                | :beginner: [weather](https://open.kattis.com/problems/weather "weather")                                                                   | :beginner: [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring")                                           | :beginner: [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |

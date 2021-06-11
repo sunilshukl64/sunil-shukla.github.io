@@ -72,9 +72,15 @@ int main()
 ```
  !-->
 
-| Easy | Lower Medium | Upper Medium | Hard                                                                                                                          
-| :---: | :---: | :---: | :---: |
-| :beginner: [tarifa](https://open.katts.com/problems/tarifa "tarifa")                                                                                | :beginner: [weather](https://open.kattis.com/problems/weather "weather")                                                                   | :beginner: [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring")                                           | :beginner: [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |
+# *Welcome to `kattis` problem archive*
+>*`Hey there competitive programmers welcome to karris problem archive where u can find and solve all kattis judge problems arranged difficulty wise`.*
+---
+### Arranged difficulty wise
+> | Go down :point_down:	| Difficulty up :point_up_2:
+---
+| Easy                                                                                                                                                | Lower Medium                                                                                                                               | Upper Medium                                                                                                                      | Hard                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| :beginner: [tarifa](https://open.kattis.com/problems/tarifa "tarifa")                                                                                | :beginner: [weather](https://open.kattis.com/problems/weather "weather")                                                                   | :beginner: [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring")                                           | :beginner: [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |
 | :beginner: [twostones](https://open.kattis.com/problems/twostones "twostones")                                                                      | :beginner: [ummcode](https://open.kattis.com/problems/ummcode "ummcode")                                                                   | :beginner: [likenooneeverwas](https://open.kattis.com/problems/likenooneeverwas "likenooneeverwas")                               | :beginner: [kraljevi](https://open.kattis.com/problems/kraljevi "kraljevi")                                                                |
 | :beginner: [timeloop](https://open.kattis.com/problems/timeloop "timeloop")                                                                         | :beginner: [monk](https://open.kattis.com/problems/monk "monk")                                                                            | :beginner: [dogs](https://open.kattis.com/problems/dogs "dogs")                                                                   | :beginner: [intercept](https://open.kattis.com/problems/intercept "intercept")                                                             |
 | :beginner: [stopwatch](https://open.kattis.com/problems/stopwatch "stopwatch")                                                                      | :beginner: [uxuhulvoting](https://open.kattis.com/problems/uxuhulvoting "uxuhulvoting")                                                    | :beginner: [iou](https://open.kattis.com/problems/iou "iou")                                                                      | :beginner: [installingapps](https://open.kattis.com/problems/installingapps "installingapps")                                              |
@@ -835,10 +841,18 @@ int main()
 | :beginner: [basicprogramming2](https://open.kattis.com/problems/basicprogramming2 "basicprogramming2")                                              | :beginner: [mincostmaxflow](https://open.kattis.com/problems/mincostmaxflow "mincostmaxflow")                                              | :beginner: [mravojed](https://open.kattis.com/problems/mravojed "mravojed")                                                       | :beginner: [cameramakers](https://open.kattis.com/problems/cameramakers "cameramakers")                                                    |
 | :beginner: [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet "wheresmyinternet")                                                 | :beginner: [maxcolinear](https://open.kattis.com/problems/maxcolinear "maxcolinear")                                                       | :beginner: [metal](https://open.kattis.com/problems/metal "metal")                                                                | :beginner: [mnist10class](https://open.kattis.com/problems/mnist10class "mnist10class")                                                    |
 
->### AND NOW *`LAST BUT THE BEAST`* problems waiting for you for a long time 
----
+>### AND NOW *`LAST BUT THE BEAST`*:smiling_imp: problems waiting for you for a long time 
 | </> | </> | Very Hard | </> | </> |
 | :---: | :---: | :---: | :---: | :---: |
 | <......................../........................> | <......................../........................> | :beginner:[satisfaction](https://open.kattis.com/problems/satisfaction "satisfaction") | <......................../........................>  | <......................../........................>  |
 | <......................../........................>  | <......................../........................>  | :beginner:[hopper](https://open.kattis.com/problems/hopper "hopper") | <......................../........................>  | <......................../........................>  |
 | <......................../........................>  | <......................../........................>  | :beginner:[magicalmysteryknigh](https://open.kattis.com/problems/magicalmysteryknigh "magicalmysteryknigh") | <......................../........................>  | <......................../........................>  |
+---
+#### CONTACT && SUPPORT
+---
+></>_For any support
+
+:e-mail:: Email me <dummyforsunil@gmail.com>
+
+Made in IN
+Made for WORLD

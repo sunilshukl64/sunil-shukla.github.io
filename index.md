@@ -81,4626 +81,772 @@ Made in :india:
 
  -->
 
-# *Welcome to `kattis` problem archive*
->*`Hey there competitive programmers welcome to karris problem archive where u can find and solve all kattis judge problems arranged difficulty wise`.*
----
-### Arranged difficulty wise
->  Go down 👇	 Difficulty up 👆
-<table>
-<thead>
-<tr>
-<th>Easy</th>
-<th>Lower Medium</th>
-<th>Upper Medium</th>
-<th>Hard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>🔰 <a href="https://open.katts.com/problems/tarifa" title="tarifa">tarifa</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/weather" title="weather">weather</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mapcolouring" title="mapcolouring">mapcolouring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/loopingaround" title="loopingaround">loopingaround</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/twostones" title="twostones">twostones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ummcode" title="ummcode">ummcode</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/likenooneeverwas" title="likenooneeverwas">likenooneeverwas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kraljevi" title="kraljevi">kraljevi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/timeloop" title="timeloop">timeloop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/monk" title="monk">monk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dogs" title="dogs">dogs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intercept" title="intercept">intercept</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/stopwatch" title="stopwatch">stopwatch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uxuhulvoting" title="uxuhulvoting">uxuhulvoting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/iou" title="iou">iou</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/installingapps" title="installingapps">installingapps</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/carrots" title="carrots">carrots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tautology" title="tautology">tautology</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/infinite2darray" title="infinite2darray">infinite2darray</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/homework" title="homework">homework</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ratingproblems" title="ratingproblems">ratingproblems</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/selfsimilarstrings" title="selfsimilarstrings">selfsimilarstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/igra" title="igra">igra</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hammertime" title="hammertime">hammertime</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/qaly" title="qaly">qaly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roompainting" title="roompainting">roompainting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/haiku" title="haiku">haiku</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ith" title="ith">ith</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/quadrant" title="quadrant">quadrant</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/repeatingdecimal" title="repeatingdecimal">repeatingdecimal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/garden" title="garden">garden</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flippingcards" title="flippingcards">flippingcards</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pot" title="pot">pot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rationalarithmetic" title="rationalarithmetic">rationalarithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foldingacube" title="foldingacube">foldingacube</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/evolutions" title="evolutions">evolutions</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/planina" title="planina">planina</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/opensource" title="opensource">opensource</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flightplan" title="flightplan">flightplan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drowningcombinatorist" title="drowningcombinatorist">drowningcombinatorist</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pet" title="pet">pet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/olderbrother" title="olderbrother">olderbrother</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/excavatorexpedition" title="excavatorexpedition">excavatorexpedition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/division" title="division">division</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nastyhacks" title="nastyhacks">nastyhacks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nikola" title="nikola">nikola</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eternalembers" title="eternalembers">eternalembers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/daringdoubt" title="daringdoubt">daringdoubt</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/magictrick" title="magictrick">magictrick</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/neighborhoodwatch" title="neighborhoodwatch">neighborhoodwatch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enteringthetime" title="enteringthetime">enteringthetime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cordonbleu" title="cordonbleu">cordonbleu</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lastfactorialdigit" title="lastfactorialdigit">lastfactorialdigit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/scenes" title="scenes">scenes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ballotboxes" title="ballotboxes">ballotboxes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/convexhull2" title="convexhull2">convexhull2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/laptopsticker" title="laptopsticker">laptopsticker</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/molekule" title="molekule">molekule</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dinnerbet" title="dinnerbet">dinnerbet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conquertheworld" title="conquertheworld">conquertheworld</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jumbojavelin" title="jumbojavelin">jumbojavelin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/meowfactor" title="meowfactor">meowfactor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/delivering" title="delivering">delivering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/collusionontwowheels" title="collusionontwowheels">collusionontwowheels</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jackolanternjuxtaposition" title="jackolanternjuxtaposition">jackolanternjuxtaposition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/leftandright" title="leftandright">leftandright</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/constrainedfreedomofchoice" title="constrainedfreedomofchoice">constrainedfreedomofchoice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/circle" title="circle">circle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/heartrate" title="heartrate">heartrate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knightsfen" title="knightsfen">knightsfen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/colouringbook" title="colouringbook">colouringbook</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catinatree" title="catinatree">catinatree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/greetings2" title="greetings2">greetings2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keyboardconcert" title="keyboardconcert">keyboardconcert</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cocoacoalition" title="cocoacoalition">cocoacoalition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/board" title="board">board</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/grassseed" title="grassseed">grassseed</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kattissquest" title="kattissquest">kattissquest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/clockpictures" title="clockpictures">clockpictures</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/safebet" title="safebet">safebet</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fizzbuzz" title="fizzbuzz">fizzbuzz</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/applesack" title="applesack">applesack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/charlesincharge" title="charlesincharge">charlesincharge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/artur" title="artur">artur</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/filip" title="filip">filip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jackpot" title="jackpot">jackpot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canonical" title="canonical">canonical</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/randomproblem" title="randomproblem">randomproblem</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/faktor" title="faktor">faktor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/houseofcards" title="houseofcards">houseofcards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bookcircle" title="bookcircle">bookcircle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aqueducts" title="aqueducts">aqueducts</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/electricaloutlets" title="electricaloutlets">electricaloutlets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/houselawn" title="houselawn">houselawn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/data" title="data">data</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/applescherriesmangos" title="applescherriesmangos">applescherriesmangos</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dicecup" title="dicecup">dicecup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/horrorfilmnight" title="horrorfilmnight">horrorfilmnight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/baza" title="baza">baza</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/animal" title="animal">animal</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cold" title="cold">cold</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/getshorty" title="getshorty">getshorty</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/archimedes" title="archimedes">archimedes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airportcoffee" title="airportcoffee">airportcoffee</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chanukah" title="chanukah">chanukah</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gearchanging" title="gearchanging">gearchanging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bracketnotation" title="bracketnotation">bracketnotation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/camping" title="camping">camping</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bijele" title="bijele">bijele</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gamerank" title="gamerank">gamerank</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brevoptimering" title="brevoptimering">brevoptimering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wordladder2" title="wordladder2">wordladder2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bela" title="bela">bela</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/esej" title="esej">esej</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kodkraft" title="kodkraft">kodkraft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/typo" title="typo">typo</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/batterup" title="batterup">batterup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/daceydice" title="daceydice">daceydice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wordspin" title="wordspin">wordspin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangularcollection" title="triangularcollection">triangularcollection</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/heimavinna" title="heimavinna">heimavinna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/communicationssatellite" title="communicationssatellite">communicationssatellite</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heritage" title="heritage">heritage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treasurediving" title="treasurediving">treasurediving</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ofugsnuid" title="ofugsnuid">ofugsnuid</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/collapse" title="collapse">collapse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/weightlifting" title="weightlifting">weightlifting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tickettoride" title="tickettoride">tickettoride</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zamka" title="zamka">zamka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/caveexploration" title="caveexploration">caveexploration</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unusualdarts" title="unusualdarts">unusualdarts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/themepark" title="themepark">themepark</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trik" title="trik">trik</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blackout" title="blackout">blackout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unionfind" title="unionfind">unionfind</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/taboo" title="taboo">taboo</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/transitwoes" title="transitwoes">transitwoes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bigboxes" title="bigboxes">bigboxes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thore" title="thore">thore</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/speakingofwhich" title="speakingofwhich">speakingofwhich</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/humancannonball2" title="humancannonball2">humancannonball2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/avoidland" title="avoidland">avoidland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/swish" title="swish">swish</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spaghetti" title="spaghetti">spaghetti</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zanzibar" title="zanzibar">zanzibar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/averagespeed" title="averagespeed">averagespeed</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/studying" title="studying">studying</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/solarenergy" title="solarenergy">solarenergy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sibice" title="sibice">sibice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/workstations" title="workstations">workstations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/string" title="string">string</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rotatetoroot" title="rotatetoroot">rotatetoroot</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/shatteredcake" title="shatteredcake">shatteredcake</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/annoyedcoworkers" title="annoyedcoworkers">annoyedcoworkers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sparklesseven" title="sparklesseven">sparklesseven</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/removalgame" title="removalgame">removalgame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/railroad2" title="railroad2">railroad2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/allkill" title="allkill">allkill</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shuffles" title="shuffles">shuffles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/remoteland" title="remoteland">remoteland</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/quickestimate" title="quickestimate">quickestimate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alexandbarb" title="alexandbarb">alexandbarb</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pyro" title="pyro">pyro</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/powersigns" title="powersigns">powersigns</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/provincesandgold" title="provincesandgold">provincesandgold</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/watersheds" title="watersheds">watersheds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pongtournament" title="pongtournament">pongtournament</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pokemon" title="pokemon">pokemon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pieceofcake2" title="pieceofcake2">pieceofcake2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/waronweather" title="waronweather">waronweather</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/peaktram" title="peaktram">peaktram</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/peskyheroes" title="peskyheroes">peskyheroes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/parking2" title="parking2">parking2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/visualgo" title="visualgo">visualgo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/neo" title="neo">neo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nesteddolls" title="nesteddolls">nesteddolls</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/numberfun" title="numberfun">numberfun</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/virus" title="virus">virus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/landline" title="landline">landline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/monotony" title="monotony">monotony</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nodup" title="nodup">nodup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/suspensionbridges" title="suspensionbridges">suspensionbridges</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/imoharderproblem" title="imoharderproblem">imoharderproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lunchtimenamerecall" title="lunchtimenamerecall">lunchtimenamerecall</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/modulo" title="modulo">modulo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/smallestmultiple" title="smallestmultiple">smallestmultiple</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hurricanedanger" title="hurricanedanger">hurricanedanger</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/loremipsum" title="loremipsum">loremipsum</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ladder" title="ladder">ladder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slikar" title="slikar">slikar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flightcollision" title="flightcollision">flightcollision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/longestlife" title="longestlife">longestlife</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/judgingmoose" title="judgingmoose">judgingmoose</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortestpath1" title="shortestpath1">shortestpath1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fire3" title="fire3">fire3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lazystudents" title="lazystudents">lazystudents</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jobexpenses" title="jobexpenses">jobexpenses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/score" title="score">score</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exchangerates" title="exchangerates">exchangerates</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/johnny5" title="johnny5">johnny5</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/janitortroubles" title="janitortroubles">janitortroubles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spiral" title="spiral">spiral</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equations" title="equations">equations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/infiltration" title="infiltration">infiltration</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/everywhere" title="everywhere">everywhere</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pop" title="pop">pop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/discretelogging" title="discretelogging">discretelogging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pockets" title="pockets">pockets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/isithalloween" title="isithalloween">isithalloween</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/solitaire" title="solitaire">solitaire</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/derangementrotations" title="derangementrotations">derangementrotations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greedycow" title="greedycow">greedycow</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/icpcawards" title="icpcawards">icpcawards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintings" title="paintings">paintings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coffeedate" title="coffeedate">coffeedate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatestpair" title="greatestpair">greatestpair</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/helpaphd" title="helpaphd">helpaphd</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oddbinom" title="oddbinom">oddbinom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buzzwords" title="buzzwords">buzzwords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/help" title="help">help</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hello" title="hello">hello</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nizovi" title="nizovi">nizovi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buggyrobot" title="buggyrobot">buggyrobot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forgottenhomework" title="forgottenhomework">forgottenhomework</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/harshadnumbers" title="harshadnumbers">harshadnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lostinthewoods" title="lostinthewoods">lostinthewoods</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/breakingcake" title="breakingcake">breakingcake</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/findmyfamily" title="findmyfamily">findmyfamily</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/forcedchoice" title="forcedchoice">forcedchoice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intergalacticbidding" title="intergalacticbidding">intergalacticbidding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bikegears" title="bikegears">bikegears</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fakescoreboard" title="fakescoreboard">fakescoreboard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/finalexam2" title="finalexam2">finalexam2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nine" title="nine">nine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arranginghat" title="arranginghat">arranginghat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/explodingkittens" title="explodingkittens">explodingkittens</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/encodedmessage" title="encodedmessage">encodedmessage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hindex" title="hindex">hindex</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fleaonachessboard" title="fleaonachessboard">fleaonachessboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/editstepladders" title="editstepladders">editstepladders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/detaileddifferences" title="detaileddifferences">detaileddifferences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/highwaytomountfansipan" title="highwaytomountfansipan">highwaytomountfansipan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bastubad" title="bastubad">bastubad</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dragonball2" title="dragonball2">dragonball2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/datum" title="datum">datum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hammingellipses" title="hammingellipses">hammingellipses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/youbethejudge" title="youbethejudge">youbethejudge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dotsboxes" title="dotsboxes">dotsboxes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cudoviste" title="cudoviste">cudoviste</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/financialplanning" title="financialplanning">financialplanning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wipeyourwhiteboards" title="wipeyourwhiteboards">wipeyourwhiteboards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/doodling" title="doodling">doodling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/conundrum" title="conundrum">conundrum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fairdivision" title="fairdivision">fairdivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tunnelingtheearth" title="tunnelingtheearth">tunnelingtheearth</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digraphs" title="digraphs">digraphs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cetvrta" title="cetvrta">cetvrta</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/emergency" title="emergency">emergency</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/transportation" title="transportation">transportation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dictionaryattack" title="dictionaryattack">dictionaryattack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/boatparts" title="boatparts">boatparts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drivinglanes" title="drivinglanes">drivinglanes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tide" title="tide">tide</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/collatzconjecture" title="collatzconjecture">collatzconjecture</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/avion" title="avion">avion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deadend" title="deadend">deadend</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lottery" title="lottery">lottery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/citypark" title="citypark">citypark</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/apaxiaaans" title="apaxiaaans">apaxiaaans</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/curveknights" title="curveknights">curveknights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/supermario169" title="supermario169">supermario169</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/captainobvious" title="captainobvious">captainobvious</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/alphabetspam" title="alphabetspam">alphabetspam</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crackerbarrel" title="crackerbarrel">crackerbarrel</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/substringswitcheroo" title="substringswitcheroo">substringswitcheroo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/burrowswheeler" title="burrowswheeler">burrowswheeler</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/addtwonumbers" title="addtwonumbers">addtwonumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brexit" title="brexit">brexit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/speedyescape" title="speedyescape">speedyescape</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/builttoscale" title="builttoscale">builttoscale</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tetration" title="tetration">tetration</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birds" title="birds">birds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/smootharray" title="smootharray">smootharray</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bribe" title="bribe">bribe</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/taisformula" title="taisformula">taisformula</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bank" title="bank">bank</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/simplepolygon" title="simplepolygon">simplepolygon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brackets" title="brackets">brackets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/synchronizinglists" title="synchronizinglists">synchronizinglists</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/baloni" title="baloni">baloni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/risk" title="risk">risk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/barcode" title="barcode">barcode</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sumsquareddigits" title="sumsquareddigits">sumsquareddigits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ballsandneedles" title="ballsandneedles">ballsandneedles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/recovery" title="recovery">recovery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/yesyes" title="yesyes">yesyes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/stararrangements" title="stararrangements">stararrangements</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alphabetanimals" title="alphabetanimals">alphabetanimals</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/profitablepizzas" title="profitablepizzas">profitablepizzas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/taxicab" title="taxicab">taxicab</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sodaslurper" title="sodaslurper">sodaslurper</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bungeebuilder" title="bungeebuilder">bungeebuilder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pokemongogo" title="pokemongogo">pokemongogo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/submarines" title="submarines">submarines</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/skocimis" title="skocimis">skocimis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trilemma" title="trilemma">trilemma</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/poetrytower" title="poetrytower">poetrytower</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/statisticians" title="statisticians">statisticians</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/simonsays" title="simonsays">simonsays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/walkway" title="walkway">walkway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paludarium" title="paludarium">paludarium</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stacking" title="stacking">stacking</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sevenwonders" title="sevenwonders">sevenwonders</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/upsanddownsofinvesting" title="upsanddownsofinvesting">upsanddownsofinvesting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/moviecollection" title="moviecollection">moviecollection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/specialtour" title="specialtour">specialtour</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/romans" title="romans">romans</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rectanglesurrounding" title="rectanglesurrounding">rectanglesurrounding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/moogle" title="moogle">moogle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slicice" title="slicice">slicice</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/reversebinary" title="reversebinary">reversebinary</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/citrusintern" title="citrusintern">citrusintern</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/microrow" title="microrow">microrow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sensornetwork" title="sensornetwork">sensornetwork</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/relocation" title="relocation">relocation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skijumping" title="skijumping">skijumping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicbitstrings" title="magicbitstrings">magicbitstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sensor" title="sensor">sensor</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/racingalphabet" title="racingalphabet">racingalphabet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortestpath2" title="shortestpath2">shortestpath2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/loopycabdrivers" title="loopycabdrivers">loopycabdrivers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/safety" title="safety">safety</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/quickbrownfox" title="quickbrownfox">quickbrownfox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shoppingmalls" title="shoppingmalls">shoppingmalls</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/logland" title="logland">logland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rubiksrevenge" title="rubiksrevenge">rubiksrevenge</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pokerhand" title="pokerhand">pokerhand</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rootedsubtrees" title="rootedsubtrees">rootedsubtrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/killingchaos" title="killingchaos">killingchaos</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainbownumbers" title="rainbownumbers">rainbownumbers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/oddmanout" title="oddmanout">oddmanout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pebblesolitaire2" title="pebblesolitaire2">pebblesolitaire2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keephiminside" title="keephiminside">keephiminside</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/programmingteam" title="programmingteam">programmingteam</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/licensetolaunch" title="licensetolaunch">licensetolaunch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/names" title="names">names</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/honi" title="honi">honi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primonimo" title="primonimo">primonimo</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kornislav" title="kornislav">kornislav</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/modulosolitaire" title="modulosolitaire">modulosolitaire</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heightpreservation" title="heightpreservation">heightpreservation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/piecesofparentheses" title="piecesofparentheses">piecesofparentheses</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kleptography" title="kleptography">kleptography</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/marypartitions" title="marypartitions">marypartitions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatgeekgameshow" title="greatgeekgameshow">greatgeekgameshow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/notablequotables" title="notablequotables">notablequotables</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kemija08" title="kemija08">kemija08</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kitchen" title="kitchen">kitchen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gettingjump" title="gettingjump">gettingjump</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mixingdrinks" title="mixingdrinks">mixingdrinks</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/apaxianparent" title="apaxianparent">apaxianparent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/islandtour" title="islandtour">islandtour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gamedesign" title="gamedesign">gamedesign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maximalsequences" title="maximalsequences">maximalsequences</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/greedypolygons" title="greedypolygons">greedypolygons</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inverteddeck" title="inverteddeck">inverteddeck</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/floorplan" title="floorplan">floorplan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/map" title="map">map</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/gerrymandering" title="gerrymandering">gerrymandering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/howmanydigits" title="howmanydigits">howmanydigits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exponial" title="exponial">exponial</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/manhattanpositioningsystem" title="manhattanpositioningsystem">manhattanpositioningsystem</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fyi" title="fyi">fyi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gears2" title="gears2">gears2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/estimation" title="estimation">estimation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jumbledjourney" title="jumbledjourney">jumbledjourney</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/freefood" title="freefood">freefood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fruitbaskets" title="fruitbaskets">fruitbaskets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ebonyandivory" title="ebonyandivory">ebonyandivory</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jellyraid" title="jellyraid">jellyraid</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fiftyshades" title="fiftyshades">fiftyshades</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flowerytrails" title="flowerytrails">flowerytrails</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eastereggs" title="eastereggs">eastereggs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/itsamodmodmodmodworld" title="itsamodmodmodmodworld">itsamodmodmodmodworld</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/estimatingtheareaofacircle" title="estimatingtheareaofacircle">estimatingtheareaofacircle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/farey" title="farey">farey</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dogtrouble" title="dogtrouble">dogtrouble</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ispiti" title="ispiti">ispiti</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/eligibility" title="eligibility">eligibility</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/extensiveor" title="extensiveor">extensiveor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crophard" title="crophard">crophard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heapstrees" title="heapstrees">heapstrees</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/drunkvigenere" title="drunkvigenere">drunkvigenere</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/batteries" title="batteries">batteries</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/codes" title="codes">codes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greetings" title="greetings">greetings</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/drmmessages" title="drmmessages">drmmessages</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eatingeverything" title="eatingeverything">eatingeverything</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boxedletters" title="boxedletters">boxedletters</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goldleaf" title="goldleaf">goldleaf</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/beavergnaw" title="beavergnaw">beavergnaw</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dicebetting" title="dicebetting">dicebetting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bond" title="bond">bond</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goatropes" title="goatropes">goatropes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/areal" title="areal">areal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/diagonalcut" title="diagonalcut">diagonalcut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bilateral" title="bilateral">bilateral</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/generatingnumbers" title="generatingnumbers">generatingnumbers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rationalsequence2" title="rationalsequence2">rationalsequence2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/clock" title="clock">clock</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/amanda" title="amanda">amanda</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/antiques" title="antiques">antiques</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/acm" title="acm">acm</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catalan" title="catalan">catalan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/abandonedanimal" title="abandonedanimal">abandonedanimal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/evenelectricity" title="evenelectricity">evenelectricity</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/weakvertices" title="weakvertices">weakvertices</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cafeteriaeasy" title="cafeteriaeasy">cafeteriaeasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/10kindsofpeople" title="10kindsofpeople">10kindsofpeople</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enumeratingbrackets" title="enumeratingbrackets">enumeratingbrackets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tripletexting" title="tripletexting">tripletexting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buildingboundaries" title="buildingboundaries">buildingboundaries</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zbrka" title="zbrka">zbrka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/entertainingexcursion" title="entertainingexcursion">entertainingexcursion</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tri" title="tri">tri</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wrapping" title="wrapping">wrapping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reduction" title="reduction">reduction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crusaders" title="crusaders">crusaders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/easiest" title="easiest">easiest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arbitrage" title="arbitrage">arbitrage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trendingtopic" title="trendingtopic">trendingtopic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/comparinganswers" title="comparinganswers">comparinganswers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/t9spelling" title="t9spelling">t9spelling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cats" title="cats">cats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bigpainting" title="bigpainting">bigpainting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/codepermutations" title="codepermutations">codepermutations</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/symmetricorder" title="symmetricorder">symmetricorder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grille" title="grille">grille</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/soyoulikeyourfoodhot" title="soyoulikeyourfoodhot">soyoulikeyourfoodhot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/choosingnumbers" title="choosingnumbers">choosingnumbers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sumkindofproblem" title="sumkindofproblem">sumkindofproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/walrusweights" title="walrusweights">walrusweights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rocketpoweredhovercraft" title="rocketpoweredhovercraft">rocketpoweredhovercraft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/caveatemptor" title="caveatemptor">caveatemptor</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cups" title="cups">cups</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unlockpattern2" title="unlockpattern2">unlockpattern2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rockclimbing" title="rockclimbing">rockclimbing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bomas" title="bomas">bomas</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/speedlimit" title="speedlimit">speedlimit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/traveltheskies" title="traveltheskies">traveltheskies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/robotopia" title="robotopia">robotopia</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cool1" title="cool1">cool1</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/speeding" title="speeding">speeding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tight" title="tight">tight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roadtimes" title="roadtimes">roadtimes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airportlogistics" title="airportlogistics">airportlogistics</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/soylent" title="soylent">soylent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/supercomputer" title="supercomputer">supercomputer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rationalratio" title="rationalratio">rationalratio</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/absurdistan2" title="absurdistan2">absurdistan2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/skener" title="skener">skener</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sumdoku" title="sumdoku">sumdoku</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prosti" title="prosti">prosti</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicsequence" title="magicsequence">magicsequence</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/schoolspirit" title="schoolspirit">schoolspirit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squawk" title="squawk">squawk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/privatespace" title="privatespace">privatespace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mars" title="mars">mars</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rijeci" title="rijeci">rijeci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/saferacing" title="saferacing">saferacing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primal" title="primal">primal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vjestica" title="vjestica">vjestica</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ptice" title="ptice">ptice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ratings" title="ratings">ratings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polygongame" title="polygongame">polygongame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vase" title="vase">vase</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/prsteni" title="prsteni">prsteni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainbowroadrace" title="rainbowroadrace">rainbowroadrace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/periodni" title="periodni">periodni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/umbraldecoding" title="umbraldecoding">umbraldecoding</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/prozor" title="prozor">prozor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pubs" title="pubs">pubs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/otherside" title="otherside">otherside</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tourguide" title="tourguide">tourguide</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pizza2" title="pizza2">pizza2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/parallelanalysis" title="parallelanalysis">parallelanalysis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/officespace" title="officespace">officespace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/toll" title="toll">toll</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/peragrams" title="peragrams">peragrams</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromicpassword" title="palindromicpassword">palindromicpassword</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/messenger" title="messenger">messenger</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thewrathofkahn" title="thewrathofkahn">thewrathofkahn</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/patuljci" title="patuljci">patuljci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nered" title="nered">nered</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maxflow" title="maxflow">maxflow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/surveillancesquared" title="surveillancesquared">surveillancesquared</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/oddgnome" title="oddgnome">oddgnome</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/musicalchairs" title="musicalchairs">musicalchairs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mathworksheet" title="mathworksheet">mathworksheet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rollercoasterfun" title="rollercoasterfun">rollercoasterfun</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/musicalscales" title="musicalscales">musicalscales</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minorsetback" title="minorsetback">minorsetback</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/makingpalindromes" title="makingpalindromes">makingpalindromes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/route" title="route">route</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mjehuric" title="mjehuric">mjehuric</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minibattleship" title="minibattleship">minibattleship</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ls" title="ls">ls</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ragingriver" title="ragingriver">ragingriver</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mixedfractions" title="mixedfractions">mixedfractions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/excursion" title="excursion">excursion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/logo2" title="logo2">logo2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pebblepuzzle" title="pebblepuzzle">pebblepuzzle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mirror" title="mirror">mirror</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/honeyheist" title="honeyheist">honeyheist</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/licenserenewal" title="licenserenewal">licenserenewal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primetime" title="primetime">primetime</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/methodicmultiplication" title="methodicmultiplication">methodicmultiplication</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gnollhypothesis" title="gnollhypothesis">gnollhypothesis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lava" title="lava">lava</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/police" title="police">police</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/luhnchecksum" title="luhnchecksum">luhnchecksum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/genealogical" title="genealogical">genealogical</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jugglingsequence" title="jugglingsequence">jugglingsequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/particles" title="particles">particles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lostlineup" title="lostlineup">lostlineup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/frosting" title="frosting">frosting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/holidaystars" title="holidaystars">holidaystars</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/parades" title="parades">parades</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/leftbeehind" title="leftbeehind">leftbeehind</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/firefly" title="firefly">firefly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/highscore2" title="highscore2">highscore2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/odasiljaci" title="odasiljaci">odasiljaci</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/karte" title="karte">karte</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fieldtrip" title="fieldtrip">fieldtrip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/growingupishardtodo" title="growingupishardtodo">growingupishardtodo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trick" title="trick">trick</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/maptiles2" title="maptiles2">maptiles2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/falling" title="falling">falling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gemisland" title="gemisland">gemisland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/difficult" title="difficult">difficult</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hissingmicrophone" title="hissingmicrophone">hissingmicrophone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equilibrium" title="equilibrium">equilibrium</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/floppy" title="floppy">floppy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/linesofaction" title="linesofaction">linesofaction</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/heirsdilemma" title="heirsdilemma">heirsdilemma</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/8queens" title="8queens">8queens</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fibtour" title="fibtour">fibtour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/krotating" title="krotating">krotating</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hangman" title="hangman">hangman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drivingrange" title="drivingrange">drivingrange</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/entirelyunsortedsequences" title="entirelyunsortedsequences">entirelyunsortedsequences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knightstrip" title="knightstrip">knightstrip</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/goatrope" title="goatrope">goatrope</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/downfall" title="downfall">downfall</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dragonballs" title="dragonballs">dragonballs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keytoknowledge" title="keytoknowledge">keytoknowledge</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fallingapart" title="fallingapart">fallingapart</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/disastrousdoubling" title="disastrousdoubling">disastrousdoubling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dividedoughnut" title="dividedoughnut">dividedoughnut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jugglingtroupe" title="jugglingtroupe">jugglingtroupe</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sifferprodukt" title="sifferprodukt">sifferprodukt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coinstacks" title="coinstacks">coinstacks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/destinationunknown" title="destinationunknown">destinationunknown</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jez" title="jez">jez</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/differentdistances" title="differentdistances">differentdistances</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cardmagic" title="cardmagic">cardmagic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cleaningpipes" title="cleaningpipes">cleaningpipes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ispmerger" title="ispmerger">ispmerger</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dicegame" title="dicegame">dicegame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/calculator" title="calculator">calculator</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chineseremainder" title="chineseremainder">chineseremainder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inquiryii" title="inquiryii">inquiryii</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/countingclauses" title="countingclauses">countingclauses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cakeymccakeface" title="cakeymccakeface">cakeymccakeface</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chesscompetition" title="chesscompetition">chesscompetition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icons" title="icons">icons</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/coconut" title="coconut">coconut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vegetables" title="vegetables">vegetables</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cardhands" title="cardhands">cardhands</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hamster" title="hamster">hamster</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/closingtheloop" title="closingtheloop">closingtheloop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arithmetic" title="arithmetic">arithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/candydistribution" title="candydistribution">candydistribution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gridspeed" title="gridspeed">gridspeed</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bus" title="bus">bus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/appealtotheaudience" title="appealtotheaudience">appealtotheaudience</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bracketmatrix" title="bracketmatrix">bracketmatrix</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatgdp" title="greatgdp">greatgdp</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/boundingrobots" title="boundingrobots">boundingrobots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/addingwords" title="addingwords">addingwords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blackvienna" title="blackvienna">blackvienna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatfireball" title="greatfireball">greatfireball</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fodelsedagsmemorisering" title="fodelsedagsmemorisering">fodelsedagsmemorisering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/a1paper" title="a1paper">a1paper</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birdrescue" title="birdrescue">birdrescue</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/genetics" title="genetics">genetics</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/yinyangstones" title="yinyangstones">yinyangstones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/teque" title="teque">teque</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/baggage" title="baggage">baggage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fruitslicer" title="fruitslicer">fruitslicer</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/volim" title="volim">volim</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sim" title="sim">sim</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/avogadro" title="avogadro">avogadro</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fastestspeedrun" title="fastestspeedrun">fastestspeedrun</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/unlockpattern" title="unlockpattern">unlockpattern</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zigzag" title="zigzag">zigzag</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/altosinging" title="altosinging">altosinging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fancyeasy" title="fancyeasy">fancyeasy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tornbygge" title="tornbygge">tornbygge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/undetected" title="undetected">undetected</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dream" title="dream">dream</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enjoyingelderberries" title="enjoyingelderberries">enjoyingelderberries</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/timebomb" title="timebomb">timebomb</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tricktreat" title="tricktreat">tricktreat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/adventurebegins" title="adventurebegins">adventurebegins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/endlessturning" title="endlessturning">endlessturning</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thisaintyourgrandpascheckerboard" title="thisaintyourgrandpascheckerboard">thisaintyourgrandpascheckerboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/texassummers" title="texassummers">texassummers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zadaca" title="zadaca">zadaca</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/doubleclique" title="doubleclique">doubleclique</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thelastproblem" title="thelastproblem">thelastproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/terraces" title="terraces">terraces</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/workout" title="workout">workout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dimsum" title="dimsum">dimsum</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/keytocrypto" title="keytocrypto">keytocrypto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ternarianweights" title="ternarianweights">ternarianweights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trash" title="trash">trash</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vonwalken" title="vonwalken">vonwalken</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/spavanac" title="spavanac">spavanac</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/svada" title="svada">svada</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/translatorsdinner" title="translatorsdinner">translatorsdinner</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/councilling" title="councilling">councilling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sok" title="sok">sok</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/selectgroup" title="selectgroup">selectgroup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/transitcard" title="transitcard">transitcard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conveyorbelts2" title="conveyorbelts2">conveyorbelts2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sjecista" title="sjecista">sjecista</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rings2" title="rings2">rings2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/traindelays" title="traindelays">traindelays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/compiler" title="compiler">compiler</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/savingforretirement" title="savingforretirement">savingforretirement</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ricochetrobots" title="ricochetrobots">ricochetrobots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thebeginningoftheendpart2" title="thebeginningoftheendpart2">thebeginningoftheendpart2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/circuitdesign" title="circuitdesign">circuitdesign</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/reverserot" title="reverserot">reverserot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/remorse" title="remorse">remorse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/surveillance" title="surveillance">surveillance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheerreaders" title="cheerreaders">cheerreaders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/prva" title="prva">prva</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/relatives" title="relatives">relatives</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/suffixsorting" title="suffixsorting">suffixsorting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chainco" title="chainco">chainco</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pauleigon" title="pauleigon">pauleigon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reactivity" title="reactivity">reactivity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stringfactoring" title="stringfactoring">stringfactoring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blocks" title="blocks">blocks</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ostgotska" title="ostgotska">ostgotska</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primereduction" title="primereduction">primereduction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slowleak" title="slowleak">slowleak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bst" title="bst">bst</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/missingnumbers" title="missingnumbers">missingnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/poplava" title="poplava">poplava</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reconstructingtapeart" title="reconstructingtapeart">reconstructingtapeart</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/backpackbuddies" title="backpackbuddies">backpackbuddies</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/loorolls" title="loorolls">loorolls</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pascal" title="pascal">pascal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equivalences" title="equivalences">equivalences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rangers" title="rangers">rangers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kitten" title="kitten">kitten</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ceremony" title="ceremony">ceremony</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/plusminus" title="plusminus">plusminus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/associationofmyths" title="associationofmyths">associationofmyths</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/justaminute" title="justaminute">justaminute</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mafija" title="mafija">mafija</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pianino" title="pianino">pianino</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mububa" title="mububa">mububa</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jewelrybox" title="jewelrybox">jewelrybox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/luckydraw" title="luckydraw">luckydraw</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oil2" title="oil2">oil2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/result" title="result">result</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/inflation" title="inflation">inflation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justforsidekicks" title="justforsidekicks">justforsidekicks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lemonade" title="lemonade">lemonade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/annorlundaanagram" title="annorlundaanagram">annorlundaanagram</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hydrasheads" title="hydrasheads">hydrasheads</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hexagonalrooks" title="hexagonalrooks">hexagonalrooks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/karel" title="karel">karel</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mysterious" title="mysterious">mysterious</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hittingtargets" title="hittingtargets">hittingtargets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goodcoalition" title="goodcoalition">goodcoalition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kamioni" title="kamioni">kamioni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fence" title="fence">fence</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/herman" title="herman">herman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gameofcards" title="gameofcards">gameofcards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jumpingchoreography" title="jumpingchoreography">jumpingchoreography</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/windypath" title="windypath">windypath</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hangingout" title="hangingout">hangingout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foosball" title="foosball">foosball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/isomorphicinversion" title="isomorphicinversion">isomorphicinversion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/volumeamplification" title="volumeamplification">volumeamplification</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/halfacookie" title="halfacookie">halfacookie</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fishmongers" title="fishmongers">fishmongers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/caching" title="caching">caching</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triforce" title="triforce">triforce</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flyingsafely" title="flyingsafely">flyingsafely</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortcut" title="shortcut">shortcut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/illumination" title="illumination">illumination</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tomjerry" title="tomjerry">tomjerry</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flexible" title="flexible">flexible</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digits" title="digits">digits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hearthbreakers" title="hearthbreakers">hearthbreakers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/memory" title="memory">memory</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/falsesecurity" title="falsesecurity">falsesecurity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuboidslicinggame" title="cuboidslicinggame">cuboidslicinggame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gondolas" title="gondolas">gondolas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stringmultimatching" title="stringmultimatching">stringmultimatching</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/empleh" title="empleh">empleh</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cranes" title="cranes">cranes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gladiators" title="gladiators">gladiators</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squarefieldshard" title="squarefieldshard">squarefieldshard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/deathknight" title="deathknight">deathknight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cowboycheckers" title="cowboycheckers">cowboycheckers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gingercandy" title="gingercandy">gingercandy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spinningup" title="spinningup">spinningup</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dasblinkenlights" title="dasblinkenlights">dasblinkenlights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subseqhard" title="subseqhard">subseqhard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/geezerscripts" title="geezerscripts">geezerscripts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spam" title="spam">spam</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cardtrick2" title="cardtrick2">cardtrick2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conquest" title="conquest">conquest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/floatingformation" title="floatingformation">floatingformation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slidingblocks" title="slidingblocks">slidingblocks</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/brokenswords" title="brokenswords">brokenswords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/connectthedots" title="connectthedots">connectthedots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/faultysprinklers" title="faultysprinklers">faultysprinklers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/san" title="san">san</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/breakingbranches" title="breakingbranches">breakingbranches</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/collatz" title="collatz">collatz</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/factors" title="factors">factors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rnasecondarystructure" title="rnasecondarystructure">rnasecondarystructure</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/basketballoneonone" title="basketballoneonone">basketballoneonone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coast" title="coast">coast</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/factorfree" title="factorfree">factorfree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pipe" title="pipe">pipe</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/babybites" title="babybites">babybites</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/breakingbad" title="breakingbad">breakingbad</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easyarithmetic" title="easyarithmetic">easyarithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/physiognomy" title="physiognomy">physiognomy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rationalsequence3" title="rationalsequence3">rationalsequence3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birthday" title="birthday">birthday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/doors" title="doors">doors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/peggame" title="peggame">peggame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anewalphabet" title="anewalphabet">anewalphabet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bing" title="bing">bing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/domine" title="domine">domine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/parovi" title="parovi">parovi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/aaah" title="aaah">aaah</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alloys" title="alloys">alloys</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/distance" title="distance">distance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/numbers2" title="numbers2">numbers2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/upprodun" title="upprodun">upprodun</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alchemy101" title="alchemy101">alchemy101</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/creditcard" title="creditcard">creditcard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nekameleoni" title="nekameleoni">nekameleoni</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/veci" title="veci">veci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/znanstvenik" title="znanstvenik">znanstvenik</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/countcircuits" title="countcircuits">countcircuits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/multiplyingdigits" title="multiplyingdigits">multiplyingdigits</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/vauvau" title="vauvau">vauvau</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/satisfiability" title="satisfiability">satisfiability</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chairhopping" title="chairhopping">chairhopping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/marshlandrescues" title="marshlandrescues">marshlandrescues</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/vacuumba" title="vacuumba">vacuumba</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wheels" title="wheels">wheels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/baas" title="baas">baas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checkerboard" title="checkerboard">checkerboard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tracksmoothing" title="tracksmoothing">tracksmoothing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wettiles" title="wettiles">wettiles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/starnotatree" title="starnotatree">starnotatree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/luggage" title="luggage">luggage</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/owlandfox" title="owlandfox">owlandfox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thanosthehero" title="thanosthehero">thanosthehero</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicallights" title="magicallights">magicallights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/correspondence" title="correspondence">correspondence</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/statistics" title="statistics">statistics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tenis" title="tenis">tenis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ingestion" title="ingestion">ingestion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/laneswitching" title="laneswitching">laneswitching</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/somesum" title="somesum">somesum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/swaptosort" title="swaptosort">swaptosort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/antimatterrain" title="antimatterrain">antimatterrain</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jezzball" title="jezzball">jezzball</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/shoppinglisteasy" title="shoppinglisteasy">shoppinglisteasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/congest" title="congest">congest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/amazing" title="amazing">amazing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jewelheist" title="jewelheist">jewelheist</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/amoebas" title="amoebas">amoebas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slidingtiles" title="slidingtiles">slidingtiles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/adjoin" title="adjoin">adjoin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/island" title="island">island</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/server" title="server">server</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rockpaperscissors" title="rockpaperscissors">rockpaperscissors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/babynames" title="babynames">babynames</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heightprofile" title="heightprofile">heightprofile</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/securedoors" title="securedoors">securedoors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/quantum" title="quantum">quantum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vindiagrams" title="vindiagrams">vindiagrams</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grabagraph" title="grabagraph">grabagraph</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/secretmessage" title="secretmessage">secretmessage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pickupsticks" title="pickupsticks">pickupsticks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treeshopping" title="treeshopping">treeshopping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gokigen" title="gokigen">gokigen</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/recipes" title="recipes">recipes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/persistent" title="persistent">persistent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/toast" title="toast">toast</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gauntletoffire" title="gauntletoffire">gauntletoffire</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/runlengthencodingrun" title="runlengthencodingrun">runlengthencodingrun</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mobilization" title="mobilization">mobilization</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/safesecret" title="safesecret">safesecret</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gaggle" title="gaggle">gaggle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/r2" title="r2">r2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/memorymatch" title="memorymatch">memorymatch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/terracedfields" title="terracedfields">terracedfields</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fish" title="fish">fish</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chopin" title="chopin">chopin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knigsoftheforest" title="knigsoftheforest">knigsoftheforest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/svemir" title="svemir">svemir</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/endlessknight" title="endlessknight">endlessknight</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pervasiveheartmonitor" title="pervasiveheartmonitor">pervasiveheartmonitor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/borg" title="borg">borg</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/structuralequivalence" title="structuralequivalence">structuralequivalence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/edgeremoval" title="edgeremoval">edgeremoval</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/parking" title="parking">parking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joylessgame" title="joylessgame">joylessgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/routing" title="routing">routing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sightseeing" title="sightseeing">sightseeing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mosquito" title="mosquito">mosquito</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/interpreter" title="interpreter">interpreter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/randommanhattan" title="randommanhattan">randommanhattan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cryptotrouble" title="cryptotrouble">cryptotrouble</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/moscowdream" title="moscowdream">moscowdream</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/includescoring" title="includescoring">includescoring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prettygoodcuberoot" title="prettygoodcuberoot">prettygoodcuberoot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/copyingdna" title="copyingdna">copyingdna</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/marko" title="marko">marko</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thinkingofanumber" title="thinkingofanumber">thinkingofanumber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/perfectskyline" title="perfectskyline">perfectskyline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/colorcodes" title="colorcodes">colorcodes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mancala" title="mancala">mancala</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hotspot" title="hotspot">hotspot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/perfectpathpatrol" title="perfectpathpatrol">perfectpathpatrol</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/circleoffriends" title="circleoffriends">circleoffriends</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/krizaljka" title="krizaljka">krizaljka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hobsonstrains" title="hobsonstrains">hobsonstrains</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromic" title="palindromic">palindromic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cestarine" title="cestarine">cestarine</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/islands3" title="islands3">islands3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ferryloading3" title="ferryloading3">ferryloading3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintbuckets" title="paintbuckets">paintbuckets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cavli" title="cavli">cavli</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/howl" title="howl">howl</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dungeon" title="dungeon">dungeon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/packingpests" title="packingpests">packingpests</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/capturedbyaliens" title="capturedbyaliens">capturedbyaliens</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hidingplaces" title="hidingplaces">hidingplaces</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sequence" title="sequence">sequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ministryofmagic" title="ministryofmagic">ministryofmagic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/britishmenu" title="britishmenu">britishmenu</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/heliocentric" title="heliocentric">heliocentric</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/datingtime" title="datingtime">datingtime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lemonadetrade" title="lemonadetrade">lemonadetrade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bob" title="bob">bob</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/friday" title="friday">friday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cowcrane" title="cowcrane">cowcrane</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/landlocked" title="landlocked">landlocked</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/autocompletion" title="autocompletion">autocompletion</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/exam" title="exam">exam</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/generalchineseremainder" title="generalchineseremainder">generalchineseremainder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knights" title="knights">knights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/asteroids" title="asteroids">asteroids</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/erase" title="erase">erase</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catering" title="catering">catering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intelligenceinfection" title="intelligenceinfection">intelligenceinfection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/around" title="around">around</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/eenymeeny" title="eenymeeny">eenymeeny</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catch" title="catch">catch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/herkabe" title="herkabe">herkabe</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/contacttracing" title="contacttracing">contacttracing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/earlywinter" title="earlywinter">earlywinter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cardtrading" title="cardtrading">cardtrading</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gwensgift" title="gwensgift">gwensgift</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unicycles" title="unicycles">unicycles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/damagedequation" title="damagedequation">damagedequation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/traffic" title="traffic">traffic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/guardianofdecency" title="guardianofdecency">guardianofdecency</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/additiongame" title="additiongame">additiongame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/convexpolygonarea" title="convexpolygonarea">convexpolygonarea</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bitsequalizer" title="bitsequalizer">bitsequalizer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gatheringinyorknew" title="gatheringinyorknew">gatheringinyorknew</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spock" title="spock">spock</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/conformity" title="conformity">conformity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/standings" title="standings">standings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foolingaround" title="foolingaround">foolingaround</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slon" title="slon">slon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/completingthesquare" title="completingthesquare">completingthesquare</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beehouseperimeter" title="beehouseperimeter">beehouseperimeter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fiat" title="fiat">fiat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rectangleland" title="rectangleland">rectangleland</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cetiri" title="cetiri">cetiri</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ballbearings" title="ballbearings">ballbearings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exofficio" title="exofficio">exofficio</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/randomdigitalexponentiation" title="randomdigitalexponentiation">randomdigitalexponentiation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/billiard" title="billiard">billiard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/abstractpainting" title="abstractpainting">abstractpainting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/escapeplan" title="escapeplan">escapeplan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pipes3" title="pipes3">pipes3</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/baconeggsandspam" title="baconeggsandspam">baconeggsandspam</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/basicprogramming1" title="basicprogramming1">basicprogramming1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enemydivision" title="enemydivision">enemydivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minigolf" title="minigolf">minigolf</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/autori" title="autori">autori</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vuk" title="vuk">vuk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/encodedcoordinates" title="encodedcoordinates">encodedcoordinates</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minrojikvadrat" title="minrojikvadrat">minrojikvadrat</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/astrologicalsign" title="astrologicalsign">astrologicalsign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treehouses" title="treehouses">treehouses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digitsum" title="digitsum">digitsum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mag" title="mag">mag</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/skolavslutningen" title="skolavslutningen">skolavslutningen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tourists" title="tourists">tourists</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digicomp2" title="digicomp2">digicomp2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ladybug" title="ladybug">ladybug</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zoo" title="zoo">zoo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tomography" title="tomography">tomography</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crisscrosscables" title="crisscrosscables">crisscrosscables</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/largesttriangle" title="largesttriangle">largesttriangle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tolower" title="tolower">tolower</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thermostat" title="thermostat">thermostat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/convoy" title="convoy">convoy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/krumpirko" title="krumpirko">krumpirko</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tetris" title="tetris">tetris</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stockprices" title="stockprices">stockprices</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/colourful" title="colourful">colourful</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/isahasa" title="isahasa">isahasa</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/simplecronspec" title="simplecronspec">simplecronspec</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/signprofile" title="signprofile">signprofile</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checkingbreak" title="checkingbreak">checkingbreak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/categorymanipulation" title="categorymanipulation">categorymanipulation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/set" title="set">set</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shoppinglist" title="shoppinglist">shoppinglist</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catvsdog" title="catvsdog">catvsdog</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hunterxcommunication" title="hunterxcommunication">hunterxcommunication</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/semafori" title="semafori">semafori</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/assembly" title="assembly">assembly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coke" title="coke">coke</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/haikuformatting" title="haikuformatting">haikuformatting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/redrover" title="redrover">redrover</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rockband" title="rockband">rockband</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bridgeautomation" title="bridgeautomation">bridgeautomation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gameworld" title="gameworld">gameworld</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/raggedright" title="raggedright">raggedright</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pumpkinpatch" title="pumpkinpatch">pumpkinpatch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bowlstack" title="bowlstack">bowlstack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/furrynuisance" title="furrynuisance">furrynuisance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/prerequisites" title="prerequisites">prerequisites</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pxs" title="pxs">pxs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/booking" title="booking">booking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flightplans" title="flightplans">flightplans</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/plantingtrees" title="plantingtrees">plantingtrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pearwise" title="pearwise">pearwise</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bitwise" title="bitwise">bitwise</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/faucetflow" title="faucetflow">faucetflow</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/permutationdescent" title="permutationdescent">permutationdescent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/orderlyclass" title="orderlyclass">orderlyclass</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beautifulbridges" title="beautifulbridges">beautifulbridges</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/datepickup" title="datepickup">datepickup</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/peg" title="peg">peg</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/openpitmining" title="openpitmining">openpitmining</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bananaproblem" title="bananaproblem">bananaproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/criticalelements" title="criticalelements">criticalelements</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pachydermpeanutpacking" title="pachydermpeanutpacking">pachydermpeanutpacking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/onaveragetheyrepurple" title="onaveragetheyrepurple">onaveragetheyrepurple</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cool2" title="cool2">cool2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chromiumshipping" title="chromiumshipping">chromiumshipping</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/okviri" title="okviri">okviri</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/molecules" title="molecules">molecules</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arrivingontime" title="arrivingontime">arrivingontime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chasingsubs" title="chasingsubs">chasingsubs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/oktalni" title="oktalni">oktalni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mincut" title="mincut">mincut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/absurdistan3" title="absurdistan3">absurdistan3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/browniepoints2" title="browniepoints2">browniepoints2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/oddities" title="oddities">oddities</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/loworderzeros" title="loworderzeros">loworderzeros</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zipfslaw" title="zipfslaw">zipfslaw</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bonbons" title="bonbons">bonbons</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nineknights" title="nineknights">nineknights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/imperfectgps" title="imperfectgps">imperfectgps</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spectrum" title="spectrum">spectrum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bikingduck" title="bikingduck">bikingduck</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/marswindow" title="marswindow">marswindow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hotdogs" title="hotdogs">hotdogs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treasurespotting" title="treasurespotting">treasurespotting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aroyalproblem" title="aroyalproblem">aroyalproblem</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kafkaesque" title="kafkaesque">kafkaesque</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flagquiz" title="flagquiz">flagquiz</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trainaddiction" title="trainaddiction">trainaddiction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airrally" title="airrally">airrally</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/compass" title="compass">compass</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fire2" title="fire2">fire2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tours" title="tours">tours</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wormholes2" title="wormholes2">wormholes2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jabuke" title="jabuke">jabuke</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fantasydraft" title="fantasydraft">fantasydraft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thesummersunsetback" title="thesummersunsetback">thesummersunsetback</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/windows" title="windows">windows</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hothike" title="hothike">hothike</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/droppingdirections" title="droppingdirections">droppingdirections</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/setstack" title="setstack">setstack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whiteboard" title="whiteboard">whiteboard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/glitchbot" title="glitchbot">glitchbot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divisible" title="divisible">divisible</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thelastcrusade" title="thelastcrusade">thelastcrusade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/watchyourstep" title="watchyourstep">watchyourstep</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/funhouse" title="funhouse">funhouse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dejavu" title="dejavu">dejavu</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/darkness" title="darkness">darkness</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vocabulary" title="vocabulary">vocabulary</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/functionalfun" title="functionalfun">functionalfun</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cycleseasy" title="cycleseasy">cycleseasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/testscheduling" title="testscheduling">testscheduling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/traintickets" title="traintickets">traintickets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flowlayout" title="flowlayout">flowlayout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuttingbrownies" title="cuttingbrownies">cuttingbrownies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sprocketscience" title="sprocketscience">sprocketscience</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thelastlaugh" title="thelastlaugh">thelastlaugh</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/eventplanning" title="eventplanning">eventplanning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/driver" title="driver">driver</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shibuyacrossing" title="shibuyacrossing">shibuyacrossing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/componentsgame" title="componentsgame">componentsgame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/epigdanceoff" title="epigdanceoff">epigdanceoff</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fraction" title="fraction">fraction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/relativnost" title="relativnost">relativnost</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thebeginningoftheendpart1" title="thebeginningoftheendpart1">thebeginningoftheendpart1</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/egypt" title="egypt">egypt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/circularlock" title="circularlock">circularlock</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/promotions" title="promotions">promotions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hashing" title="hashing">hashing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/echoechoecho" title="echoechoecho">echoechoecho</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheatingatwar" title="cheatingatwar">cheatingatwar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pictureday" title="pictureday">pictureday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spin" title="spin">spin</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/costumecontest" title="costumecontest">costumecontest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/carvet" title="carvet">carvet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pagelayout" title="pagelayout">pagelayout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slalom" title="slalom">slalom</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cookingwater" title="cookingwater">cookingwater</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brocard" title="brocard">brocard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ozljeda" title="ozljeda">ozljeda</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shoppingplan" title="shoppingplan">shoppingplan</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/conteststruggles" title="conteststruggles">conteststruggles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/signals" title="signals">signals</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/newmaths" title="newmaths">newmaths</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sevenkingdoms" title="sevenkingdoms">sevenkingdoms</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/compoundwords" title="compoundwords">compoundwords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boxes" title="boxes">boxes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minflow" title="minflow">minflow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sculpture" title="sculpture">sculpture</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/carefulascent" title="carefulascent">carefulascent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bestbefore" title="bestbefore">bestbefore</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/liga" title="liga">liga</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainfall" title="rainfall">rainfall</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/buka" title="buka">buka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/balanceddiet" title="balanceddiet">balanceddiet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/leapfrog" title="leapfrog">leapfrog</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polygraph" title="polygraph">polygraph</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bossbattle" title="bossbattle">bossbattle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/astro" title="astro">astro</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jumbledstring" title="jumbledstring">jumbledstring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palacinke" title="palacinke">palacinke</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bookingaroom" title="bookingaroom">bookingaroom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alicedigital" title="alicedigital">alicedigital</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/johnsstack" title="johnsstack">johnsstack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mountainouslandscape" title="mountainouslandscape">mountainouslandscape</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/asciiaddition" title="asciiaddition">asciiaddition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/doctorkattis" title="doctorkattis">doctorkattis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inversefactorial" title="inversefactorial">inversefactorial</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/matchings" title="matchings">matchings</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/aliennumbers" title="aliennumbers">aliennumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/continuousmedian" title="continuousmedian">continuousmedian</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/invasion" title="invasion">invasion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lifeforms" title="lifeforms">lifeforms</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/aboveaverage" title="aboveaverage">aboveaverage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/witchwood" title="witchwood">witchwood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/estate" title="estate">estate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingpinescape" title="kingpinescape">kingpinescape</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/yoda" title="yoda">yoda</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/urbandesign" title="urbandesign">urbandesign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hopscotch" title="hopscotch">hopscotch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jinxedbetting" title="jinxedbetting">jinxedbetting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/warehouse" title="warehouse">warehouse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tray" title="tray">tray</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/highscore" title="highscore">highscore</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jealousyoungsters" title="jealousyoungsters">jealousyoungsters</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/videospeedup" title="videospeedup">videospeedup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/timing" title="timing">timing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/helpfulrotations" title="helpfulrotations">helpfulrotations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jazzjourney" title="jazzjourney">jazzjourney</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/touchscreenkeyboard" title="touchscreenkeyboard">touchscreenkeyboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grapevine" title="grapevine">grapevine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heapsoffun" title="heapsoffun">heapsoffun</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/interviewqueue" title="interviewqueue">interviewqueue</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/spellingbee" title="spellingbee">spellingbee</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ship" title="ship">ship</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/halloweenloot" title="halloweenloot">halloweenloot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intelligenceexchange" title="intelligenceexchange">intelligenceexchange</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/simpleaddition" title="simpleaddition">simpleaddition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/saintjohn" title="saintjohn">saintjohn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grandopening" title="grandopening">grandopening</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/infiltration2" title="infiltration2">infiltration2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/vajningsplikt" title="vajningsplikt">vajningsplikt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/robotturtles" title="robotturtles">robotturtles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/froggie" title="froggie">froggie</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/indoorienteering" title="indoorienteering">indoorienteering</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/commercials" title="commercials">commercials</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/robotsonagrid" title="robotsonagrid">robotsonagrid</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foreveryoung" title="foreveryoung">foreveryoung</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ideas" title="ideas">ideas</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/progressivescramble" title="progressivescramble">progressivescramble</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reconnaissance" title="reconnaissance">reconnaissance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fogcatchers" title="fogcatchers">fogcatchers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/howtopaint" title="howtopaint">howtopaint</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/printingcosts" title="printingcosts">printingcosts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/raceday" title="raceday">raceday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flashingfluorescents" title="flashingfluorescents">flashingfluorescents</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gridmst" title="gridmst">gridmst</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/polymul1" title="polymul1">polymul1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintball" title="paintball">paintball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/firestation" title="firestation">firestation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greenlight" title="greenlight">greenlight</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/okvir" title="okvir">okvir</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/necklacedecomposition" title="necklacedecomposition">necklacedecomposition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/herrings" title="herrings">herrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flight" title="flight">flight</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/numbertree" title="numbertree">numbertree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/muddyhike" title="muddyhike">muddyhike</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ecodriving" title="ecodriving">ecodriving</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/familydag" title="familydag">familydag</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nop" title="nop">nop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mazemovement" title="mazemovement">mazemovement</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dragondropped" title="dragondropped">dragondropped</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/disposableswitches" title="disposableswitches">disposableswitches</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/musicalnotation" title="musicalnotation">musicalnotation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/matchsticks" title="matchsticks">matchsticks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cvjetici" title="cvjetici">cvjetici</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dancecircle" title="dancecircle">dancecircle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mathhomework" title="mathhomework">mathhomework</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knockout" title="knockout">knockout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuttingthenecklace" title="cuttingthenecklace">cuttingthenecklace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/compasscard" title="compasscard">compasscard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/measurement" title="measurement">measurement</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kastenlauf" title="kastenlauf">kastenlauf</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cucumberconundrum" title="cucumberconundrum">cucumberconundrum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/collidingtraffic" title="collidingtraffic">collidingtraffic</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/humancannonball" title="humancannonball">humancannonball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hrpa" title="hrpa">hrpa</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coverage" title="coverage">coverage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chemicalsmonitoring" title="chemicalsmonitoring">chemicalsmonitoring</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/haypoints" title="haypoints">haypoints</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/howmanyzeros" title="howmanyzeros">howmanyzeros</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/konsultarbeten" title="konsultarbeten">konsultarbeten</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canyon" title="canyon">canyon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hardware" title="hardware">hardware</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hanjie" title="hanjie">hanjie</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/citadelconstruction" title="citadelconstruction">citadelconstruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cablecar" title="cablecar">cablecar</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/redistribution" title="redistribution">redistribution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/frustratedqueue" title="frustratedqueue">frustratedqueue</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheaperdrink" title="cheaperdrink">cheaperdrink</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/binarytree" title="binarytree">binarytree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/engineeringenglish" title="engineeringenglish">engineeringenglish</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/font" title="font">font</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buffet" title="buffet">buffet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beacons" title="beacons">beacons</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/deathstar" title="deathstar">deathstar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/firetrucksarered" title="firetrucksarered">firetrucksarered</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bubblytroubly" title="bubblytroubly">bubblytroubly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arcaeapartners" title="arcaeapartners">arcaeapartners</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/coursescheduling" title="coursescheduling">coursescheduling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/findthegraph" title="findthegraph">findthegraph</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bridgesandtunnels2" title="bridgesandtunnels2">bridgesandtunnels2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/walk" title="walk">walk</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bestrelayteam" title="bestrelayteam">bestrelayteam</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/showroom" title="showroom">showroom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bigbrother" title="bigbrother">bigbrother</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unterwavedistance" title="unterwavedistance">unterwavedistance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/compromise" title="compromise">compromise</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drinkresponsibly" title="drinkresponsibly">drinkresponsibly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/balanceddiet2" title="balanceddiet2">balanceddiet2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/truefalseworksheet" title="truefalseworksheet">truefalseworksheet</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anotherbrick" title="anotherbrick">anotherbrick</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/convexhull" title="convexhull">convexhull</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/averagerank" title="averagerank">averagerank</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trainline" title="trainline">trainline</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/akcija" title="akcija">akcija</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/climbingstairs" title="climbingstairs">climbingstairs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anthony" title="anthony">anthony</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tournament" title="tournament">tournament</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/abc" title="abc">abc</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chemistsvows" title="chemistsvows">chemistsvows</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/allpairspath" title="allpairspath">allpairspath</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/structuraldifferences" title="structuraldifferences">structuraldifferences</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/watchdog" title="watchdog">watchdog</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cardhand" title="cardhand">cardhand</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alliswell" title="alliswell">alliswell</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/strikercount" title="strikercount">strikercount</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/triangleornaments" title="triangleornaments">triangleornaments</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bucketbrigade" title="bucketbrigade">bucketbrigade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/accesspoints" title="accesspoints">accesspoints</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sheep" title="sheep">sheep</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trainpassengers" title="trainpassengers">trainpassengers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/amultiplicationgame" title="amultiplicationgame">amultiplicationgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xortris" title="xortris">xortris</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shares" title="shares">shares</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/temperature" title="temperature">temperature</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/yatp" title="yatp">yatp</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whacamole" title="whacamole">whacamole</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sequentialyahtzee" title="sequentialyahtzee">sequentialyahtzee</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thegrandadventure" title="thegrandadventure">thegrandadventure</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/victorythroughsynergy" title="victorythroughsynergy">victorythroughsynergy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/consumption" title="consumption">consumption</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sendmoremoney" title="sendmoremoney">sendmoremoney</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/temperatureconfusion" title="temperatureconfusion">temperatureconfusion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/snowflakes" title="snowflakes">snowflakes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deliveryperson" title="deliveryperson">deliveryperson</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rubikrectangle" title="rubikrectangle">rubikrectangle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sorttwonumbers" title="sorttwonumbers">sorttwonumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xentopia" title="xentopia">xentopia</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trafficblights" title="trafficblights">trafficblights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pizzaproblems" title="pizzaproblems">pizzaproblems</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sortofsorting" title="sortofsorting">sortofsorting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tictactoe2" title="tictactoe2">tictactoe2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tractor" title="tractor">tractor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equationsolverplus" title="equationsolverplus">equationsolverplus</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/socialrunning" title="socialrunning">socialrunning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stringmatching" title="stringmatching">stringmatching</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/substitution" title="substitution">substitution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mountainroad" title="mountainroad">mountainroad</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/princesspeach" title="princesspeach">princesspeach</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stopcard" title="stopcard">stopcard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magical3" title="magical3">magical3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lightsout" title="lightsout">lightsout</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/savingdaylight" title="savingdaylight">savingdaylight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/curvyblocks" title="curvyblocks">curvyblocks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/embarrassedcryptographer" title="embarrassedcryptographer">embarrassedcryptographer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingofspades" title="kingofspades">kingofspades</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/quiteaproblem" title="quiteaproblem">quiteaproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squaredeal" title="squaredeal">squaredeal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/teamup" title="teamup">teamup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kindergarten" title="kindergarten">kindergarten</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/register" title="register">register</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortsell" title="shortsell">shortsell</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slalom2" title="slalom2">slalom2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/islands2" title="islands2">islands2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/piglatin" title="piglatin">piglatin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/settlers2" title="settlers2">settlers2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skiresort" title="skiresort">skiresort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/iqtest" title="iqtest">iqtest</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/permutedarithmeticsequence" title="permutedarithmeticsequence">permutedarithmeticsequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dutyscheduler" title="dutyscheduler">dutyscheduler</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shopping" title="shopping">shopping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squares" title="squares">squares</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/password" title="password">password</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primematrix" title="primematrix">primematrix</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rebelportals" title="rebelportals">rebelportals</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hash" title="hash">hash</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/npuzzle" title="npuzzle">npuzzle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/phonelist" title="phonelist">phonelist</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/razgovori" title="razgovori">razgovori</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatestpermutation" title="greatestpermutation">greatestpermutation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nimionese" title="nimionese">nimionese</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/partygame" title="partygame">partygame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pubnite" title="pubnite">pubnite</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fidgetspinner" title="fidgetspinner">fidgetspinner</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/multiplication" title="multiplication">multiplication</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/musiccollection" title="musiccollection">musiccollection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prosjek2" title="prosjek2">prosjek2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fantasticproblem" title="fantasticproblem">fantasticproblem</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/misa" title="misa">misa</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/improbable" title="improbable">improbable</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/powerstrings" title="powerstrings">powerstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enclosure" title="enclosure">enclosure</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/minimumscalar" title="minimumscalar">minimumscalar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maximizingwinnings" title="maximizingwinnings">maximizingwinnings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pointinpolygon" title="pointinpolygon">pointinpolygon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/directorymanagement" title="directorymanagement">directorymanagement</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mia" title="mia">mia</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knapsackpacking" title="knapsackpacking">knapsackpacking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pitchperformance" title="pitchperformance">pitchperformance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/demeritpoints" title="demeritpoints">demeritpoints</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/metaprogramming" title="metaprogramming">metaprogramming</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kamp" title="kamp">kamp</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/perica" title="perica">perica</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deliverydelays" title="deliverydelays">deliverydelays</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/majstor" title="majstor">majstor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/increasingsubsequence" title="increasingsubsequence">increasingsubsequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pavers" title="pavers">pavers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/climbing" title="climbing">climbing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lawnmower" title="lawnmower">lawnmower</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hogwarts2" title="hogwarts2">hogwarts2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pachinkoprobability" title="pachinkoprobability">pachinkoprobability</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blokovi" title="blokovi">blokovi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/keyboardd" title="keyboardd">keyboardd</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grasshopper" title="grasshopper">grasshopper</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/outing" title="outing">outing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/biotrip" title="biotrip">biotrip</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/communication" title="communication">communication</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatswercporto" title="greatswercporto">greatswercporto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maze" title="maze">maze</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bingoties" title="bingoties">bingoties</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hidden" title="hidden">hidden</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/generalizedrecursivefunctions" title="generalizedrecursivefunctions">generalizedrecursivefunctions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/managingpackaging" title="managingpackaging">managingpackaging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/binaryvoting" title="binaryvoting">binaryvoting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/growlinggears" title="growlinggears">growlinggears</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foodcarts" title="foodcarts">foodcarts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hotels" title="hotels">hotels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/causal" title="causal">causal</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/greedilyincreasing" title="greedilyincreasing">greedilyincreasing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flowergarden" title="flowergarden">flowergarden</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hogwarts" title="hogwarts">hogwarts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knightfly" title="knightfly">knightfly</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/gold" title="gold">gold</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fenwick" title="fenwick">fenwick</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hiddenwords" title="hiddenwords">hiddenwords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zergrush" title="zergrush">zergrush</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/george" title="george">george</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dancerecital" title="dancerecital">dancerecital</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roomba" title="roomba">roomba</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/windowshopping" title="windowshopping">windowshopping</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fbiuniversal" title="fbiuniversal">fbiuniversal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cross" title="cross">cross</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/habeascorpus" title="habeascorpus">habeascorpus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triptik" title="triptik">triptik</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/exactlyelectrical" title="exactlyelectrical">exactlyelectrical</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coveredwalkway" title="coveredwalkway">coveredwalkway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goblingardenguards" title="goblingardenguards">goblingardenguards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/suma" title="suma">suma</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/driversdilemma" title="driversdilemma">driversdilemma</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/copsandrobbers" title="copsandrobbers">copsandrobbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gettingthrough" title="gettingthrough">gettingthrough</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stack" title="stack">stack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dreamer" title="dreamer">dreamer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boundingbox" title="boundingbox">boundingbox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fulldepthmorningshow" title="fulldepthmorningshow">fulldepthmorningshow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rhino" title="rhino">rhino</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/delimitersoup" title="delimitersoup">delimitersoup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primes2" title="primes2">primes2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fractal2" title="fractal2">fractal2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/recursionrandfun" title="recursionrandfun">recursionrandfun</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dst" title="dst">dst</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beautifulprimes" title="beautifulprimes">beautifulprimes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/folding" title="folding">folding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/radar" title="radar">radar</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/conquestcampaign" title="conquestcampaign">conquestcampaign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arcticnetwork" title="arcticnetwork">arcticnetwork</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/filmcritics" title="filmcritics">filmcritics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prolongedpassword" title="prolongedpassword">prolongedpassword</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/color" title="color">color</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/appallingarchitecture" title="appallingarchitecture">appallingarchitecture</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fairbandwidthsharing" title="fairbandwidthsharing">fairbandwidthsharing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/programmingteamselection" title="programmingteamselection">programmingteamselection</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/calories" title="calories">calories</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anotherdice" title="anotherdice">anotherdice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exammanipulation" title="exammanipulation">exammanipulation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/porkbarrel" title="porkbarrel">porkbarrel</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/beehives" title="beehives">beehives</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/toys" title="toys">toys</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/entertainmentbox" title="entertainmentbox">entertainmentbox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/plankton" title="plankton">plankton</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/babylonian" title="babylonian">babylonian</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/srednji" title="srednji">srednji</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easyclimb" title="easyclimb">easyclimb</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pirate" title="pirate">pirate</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/whatdoesthefoxsay" title="whatdoesthefoxsay">whatdoesthefoxsay</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squarefieldseasy" title="squarefieldseasy">squarefieldseasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/earlyorders" title="earlyorders">earlyorders</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintedcorridors" title="paintedcorridors">paintedcorridors</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/welcomeeasy" title="welcomeeasy">welcomeeasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/romanholidays" title="romanholidays">romanholidays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/droppingball2" title="droppingball2">droppingball2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/onewayroads" title="onewayroads">onewayroads</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/insert" title="insert">insert</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rocketstages" title="rocketstages">rocketstages</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/optimistan" title="optimistan">optimistan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/milkteabattle" title="milkteabattle">milkteabattle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tram" title="tram">tram</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/purplerain" title="purplerain">purplerain</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dickandjane" title="dickandjane">dickandjane</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/meowfactor2" title="meowfactor2">meowfactor2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mailbox" title="mailbox">mailbox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/programmingtutors" title="programmingtutors">programmingtutors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coverup" title="coverup">coverup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rivers" title="rivers">rivers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thedealoftheday" title="thedealoftheday">thedealoftheday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/papersnowflakes" title="papersnowflakes">papersnowflakes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cousins" title="cousins">cousins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lockblocked" title="lockblocked">lockblocked</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thebackslashproblem" title="thebackslashproblem">thebackslashproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintball2" title="paintball2">paintball2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chesstournament" title="chesstournament">chesstournament</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knightsmarathon" title="knightsmarathon">knightsmarathon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tajna" title="tajna">tajna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ninepacks" title="ninepacks">ninepacks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cargame" title="cargame">cargame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justenoughbridges" title="justenoughbridges">justenoughbridges</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sylvester" title="sylvester">sylvester</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minspantree" title="minspantree">minspantree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cafeteria" title="cafeteria">cafeteria</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hoarsehorses" title="hoarsehorses">hoarsehorses</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sumoftheothers" title="sumoftheothers">sumoftheothers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/meltdown" title="meltdown">meltdown</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bulldozer" title="bulldozer">bulldozer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hideandseek" title="hideandseek">hideandseek</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/subwayplanning" title="subwayplanning">subwayplanning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/marchofpenguins" title="marchofpenguins">marchofpenguins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/autocorrect" title="autocorrect">autocorrect</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/heropower" title="heropower">heropower</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/softpasswords" title="softpasswords">softpasswords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicalcrystals" title="magicalcrystals">magicalcrystals</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bitcointoss" title="bitcointoss">bitcointoss</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/guessingcircle" title="guessingcircle">guessingcircle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/snapperhard" title="snapperhard">snapperhard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicalcows" title="magicalcows">magicalcows</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birthdaycake" title="birthdaycake">birthdaycake</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatcircle" title="greatcircle">greatcircle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/slatkisi" title="slatkisi">slatkisi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/macarons" title="macarons">macarons</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/barcode2" title="barcode2">barcode2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goingdutch" title="goingdutch">goingdutch</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sidewayssorting" title="sidewayssorting">sidewayssorting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lost" title="lost">lost</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/artwork" title="artwork">artwork</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gameofgnomes" title="gameofgnomes">gameofgnomes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/shopaholic" title="shopaholic">shopaholic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/segmentdistance" title="segmentdistance">segmentdistance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/apparatus" title="apparatus">apparatus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/frenemies" title="frenemies">frenemies</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sanic" title="sanic">sanic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/limbo2" title="limbo2">limbo2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/amazingadventures" title="amazingadventures">amazingadventures</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flowfinder" title="flowfinder">flowfinder</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/recount" title="recount">recount</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/limbo1" title="limbo1">limbo1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sequences" title="sequences">sequences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flowerpots" title="flowerpots">flowerpots</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/qanat" title="qanat">qanat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/walls" title="walls">walls</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lovepolygon" title="lovepolygon">lovepolygon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/escape" title="escape">escape</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/onechicken" title="onechicken">onechicken</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingscolors" title="kingscolors">kingscolors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wiknow" title="wiknow">wiknow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dungeondawdler" title="dungeondawdler">dungeondawdler</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/notamused" title="notamused">notamused</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kinarow" title="kinarow">kinarow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whenplanetoidsalign" title="whenplanetoidsalign">whenplanetoidsalign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divideandconquer" title="divideandconquer">divideandconquer</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jazzitup" title="jazzitup">jazzitup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ontrack" title="ontrack">ontrack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trezor" title="trezor">trezor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dinner" title="dinner">dinner</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/inquiryi" title="inquiryi">inquiryi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jobbyte" title="jobbyte">jobbyte</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treasuremap" title="treasuremap">treasuremap</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/craters" title="craters">craters</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/imageprocessing" title="imageprocessing">imageprocessing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hugecampus" title="hugecampus">hugecampus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/railway" title="railway">railway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/committeeassignment" title="committeeassignment">committeeassignment</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/height" title="height">height</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hoppers" title="hoppers">hoppers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tightlypacked" title="tightlypacked">tightlypacked</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bridgebuilders" title="bridgebuilders">bridgebuilders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/geneticsearch" title="geneticsearch">geneticsearch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gowithflow" title="gowithflow">gowithflow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/punctiliouscruciverbalist" title="punctiliouscruciverbalist">punctiliouscruciverbalist</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/borders" title="borders">borders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/froshweek2" title="froshweek2">froshweek2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freeweights" title="freeweights">freeweights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/table" title="table">table</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/asteroidmining" title="asteroidmining">asteroidmining</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fontan" title="fontan">fontan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestforthetrees" title="forestforthetrees">forestforthetrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stikl" title="stikl">stikl</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/antiarithmetic" title="antiarithmetic">antiarithmetic</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flippingpatties" title="flippingpatties">flippingpatties</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/factstone" title="factstone">factstone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slantdrilling" title="slantdrilling">slantdrilling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/winningthevote" title="winningthevote">winningthevote</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fastfood" title="fastfood">fastfood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/endgame" title="endgame">endgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shetalkstoangel" title="shetalkstoangel">shetalkstoangel</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/watchlater" title="watchlater">watchlater</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/euclideantsp" title="euclideantsp">euclideantsp</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/editingexplosion" title="editingexplosion">editingexplosion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roomassignments" title="roomassignments">roomassignments</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/leprechaunhunt" title="leprechaunhunt">leprechaunhunt</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/espressobucks" title="espressobucks">espressobucks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dragonball1" title="dragonball1">dragonball1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roadtrip" title="roadtrip">roadtrip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brickstopshere" title="brickstopshere">brickstopshere</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/doorman" title="doorman">doorman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/disgruntledjudge" title="disgruntledjudge">disgruntledjudge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/repeatedsubstrings" title="repeatedsubstrings">repeatedsubstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/suffidromes" title="suffidromes">suffidromes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dirtydriving" title="dirtydriving">dirtydriving</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crashingrobots" title="crashingrobots">crashingrobots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/remainderreminder" title="remainderreminder">remainderreminder</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/substitutionmania" title="substitutionmania">substitutionmania</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/crackingrsa" title="crackingrsa">crackingrsa</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crane2" title="crane2">crane2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/randomwalking" title="randomwalking">randomwalking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/qualificationround" title="qualificationround">qualificationround</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/countingtriangles" title="countingtriangles">countingtriangles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/toy" title="toy">toy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/racinggems" title="racinggems">racinggems</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/powersof2" title="powersof2">powersof2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chartingprogress" title="chartingprogress">chartingprogress</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/comma" title="comma">comma</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pollygone" title="pollygone">pollygone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/planetarygrid" title="planetarygrid">planetarygrid</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ceiling" title="ceiling">ceiling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checkingforcorrectness" title="checkingforcorrectness">checkingforcorrectness</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/physicalmusic" title="physicalmusic">physicalmusic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/streaming" title="streaming">streaming</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/busyschedule" title="busyschedule">busyschedule</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cezar" title="cezar">cezar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pandachess" title="pandachess">pandachess</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/passwords" title="passwords">passwords</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/browniepoints" title="browniepoints">browniepoints</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canvasline" title="canvasline">canvasline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nonprimefactors" title="nonprimefactors">nonprimefactors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromecrossword" title="palindromecrossword">palindromecrossword</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bishops" title="bishops">bishops</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cake" title="cake">cake</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/najkraci" title="najkraci">najkraci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mixingcolours" title="mixingcolours">mixingcolours</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bestcompression" title="bestcompression">bestcompression</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birthdayboy" title="birthdayboy">birthdayboy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maxcolorclique" title="maxcolorclique">maxcolorclique</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/matrica" title="matrica">matrica</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/towering" title="towering">towering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/base2palindrome" title="base2palindrome">base2palindrome</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/latinsquare" title="latinsquare">latinsquare</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/largeparty" title="largeparty">largeparty</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/armystrengtheasy" title="armystrengtheasy">armystrengtheasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/avoidingtheapocalypse" title="avoidingtheapocalypse">avoidingtheapocalypse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/landinheritance" title="landinheritance">landinheritance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/krtica" title="krtica">krtica</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/3dprinter" title="3dprinter">3dprinter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/favourable" title="favourable">favourable</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kralj" title="kralj">kralj</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingdoms" title="kingdoms">kingdoms</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/toilet" title="toilet">toilet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/matryoshka" title="matryoshka">matryoshka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingdomofants" title="kingdomofants">kingdomofants</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jackdawsandcrows" title="jackdawsandcrows">jackdawsandcrows</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/threepowers" title="threepowers">threepowers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zipfsong" title="zipfsong">zipfsong</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keepcalmandcarryoff" title="keepcalmandcarryoff">keepcalmandcarryoff</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/impossibleprices" title="impossibleprices">impossibleprices</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/splat" title="splat">splat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/welcomehard" title="welcomehard">welcomehard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jugglingpatterns" title="jugglingpatterns">jugglingpatterns</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hottercolder" title="hottercolder">hottercolder</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/proofs" title="proofs">proofs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/touchdown" title="touchdown">touchdown</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/juggler" title="juggler">juggler</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/friends2" title="friends2">friends2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/primepath" title="primepath">primepath</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/endoftheworld" title="endoftheworld">endoftheworld</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intervalcover" title="intervalcover">intervalcover</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freedesserts" title="freedesserts">freedesserts</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/permcode" title="permcode">permcode</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skyline" title="skyline">skyline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/helpfulcurrents" title="helpfulcurrents">helpfulcurrents</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flightsafety" title="flightsafety">flightsafety</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/perket" title="perket">perket</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromesubstring" title="palindromesubstring">palindromesubstring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/globalwarming" title="globalwarming">globalwarming</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fakeit" title="fakeit">fakeit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ornaments" title="ornaments">ornaments</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ones" title="ones">ones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eulerianpath" title="eulerianpath">eulerianpath</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/excitingtournament" title="excitingtournament">excitingtournament</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/odds" title="odds">odds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/megainversions" title="megainversions">megainversions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/engaging" title="engaging">engaging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/driverdisagreement" title="driverdisagreement">driverdisagreement</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/natrij" title="natrij">natrij</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/linearrecurrence" title="linearrecurrence">linearrecurrence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/election" title="election">election</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheetahs" title="cheetahs">cheetahs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/musicyourway" title="musicyourway">musicyourway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knapsackcollection" title="knapsackcollection">knapsackcollection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dvaput" title="dvaput">dvaput</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catmouse" title="catmouse">catmouse</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lostmap" title="lostmap">lostmap</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jetpack" title="jetpack">jetpack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/debugging" title="debugging">debugging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/busyboard" title="busyboard">busyboard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/keywords" title="keywords">keywords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/irrationaldivision" title="irrationaldivision">irrationaldivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cupid" title="cupid">cupid</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aroundthetrack2" title="aroundthetrack2">aroundthetrack2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/iboard" title="iboard">iboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greetingcard" title="greetingcard">greetingcard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subexpression" title="subexpression">subexpression</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/antennaplacement" title="antennaplacement">antennaplacement</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hotsprings" title="hotsprings">hotsprings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flygskam" title="flygskam">flygskam</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bridge" title="bridge">bridge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airport" title="airport">airport</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/eulersnumber" title="eulersnumber">eulersnumber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fenceortho" title="fenceortho">fenceortho</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/redsocks" title="redsocks">redsocks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/abinitio" title="abinitio">abinitio</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/equalsumseasy" title="equalsumseasy">equalsumseasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/faultyrobot" title="faultyrobot">faultyrobot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ballcolors" title="ballcolors">ballcolors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alternating" title="alternating">alternating</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/saxophone" title="saxophone">saxophone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enemyterritory" title="enemyterritory">enemyterritory</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bakice" title="bakice">bakice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bonsai" title="bonsai">bonsai</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/drinkingsong" title="drinkingsong">drinkingsong</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equilibrium2" title="equilibrium2">equilibrium2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arrangingwine" title="arrangingwine">arrangingwine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treehugging" title="treehugging">treehugging</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/display" title="display">display</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dartboard" title="dartboard">dartboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anewadventure" title="anewadventure">anewadventure</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/symmetry" title="symmetry">symmetry</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/compositions" title="compositions">compositions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/connectn" title="connectn">connectn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airports" title="airports">airports</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slika" title="slika">slika</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/character" title="character">character</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beepers" title="beepers">beepers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uncrossedknights" title="uncrossedknights">uncrossedknights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rinse" title="rinse">rinse</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/blackfriday" title="blackfriday">blackfriday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cartrouble" title="cartrouble">cartrouble</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/threedigits" title="threedigits">threedigits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/planestrainsbutnotautomobiles" title="planestrainsbutnotautomobiles">planestrainsbutnotautomobiles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/beekeeper" title="beekeeper">beekeeper</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bumped" title="bumped">bumped</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aliens" title="aliens">aliens</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spaceinvaders" title="spaceinvaders">spaceinvaders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/armystrengthhard" title="armystrengthhard">armystrengthhard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boomingbusiness" title="boomingbusiness">boomingbusiness</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bugs" title="bugs">bugs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anti11hard" title="anti11hard">anti11hard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/aprizenoonecanwin" title="aprizenoonecanwin">aprizenoonecanwin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bookclub" title="bookclub">bookclub</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/socialresistance" title="socialresistance">socialresistance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mcpartdeux" title="mcpartdeux">mcpartdeux</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ants" title="ants">ants</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/birthdayparadox" title="birthdayparadox">birthdayparadox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shrine" title="shrine">shrine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/manhattan" title="manhattan">manhattan</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zyxab" title="zyxab">zyxab</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/control" title="control">control</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shesallyak" title="shesallyak">shesallyak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lowtoner" title="lowtoner">lowtoner</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wordcloud" title="wordcloud">wordcloud</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/askmarilyn" title="askmarilyn">askmarilyn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/secretsantacycles" title="secretsantacycles">secretsantacycles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingdomofhamsters" title="kingdomofhamsters">kingdomofhamsters</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/whichbase" title="whichbase">whichbase</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/classy" title="classy">classy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sandart" title="sandart">sandart</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kattislittlehelpers" title="kattislittlehelpers">kattislittlehelpers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tritiling" title="tritiling">tritiling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xorsequences" title="xorsequences">xorsequences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roadwork" title="roadwork">roadwork</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justiceforants" title="justiceforants">justiceforants</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/toflur" title="toflur">toflur</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wheretolive" title="wheretolive">wheretolive</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rhombinoes" title="rhombinoes">rhombinoes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/graphicmadness" title="graphicmadness">graphicmadness</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sgcoin" title="sgcoin">sgcoin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/timezones" title="timezones">timezones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/redbluetree" title="redbluetree">redbluetree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fluffycat" title="fluffycat">fluffycat</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/secretchamber" title="secretchamber">secretchamber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/agglomerator" title="agglomerator">agglomerator</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rasterized" title="rasterized">rasterized</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/floodingfields" title="floodingfields">floodingfields</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rollcall" title="rollcall">rollcall</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/suffixarrayreconstruction" title="suffixarrayreconstruction">suffixarrayreconstruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/railroad" title="railroad">railroad</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equestriagames" title="equestriagames">equestriagames</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/reachableroads" title="reachableroads">reachableroads</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/silueta" title="silueta">silueta</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pollution" title="pollution">pollution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equality" title="equality">equality</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/vote" title="vote">vote</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/runningmom" title="runningmom">runningmom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/planetdestruction" title="planetdestruction">planetdestruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/domino" title="domino">domino</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/plot" title="plot">plot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rimski" title="rimski">rimski</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primes" title="primes">primes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checkers" title="checkers">checkers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pizzahawaii" title="pizzahawaii">pizzahawaii</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/restaurantbribes" title="restaurantbribes">restaurantbribes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paint" title="paint">paint</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/celebritysplit" title="celebritysplit">celebritysplit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pebblesolitaire" title="pebblesolitaire">pebblesolitaire</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rectangularcity" title="rectangularcity">rectangularcity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/orphanbackups" title="orphanbackups">orphanbackups</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buildboat" title="buildboat">buildboat</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/averageshard" title="averageshard">averageshard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/protectingthecollection" title="protectingthecollection">protectingthecollection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mountainvillage" title="mountainvillage">mountainvillage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bracketsequence" title="bracketsequence">bracketsequence</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pairingsocks" title="pairingsocks">pairingsocks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/playingwithnumbers" title="playingwithnumbers">playingwithnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lexicography" title="lexicography">lexicography</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bonafide" title="bonafide">bonafide</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mastermind" title="mastermind">mastermind</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/numbersetseasy" title="numbersetseasy">numbersetseasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/landscaping" title="landscaping">landscaping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bitonicordering" title="bitonicordering">bitonicordering</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/juryjeopardy" title="juryjeopardy">juryjeopardy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nonnegpartsums" title="nonnegpartsums">nonnegpartsums</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jupiter" title="jupiter">jupiter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bit4bit" title="bit4bit">bit4bit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/irepeatmyself" title="irepeatmyself">irepeatmyself</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/naturereserve" title="naturereserve">naturereserve</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inventing" title="inventing">inventing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/basicbasis" title="basicbasis">basicbasis</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/holeynqueensbatman" title="holeynqueensbatman">holeynqueensbatman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/namethatpermutation" title="namethatpermutation">namethatpermutation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intersectingrectangles" title="intersectingrectangles">intersectingrectangles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/worstweather" title="worstweather">worstweather</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/happyprime" title="happyprime">happyprime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/piano" title="piano">piano</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/golfbot" title="golfbot">golfbot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/theimp" title="theimp">theimp</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/gettowork" title="gettowork">gettowork</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/monumentmaker" title="monumentmaker">monumentmaker</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freegoodies" title="freegoodies">freegoodies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/telescope" title="telescope">telescope</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flowshop" title="flowshop">flowshop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/modulodatastructures" title="modulodatastructures">modulodatastructures</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/excellentengineers" title="excellentengineers">excellentengineers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/symmetricpolynomials" title="symmetricpolynomials">symmetricpolynomials</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/election2" title="election2">election2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingdomofcats" title="kingdomofcats">kingdomofcats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/endor" title="endor">endor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subway3" title="subway3">subway3</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bubbletea" title="bubbletea">bubbletea</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kayaking" title="kayaking">kayaking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drafttime" title="drafttime">drafttime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stickers" title="stickers">stickers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cursethedarkness" title="cursethedarkness">cursethedarkness</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justenoughwater" title="justenoughwater">justenoughwater</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/diversecookies" title="diversecookies">diversecookies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squarepie" title="squarepie">squarepie</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cookiecutter" title="cookiecutter">cookiecutter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/itsasecret" title="itsasecret">itsasecret</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/diplomacy" title="diplomacy">diplomacy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ski" title="ski">ski</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/competitivearcadebasketball" title="competitivearcadebasketball">competitivearcadebasketball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/interestingintegers" title="interestingintegers">interestingintegers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cutitout" title="cutitout">cutitout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shootout" title="shootout">shootout</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cokolada" title="cokolada">cokolada</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/integerlists" title="integerlists">integerlists</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bustour" title="bustour">bustour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/radioreceiver" title="radioreceiver">radioreceiver</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/codecleanups" title="codecleanups">codecleanups</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gradecurving" title="gradecurving">gradecurving</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brickwall" title="brickwall">brickwall</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/podnizovi" title="podnizovi">podnizovi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/climbingworm" title="climbingworm">climbingworm</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gopher2" title="gopher2">gopher2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blobsofdoom" title="blobsofdoom">blobsofdoom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pizzacutting" title="pizzacutting">pizzacutting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/circuitmath" title="circuitmath">circuitmath</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/genijalac" title="genijalac">genijalac</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/atomicenergy" title="atomicenergy">atomicenergy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/outsourcing" title="outsourcing">outsourcing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/calculatingdartscores" title="calculatingdartscores">calculatingdartscores</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fundamentalneighbors" title="fundamentalneighbors">fundamentalneighbors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arcade" title="arcade">arcade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/outofcontext" title="outofcontext">outofcontext</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bits" title="bits">bits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freighttrain" title="freighttrain">freighttrain</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aijeopardy" title="aijeopardy">aijeopardy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jogurt" title="jogurt">jogurt</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/beatspread" title="beatspread">beatspread</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/raffle" title="raffle">raffle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ads" title="ads">ads</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inspirationmanifestation" title="inspirationmanifestation">inspirationmanifestation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/babelfish" title="babelfish">babelfish</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ferryloading5" title="ferryloading5">ferryloading5</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tarotshamboast" title="tarotshamboast">tarotshamboast</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ifthenelse" title="ifthenelse">ifthenelse</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/knightjump" title="knightjump">knightjump</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/euclidsgame" title="euclidsgame">euclidsgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stackmachine" title="stackmachine">stackmachine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spidersonwater" title="spidersonwater">spidersonwater</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wizardofodds" title="wizardofodds">wizardofodds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eko" title="eko">eko</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sonofpipestream" title="sonofpipestream">sonofpipestream</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/holmes" title="holmes">holmes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/treasurehunt" title="treasurehunt">treasurehunt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divideby100" title="divideby100">divideby100</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shuffle" title="shuffle">shuffle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/holeinone" title="holeinone">holeinone</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ada" title="ada">ada</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digitdivision" title="digitdivision">digitdivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/robots" title="robots">robots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gridguardian" title="gridguardian">gridguardian</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sort" title="sort">sort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/digbuild" title="digbuild">digbuild</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/robotmaze" title="robotmaze">robotmaze</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gottacatchemall" title="gottacatchemall">gottacatchemall</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/triangle" title="triangle">triangle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deduplicatingfiles" title="deduplicatingfiles">deduplicatingfiles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/retribution" title="retribution">retribution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ridofcoins" title="ridofcoins">ridofcoins</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/santaklas" title="santaklas">santaklas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dartscoring" title="dartscoring">dartscoring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/radiotransmission" title="radiotransmission">radiotransmission</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gamesuggestions" title="gamesuggestions">gamesuggestions</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/planetaris" title="planetaris">planetaris</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/countinggis" title="countinggis">countinggis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prosjek" title="prosjek">prosjek</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gamescheduling" title="gamescheduling">gamescheduling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/periodicstrings" title="periodicstrings">periodicstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conservation" title="conservation">conservation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/puzzle2" title="puzzle2">puzzle2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forest" title="forest">forest</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/peasoup" title="peasoup">peasoup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/concentration" title="concentration">concentration</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pickingupthedice" title="pickingupthedice">pickingupthedice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/followthebouncingball" title="followthebouncingball">followthebouncingball</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/parket" title="parket">parket</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/companypicnic" title="companypicnic">companypicnic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pharmacy" title="pharmacy">pharmacy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fairdivisions" title="fairdivisions">fairdivisions</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/averageseasy" title="averageseasy">averageseasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/communicatingstrategy" title="communicatingstrategy">communicatingstrategy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/periodicpoints" title="periodicpoints">periodicpoints</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/englishrestaurant" title="englishrestaurant">englishrestaurant</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/nothanks" title="nothanks">nothanks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checkmateinone" title="checkmateinone">checkmateinone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mosaic" title="mosaic">mosaic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eksplozija" title="eksplozija">eksplozija</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/natjecanje" title="natjecanje">natjecanje</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/busplanning" title="busplanning">busplanning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/money" title="money">money</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easymultiplication" title="easymultiplication">easymultiplication</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mravi" title="mravi">mravi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/branch" title="branch">branch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mixedbasearithmetic" title="mixedbasearithmetic">mixedbasearithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dvoniz" title="dvoniz">dvoniz</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/malfunctioningrobot" title="malfunctioningrobot">malfunctioningrobot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boggle" title="boggle">boggle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mario" title="mario">mario</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drawingcircles" title="drawingcircles">drawingcircles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lindenmayorsystem" title="lindenmayorsystem">lindenmayorsystem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zapis" title="zapis">zapis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/longincsubseq" title="longincsubseq">longincsubseq</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tiling" title="tiling">tiling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jurassicjigsaw" title="jurassicjigsaw">jurassicjigsaw</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wifi" title="wifi">wifi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/longestcommonsubsequence" title="longestcommonsubsequence">longestcommonsubsequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/daringdont" title="daringdont">daringdont</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/htoo" title="htoo">htoo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vudu" title="vudu">vudu</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lista" title="lista">lista</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/commonground" title="commonground">commonground</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/honey" title="honey">honey</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/turbo" title="turbo">turbo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lights" title="lights">lights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/closestpair2" title="closestpair2">closestpair2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/gridmagic" title="gridmagic">gridmagic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangle2hexagon" title="triangle2hexagon">triangle2hexagon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justaquiz" title="justaquiz">justaquiz</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/declaration" title="declaration">declaration</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/genius" title="genius">genius</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/traintimetables" title="traintimetables">traintimetables</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ivana" title="ivana">ivana</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/candychain" title="candychain">candychain</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/throwns" title="throwns">throwns</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tightfitsudoku" title="tightfitsudoku">tightfitsudoku</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/investigatingimposters" title="investigatingimposters">investigatingimposters</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bowserspipes" title="bowserspipes">bowserspipes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fizzbuzz2" title="fizzbuzz2">fizzbuzz2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subway" title="subway">subway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/idf" title="idf">idf</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/productivity" title="productivity">productivity</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dunglish" title="dunglish">dunglish</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/socialadvertising" title="socialadvertising">socialadvertising</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icecream2" title="icecream2">icecream2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/balltricks" title="balltricks">balltricks</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/doggopher" title="doggopher">doggopher</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skilifts" title="skilifts">skilifts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hexagoncoloring" title="hexagoncoloring">hexagoncoloring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/artappreciation" title="artappreciation">artappreciation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/deceptivedice" title="deceptivedice">deceptivedice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sequence2" title="sequence2">sequence2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/haybales" title="haybales">haybales</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/queryonarray" title="queryonarray">queryonarray</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dartscores" title="dartscores">dartscores</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rockscissorspaper" title="rockscissorspaper">rockscissorspaper</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/granica" title="granica">granica</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jobbdna" title="jobbdna">jobbdna</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/crne" title="crne">crne</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/riskylottery" title="riskylottery">riskylottery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gallup" title="gallup">gallup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coincounter" title="coincounter">coincounter</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/combinationlock" title="combinationlock">combinationlock</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pullingtheirweight" title="pullingtheirweight">pullingtheirweight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestconstruction" title="forestconstruction">forestconstruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unbalancedparentheses" title="unbalancedparentheses">unbalancedparentheses</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cardboardcontainer" title="cardboardcontainer">cardboardcontainer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ticketpricing" title="ticketpricing">ticketpricing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flyswatter" title="flyswatter">flyswatter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/straza" title="straza">straza</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/backspace" title="backspace">backspace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pizza" title="pizza">pizza</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conversion" title="conversion">conversion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/smoothedgardens" title="smoothedgardens">smoothedgardens</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/areyoulistening" title="areyoulistening">areyoulistening</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pianolessons" title="pianolessons">pianolessons</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jattenfinn" title="jattenfinn">jattenfinn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sellingspatulas" title="sellingspatulas">sellingspatulas</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anothercandies" title="anothercandies">anothercandies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/otpor" title="otpor">otpor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/findinglines" title="findinglines">findinglines</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/saskatchewan" title="saskatchewan">saskatchewan</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/artichoke" title="artichoke">artichoke</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ntnuorienteering" title="ntnuorienteering">ntnuorienteering</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/figurinefigures" title="figurinefigures">figurinefigures</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/racetrack" title="racetrack">racetrack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/alldifferentdirections" title="alldifferentdirections">alldifferentdirections</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mallmania" title="mallmania">mallmania</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/farmingmars" title="farmingmars">farmingmars</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/obfuscation" title="obfuscation">obfuscation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/martiandna" title="martiandna">martiandna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/longestcommonsubstring" title="longestcommonsubstring">longestcommonsubstring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/expandingrods" title="expandingrods">expandingrods</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/norma" title="norma">norma</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bryr" title="bryr">bryr</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lipschitzconstant" title="lipschitzconstant">lipschitzconstant</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exhaustiveexperiment" title="exhaustiveexperiment">exhaustiveexperiment</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/longlongstrings" title="longlongstrings">longlongstrings</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lyklagangriti" title="lyklagangriti">lyklagangriti</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kuhar" title="kuhar">kuhar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/errands" title="errands">errands</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knox" title="knox">knox</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/universityzoning" title="universityzoning">universityzoning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joggingtrails" title="joggingtrails">joggingtrails</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ecocover" title="ecocover">ecocover</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keys" title="keys">keys</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wordsfornumbers" title="wordsfornumbers">wordsfornumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gorillas" title="gorillas">gorillas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drzava" title="drzava">drzava</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/moretriangles" title="moretriangles">moretriangles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/woodensigns" title="woodensigns">woodensigns</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goofy" title="goofy">goofy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crabbles" title="crabbles">crabbles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hauntedgraveyard" title="hauntedgraveyard">hauntedgraveyard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/woodcutting" title="woodcutting">woodcutting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goodmessages" title="goodmessages">goodmessages</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cosmocraft" title="cosmocraft">cosmocraft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gottanudge" title="gottanudge">gottanudge</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/variablearithmetic" title="variablearithmetic">variablearithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gmo" title="gmo">gmo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/classrooms" title="classrooms">classrooms</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fallingsnow" title="fallingsnow">fallingsnow</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trollhunt" title="trollhunt">trollhunt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gluttonousgoop" title="gluttonousgoop">gluttonousgoop</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/classpicture" title="classpicture">classpicture</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paired" title="paired">paired</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/textureanalysis" title="textureanalysis">textureanalysis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/galaksija" title="galaksija">galaksija</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chuck" title="chuck">chuck</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dominatingduos" title="dominatingduos">dominatingduos</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/stickysituation" title="stickysituation">stickysituation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestfires" title="forestfires">forestfires</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cdvii" title="cdvii">cdvii</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/diceandladders" title="diceandladders">diceandladders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sretan" title="sretan">sretan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/famouspagoda" title="famouspagoda">famouspagoda</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/battleofhogwarts" title="battleofhogwarts">battleofhogwarts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dance" title="dance">dance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/smartphone" title="smartphone">smartphone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/facility" title="facility">facility</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bagoftiles" title="bagoftiles">bagoftiles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coupons" title="coupons">coupons</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/simon" title="simon">simon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cpu" title="cpu">cpu</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/assemblyline" title="assemblyline">assemblyline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/classicalcounting" title="classicalcounting">classicalcounting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/putovanje" title="putovanje">putovanje</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dontfencemein" title="dontfencemein">dontfencemein</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aspenavenue" title="aspenavenue">aspenavenue</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cellularmerging" title="cellularmerging">cellularmerging</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pripreme" title="pripreme">pripreme</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dominos" title="dominos">dominos</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/manresor" title="manresor">manresor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bribingeve" title="bribingeve">bribingeve</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/permutationencryption" title="permutationencryption">permutationencryption</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/distributingseats" title="distributingseats">distributingseats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/witchdance" title="witchdance">witchdance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aliencodebreaking" title="aliencodebreaking">aliencodebreaking</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anti11" title="anti11">anti11</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/decodingthehallway" title="decodingthehallway">decodingthehallway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/winningstreak" title="winningstreak">winningstreak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/barshelf" title="barshelf">barshelf</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lockedtreasure" title="lockedtreasure">lockedtreasure</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/damsindistress" title="damsindistress">damsindistress</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whostheboss" title="whostheboss">whostheboss</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whowantstoliveforever" title="whowantstoliveforever">whowantstoliveforever</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lineup" title="lineup">lineup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crypto" title="crypto">crypto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/visual" title="visual">visual</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tugofwar" title="tugofwar">tugofwar</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ladice" title="ladice">ladice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/checks" title="checks">checks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trackingshares" title="trackingshares">trackingshares</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangles2" title="triangles2">triangles2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/grandpabernie" title="grandpabernie">grandpabernie</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/builddeps" title="builddeps">builddeps</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thepointofnoreturn" title="thepointofnoreturn">thepointofnoreturn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/theescape" title="theescape">theescape</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/goodmorning" title="goodmorning">goodmorning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bread" title="bread">bread</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/taxededitor" title="taxededitor">taxededitor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sumsets" title="sumsets">sumsets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/evenup" title="evenup">evenup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blockcrusher" title="blockcrusher">blockcrusher</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tantrix" title="tantrix">tantrix</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/science" title="science">science</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/carousel" title="carousel">carousel</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bells" title="bells">bells</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sweetandsmoky" title="sweetandsmoky">sweetandsmoky</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/program" title="program">program</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/candlebox" title="candlebox">candlebox</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beehives2" title="beehives2">beehives2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roomservice" title="roomservice">roomservice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pieceofcake" title="pieceofcake">pieceofcake</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/busnumbers" title="busnumbers">busnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/battleship" title="battleship">battleship</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/quadres" title="quadres">quadres</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pasijans" title="pasijans">pasijans</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bottledup" title="bottledup">bottledup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/azulejos" title="azulejos">azulejos</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pokeball" title="pokeball">pokeball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ograda" title="ograda">ograda</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bitbybit" title="bitbybit">bitbybit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/simplearithmetic" title="simplearithmetic">simplearithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/planete" title="planete">planete</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nvwls" title="nvwls">nvwls</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bazen" title="bazen">bazen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortestpath4" title="shortestpath4">shortestpath4</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/olympiadtraining" title="olympiadtraining">olympiadtraining</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nimcheater" title="nimcheater">nimcheater</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bard" title="bard">bard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestfruits" title="forestfruits">forestfruits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oddandevenzeroes" title="oddandevenzeroes">oddandevenzeroes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/necklace" title="necklace">necklace</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anthonyanddiablo" title="anthonyanddiablo">anthonyanddiablo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zabava" title="zabava">zabava</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nullarycomputer" title="nullarycomputer">nullarycomputer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icecream" title="icecream">icecream</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/amsterdamdistance" title="amsterdamdistance">amsterdamdistance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unreadmessages" title="unreadmessages">unreadmessages</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/newsalaries" title="newsalaries">newsalaries</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greeneggs" title="greeneggs">greeneggs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/listgame" title="listgame">listgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/turningtrominos" title="turningtrominos">turningtrominos</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/memory2" title="memory2">memory2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/feistelfun" title="feistelfun">feistelfun</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/different" title="different">different</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thesaurus" title="thesaurus">thesaurus</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/manhattanshopping" title="manhattanshopping">manhattanshopping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/debellatio" title="debellatio">debellatio</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/waif" title="waif">waif</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/studentsko" title="studentsko">studentsko</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicalgcd" title="magicalgcd">magicalgcd</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/closingtheborders" title="closingtheborders">closingtheborders</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/queenspatio" title="queenspatio">queenspatio</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stirlingsapproximation" title="stirlingsapproximation">stirlingsapproximation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/parade" title="parade">parade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catmasgifts" title="catmasgifts">catmasgifts</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/soundex" title="soundex">soundex</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stigavordur" title="stigavordur">stigavordur</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jednakost" title="jednakost">jednakost</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cars" title="cars">cars</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/snappereasy" title="snappereasy">snappereasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/safepassage" title="safepassage">safepassage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jackthelumberjack" title="jackthelumberjack">jackthelumberjack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/badpacking" title="badpacking">badpacking</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/shiritori" title="shiritori">shiritori</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roberthood" title="roberthood">roberthood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mortgage" title="mortgage">mortgage</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/attendance" title="attendance">attendance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/seti" title="seti">seti</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reversingroads" title="reversingroads">reversingroads</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/introtation" title="introtation">introtation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/areaofeffect" title="areaofeffect">areaofeffect</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/secretsanta" title="secretsanta">secretsanta</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/replicate" title="replicate">replicate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/insidersidentity" title="insidersidentity">insidersidentity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/allergy" title="allergy">allergy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/runningsteps" title="runningsteps">runningsteps</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/railway2" title="railway2">railway2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hillnumbers" title="hillnumbers">hillnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/withinarmsreach" title="withinarmsreach">withinarmsreach</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/roundedbuttons" title="roundedbuttons">roundedbuttons</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prinova" title="prinova">prinova</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hiddencamera" title="hiddencamera">hiddencamera</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wheelgame" title="wheelgame">wheelgame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/robotprotection" title="robotprotection">robotprotection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primesieve" title="primesieve">primesieve</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/help2" title="help2">help2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vending" title="vending">vending</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rhyming" title="rhyming">rhyming</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/playground" title="playground">playground</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/frozenrose" title="frozenrose">frozenrose</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uprooted" title="uprooted">uprooted</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/reseto" title="reseto">reseto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pie" title="pie">pie</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easterholidays" title="easterholidays">easterholidays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unrealestate" title="unrealestate">unrealestate</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/primaryarithmetic" title="primaryarithmetic">primaryarithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pegsandlegs" title="pegsandlegs">pegsandlegs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dugovi" title="dugovi">dugovi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangles" title="triangles">triangles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/powersof2easy" title="powersof2easy">powersof2easy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maximumsubarrays" title="maximumsubarrays">maximumsubarrays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/droppingball" title="droppingball">droppingball</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treasure" title="treasure">treasure</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/playfair" title="playfair">playfair</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ljutnja" title="ljutnja">ljutnja</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/difference" title="difference">difference</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reseplanering" title="reseplanering">reseplanering</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/platforme" title="platforme">platforme</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kinversions" title="kinversions">kinversions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dancehard" title="dancehard">dancehard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thebigmacquestion" title="thebigmacquestion">thebigmacquestion</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/piperotation" title="piperotation">piperotation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingofthewaves" title="kingofthewaves">kingofthewaves</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dailydivision" title="dailydivision">dailydivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skakavac" title="skakavac">skakavac</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/movingday" title="movingday">movingday</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/justpassingthrough" title="justpassingthrough">justpassingthrough</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/connect" title="connect">connect</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sightseeingtour" title="sightseeingtour">sightseeingtour</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kutevi" title="kutevi">kutevi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/janeeyre" title="janeeyre">janeeyre</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cockchafer" title="cockchafer">cockchafer</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rebeldie" title="rebeldie">rebeldie</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kolone" title="kolone">kolone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inspectingillumination" title="inspectingillumination">inspectingillumination</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/carpool" title="carpool">carpool</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prospecting" title="prospecting">prospecting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/judging" title="judging">judging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ingredients" title="ingredients">ingredients</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canyoncrossing" title="canyoncrossing">canyoncrossing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nanagrams" title="nanagrams">nanagrams</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jointattack" title="jointattack">jointattack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icpccamp" title="icpccamp">icpccamp</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canofworms" title="canofworms">canofworms</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/moveablemaze" title="moveablemaze">moveablemaze</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/iwannabe" title="iwannabe">iwannabe</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/halloweemirrors" title="halloweemirrors">halloweemirrors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brickpartition" title="brickpartition">brickpartition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kenken" title="kenken">kenken</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/helpme" title="helpme">helpme</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gridgame" title="gridgame">gridgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brainfsckvm" title="brainfsckvm">brainfsckvm</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kabobs" title="kabobs">kabobs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hardwoodspecies" title="hardwoodspecies">hardwoodspecies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gravity" title="gravity">gravity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blowingcandles" title="blowingcandles">blowingcandles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/highwayhassle" title="highwayhassle">highwayhassle</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/goldbach2" title="goldbach2">goldbach2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goingtoseed" title="goingtoseed">goingtoseed</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/basicinterpreter" title="basicinterpreter">basicinterpreter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gameofdivisibility" title="gameofdivisibility">gameofdivisibility</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/glyphrecognition" title="glyphrecognition">glyphrecognition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/clue" title="clue">clue</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tank" title="tank">tank</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foodreview" title="foodreview">foodreview</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fibonaccicycles" title="fibonaccicycles">fibonaccicycles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fareysums" title="fareysums">fareysums</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xormax" title="xormax">xormax</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roads" title="roads">roads</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/doubleplusgood" title="doubleplusgood">doubleplusgood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/expeditiouscubing" title="expeditiouscubing">expeditiouscubing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/weirdflecksbutok" title="weirdflecksbutok">weirdflecksbutok</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/excludescoring" title="excludescoring">excludescoring</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/crosscountry" title="crosscountry">crosscountry</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enviousexponents" title="enviousexponents">enviousexponents</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uniformsubtrees" title="uniformsubtrees">uniformsubtrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dvdscreensaver" title="dvdscreensaver">dvdscreensaver</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/busnumbers2" title="busnumbers2">busnumbers2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/contentprotection" title="contentprotection">contentprotection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/treequivalence" title="treequivalence">treequivalence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/djgigs" title="djgigs">djgigs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bobby" title="bobby">bobby</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/codenames" title="codenames">codenames</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/travelingmerchant" title="travelingmerchant">travelingmerchant</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/debug" title="debug">debug</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bachetsgame" title="bachetsgame">bachetsgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joggers" title="joggers">joggers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/topovi" title="topovi">topovi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cumulative" title="cumulative">cumulative</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/acm2" title="acm2">acm2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/burglary" title="burglary">burglary</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trip" title="trip">trip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/castingspells" title="castingspells">castingspells</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ninetynine" title="ninetynine">ninetynine</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bungeejumping" title="bungeejumping">bungeejumping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/superdoku" title="superdoku">superdoku</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/borgboogie" title="borgboogie">borgboogie</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/vaccineefficacy" title="vaccineefficacy">vaccineefficacy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arachnophobia" title="arachnophobia">arachnophobia</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sunlight" title="sunlight">sunlight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bling" title="bling">bling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tildes" title="tildes">tildes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/andrewant" title="andrewant">andrewant</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slimcut" title="slimcut">slimcut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bearlymadeit" title="bearlymadeit">bearlymadeit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/weightofwords" title="weightofwords">weightofwords</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alehouse" title="alehouse">alehouse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/single" title="single">single</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/yikes" title="yikes">yikes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/squarepegs" title="squarepegs">squarepegs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/adventuremoving4" title="adventuremoving4">adventuremoving4</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/runningroutes" title="runningroutes">runningroutes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/virussynthesis" title="virussynthesis">virussynthesis</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/smoothiestand" title="smoothiestand">smoothiestand</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bokforing" title="bokforing">bokforing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zamboni" title="zamboni">zamboni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stogovi" title="stogovi">stogovi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/shuffling" title="shuffling">shuffling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/restaurant" title="restaurant">restaurant</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/politicaldevelopment" title="politicaldevelopment">politicaldevelopment</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stampstamp" title="stampstamp">stampstamp</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/parsinghex" title="parsinghex">parsinghex</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wolf" title="wolf">wolf</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pipes2" title="pipes2">pipes2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prokletnik" title="prokletnik">prokletnik</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/narrowartgallery" title="narrowartgallery">narrowartgallery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/virtualfriends" title="virtualfriends">virtualfriends</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paleta" title="paleta">paleta</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/produktsiffra" title="produktsiffra">produktsiffra</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mountainbiking" title="mountainbiking">mountainbiking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/worminapple" title="worminapple">worminapple</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flowers" title="flowers">flowers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/probedroids" title="probedroids">probedroids</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/keepitcool" title="keepitcool">keepitcool</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thecolonizationofelgarizm" title="thecolonizationofelgarizm">thecolonizationofelgarizm</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nuremberg" title="nuremberg">nuremberg</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/poslozi" title="poslozi">poslozi</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/islands" title="islands">islands</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tenkici" title="tenkici">tenkici</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mayhem" title="mayhem">mayhem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pinball" title="pinball">pinball</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/porpoises" title="porpoises">porpoises</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/swapspace" title="swapspace">swapspace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/more10" title="more10">more10</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/letsmeet" title="letsmeet">letsmeet</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/icpcteamselection" title="icpcteamselection">icpcteamselection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/svm" title="svm">svm</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lostisclosetolose" title="lostisclosetolose">lostisclosetolose</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/learningtocode" title="learningtocode">learningtocode</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hopscotch50" title="hopscotch50">hopscotch50</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/consecutivesums" title="consecutivesums">consecutivesums</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keepthemseparated" title="keepthemseparated">keepthemseparated</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kthsubtree" title="kthsubtree">kthsubtree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fractionallotion" title="fractionallotion">fractionallotion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subway2" title="subway2">subway2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/interview" title="interview">interview</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keepitsorted" title="keepitsorted">keepitsorted</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/falcondive" title="falcondive">falcondive</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/setnja" title="setnja">setnja</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/double" title="double">double</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hubtown" title="hubtown">hubtown</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/escapewallmaria" title="escapewallmaria">escapewallmaria</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/savinguniverse" title="savinguniverse">savinguniverse</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/distinctivecharacter" title="distinctivecharacter">distinctivecharacter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/funwithfibonacci" title="funwithfibonacci">funwithfibonacci</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/elevatortrouble" title="elevatortrouble">elevatortrouble</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainfall2" title="rainfall2">rainfall2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cudak" title="cudak">cudak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/doublets" title="doublets">doublets</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dasort" title="dasort">dasort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainbowgraph" title="rainbowgraph">rainbowgraph</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuckoo" title="cuckoo">cuckoo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/containment" title="containment">containment</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/conversationlog" title="conversationlog">conversationlog</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/quantumsuperposition" title="quantumsuperposition">quantumsuperposition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/convexcontour" title="convexcontour">convexcontour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/compensation" title="compensation">compensation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cantor" title="cantor">cantor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pandapreserve" title="pandapreserve">pandapreserve</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/closestpair1" title="closestpair1">closestpair1</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cactus" title="cactus">cactus</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/brokencalculator" title="brokencalculator">brokencalculator</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/minecraftdungeons" title="minecraftdungeons">minecraftdungeons</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cliffwalk" title="cliffwalk">cliffwalk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/busclock" title="busclock">busclock</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/batmanacci" title="batmanacci">batmanacci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mathemagicians" title="mathemagicians">mathemagicians</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/debt" title="debt">debt</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/battleofpokenom" title="battleofpokenom">battleofpokenom</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/awkwardparty" title="awkwardparty">awkwardparty</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/matchgame" title="matchgame">matchgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheergame" title="cheergame">cheergame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/applemarket" title="applemarket">applemarket</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/anagramcounting" title="anagramcounting">anagramcounting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knapsack" title="knapsack">knapsack</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catandmice" title="catandmice">catandmice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aplusb" title="aplusb">aplusb</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/almostperfect" title="almostperfect">almostperfect</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jointexcavation" title="jointexcavation">jointexcavation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/atlantis" title="atlantis">atlantis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trimmingpolygons" title="trimmingpolygons">trimmingpolygons</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/4thought" title="4thought">4thought</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intents" title="intents">intents</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anttyping" title="anttyping">anttyping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trickshot" title="trickshot">trickshot</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/2048" title="2048">2048</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inflagrantedelicto" title="inflagrantedelicto">inflagrantedelicto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anothercoinweighingpuzzle" title="anothercoinweighingpuzzle">anothercoinweighingpuzzle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangularclouds" title="triangularclouds">triangularclouds</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wffnproof" title="wffnproof">wffnproof</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/incrementalinduction" title="incrementalinduction">incrementalinduction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/race" title="race">race</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/travelingsalesman" title="travelingsalesman">travelingsalesman</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hailstone" title="hailstone">hailstone</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ghostbusters" title="ghostbusters">ghostbusters</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/administrativeproblems" title="administrativeproblems">administrativeproblems</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spider" title="spider">spider</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/queens" title="queens">queens</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/garbagetracking" title="garbagetracking">garbagetracking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wiseguy" title="wiseguy">wiseguy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ringworld" title="ringworld">ringworld</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trainboarding" title="trainboarding">trainboarding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gcpc" title="gcpc">gcpc</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wire" title="wire">wire</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nnnnn" title="nnnnn">nnnnn</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trip2007" title="trip2007">trip2007</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fakenews" title="fakenews">fakenews</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/twentyfour" title="twentyfour">twentyfour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/languagesurvey" title="languagesurvey">languagesurvey</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/summertrip" title="summertrip">summertrip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/erdosnumbers" title="erdosnumbers">erdosnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/triangles3" title="triangles3">triangles3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kiwitrees" title="kiwitrees">kiwitrees</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/simplicity" title="simplicity">simplicity</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ecoins" title="ecoins">ecoins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trianglecuts" title="trianglecuts">trianglecuts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hack" title="hack">hack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/safehouses" title="safehouses">safehouses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dna" title="dna">dna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trainsorting" title="trainsorting">trainsorting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/goldbandits" title="goldbandits">goldbandits</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/polygonarea" title="polygonarea">polygonarea</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dividingkingdom" title="dividingkingdom">dividingkingdom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/redgem" title="redgem">redgem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gathering" title="gathering">gathering</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pleasegofirst" title="pleasegofirst">pleasegofirst</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/detour" title="detour">detour</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/surveillance2" title="surveillance2">surveillance2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fractaltree" title="fractaltree">fractaltree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/musicaltrees" title="musicaltrees">musicaltrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheats" title="cheats">cheats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/streamstats" title="streamstats">streamstats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/floatingpoints" title="floatingpoints">floatingpoints</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/multigram" title="multigram">multigram</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheatingbooleantree" title="cheatingbooleantree">cheatingbooleantree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/staza" title="staza">staza</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fixingbugs" title="fixingbugs">fixingbugs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/plowking" title="plowking">plowking</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/centsavings" title="centsavings">centsavings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/starsinacan" title="starsinacan">starsinacan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divljak" title="divljak">divljak</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/missinggnomes" title="missinggnomes">missinggnomes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buggyrobot2" title="buggyrobot2">buggyrobot2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stanovi" title="stanovi">stanovi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deletethis" title="deletethis">deletethis</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/matrix" title="matrix">matrix</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/brexitnegotiations" title="brexitnegotiations">brexitnegotiations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/snakes" title="snakes">snakes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crisscross" title="crisscross">crisscross</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mandelbrot" title="mandelbrot">mandelbrot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/iforaneye" title="iforaneye">iforaneye</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sellingland" title="sellingland">sellingland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cantstopplaying" title="cantstopplaying">cantstopplaying</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/incognito" title="incognito">incognito</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zigzag2" title="zigzag2">zigzag2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roundtrips" title="roundtrips">roundtrips</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pikemanhard" title="pikemanhard">pikemanhard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tutorial" title="tutorial">tutorial</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xorequation" title="xorequation">xorequation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/substrings" title="substrings">substrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arable" title="arable">arable</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/guessthedatastructure" title="guessthedatastructure">guessthedatastructure</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vivoparc" title="vivoparc">vivoparc</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rats" title="rats">rats</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/anothersubstringqueryproblem" title="anothersubstringqueryproblem">anothersubstringqueryproblem</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fromatob" title="fromatob">fromatob</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vanishingparentheses" title="vanishingparentheses">vanishingparentheses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/proteins" title="proteins">proteins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wizarddance" title="wizarddance">wizarddance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dvds" title="dvds">dvds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unfairplay" title="unfairplay">unfairplay</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prisonrearrangement" title="prisonrearrangement">prisonrearrangement</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tree" title="tree">tree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/deathtaxes" title="deathtaxes">deathtaxes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ultraquicksort" title="ultraquicksort">ultraquicksort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/princeandprincess" title="princeandprincess">princeandprincess</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ultimatepipegame" title="ultimatepipegame">ultimatepipegame</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cheese" title="cheese">cheese</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/transportationplanning" title="transportationplanning">transportationplanning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polymul2" title="polymul2">polymul2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trains" title="trains">trains</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bottles" title="bottles">bottles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tomosynthesis" title="tomosynthesis">tomosynthesis</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/poklon" title="poklon">poklon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foxandowl" title="foxandowl">foxandowl</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cuchitunnels" title="cuchitunnels">cuchitunnels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thedragonandtheknights" title="thedragonandtheknights">thedragonandtheknights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/numbersetshard" title="numbersetshard">numbersetshard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shovellingcost" title="shovellingcost">shovellingcost</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/countingstars" title="countingstars">countingstars</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/biggesttriangle" title="biggesttriangle">biggesttriangle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/nonboringsequences" title="nonboringsequences">nonboringsequences</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shovelling" title="shovelling">shovelling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/closestsums" title="closestsums">closestsums</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thathanoi" title="thathanoi">thathanoi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/numbers" title="numbers">numbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/saturnbees" title="saturnbees">saturnbees</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chess" title="chess">chess</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/taxing" title="taxing">taxing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/neverjumpdown" title="neverjumpdown">neverjumpdown</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/perfecttree" title="perfecttree">perfecttree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cantinaofbabel" title="cantinaofbabel">cantinaofbabel</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spiderman" title="spiderman">spiderman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/monitoringskipaths" title="monitoringskipaths">monitoringskipaths</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/peaktower" title="peaktower">peaktower</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/battlesimulation" title="battlesimulation">battlesimulation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/junk" title="junk">junk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gradient" title="gradient">gradient</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/niceprefixes" title="niceprefixes">niceprefixes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/industrialspy" title="industrialspy">industrialspy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sixdegrees" title="sixdegrees">sixdegrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/message" title="message">message</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/moneytransfers" title="moneytransfers">moneytransfers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wertyu" title="wertyu">wertyu</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shortestpath3" title="shortestpath3">shortestpath3</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maximizingyourpay" title="maximizingyourpay">maximizingyourpay</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maptiles" title="maptiles">maptiles</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tourdefrance" title="tourdefrance">tourdefrance</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/roadtrip2" title="roadtrip2">roadtrip2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equationsolver" title="equationsolver">equationsolver</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kcolouring" title="kcolouring">kcolouring</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/loowater" title="loowater">loowater</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/reservoir" title="reservoir">reservoir</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jumpingmonkey" title="jumpingmonkey">jumpingmonkey</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icar" title="icar">icar</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/thanos" title="thanos">thanos</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/redblacktree" title="redblacktree">redblacktree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/juice2" title="juice2">juice2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/histogrami" title="histogrami">histogrami</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/textmessaging" title="textmessaging">textmessaging</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/powers" title="powers">powers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/journalediting" title="journalediting">journalediting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hilldriving" title="hilldriving">hilldriving</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/teacherevaluation" title="teacherevaluation">teacherevaluation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/powereggs" title="powereggs">powereggs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joeislearningtospeak" title="joeislearningtospeak">joeislearningtospeak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hardevidence" title="hardevidence">hardevidence</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/2naire" title="2naire">2naire</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polyomino" title="polyomino">polyomino</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/inkblots" title="inkblots">inkblots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/guessthenumbers" title="guessthenumbers">guessthenumbers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rot" title="rot">rot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/geometry" title="geometry">geometry</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bettor" title="bettor">bettor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/friendlyfire" title="friendlyfire">friendlyfire</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/reducedidnumbers" title="reducedidnumbers">reducedidnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pedalpower" title="pedalpower">pedalpower</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gravamen" title="gravamen">gravamen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fishingcontest" title="fishingcontest">fishingcontest</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/recenice" title="recenice">recenice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hyperpyramids" title="hyperpyramids">hyperpyramids</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/godzilla" title="godzilla">godzilla</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dryicecream" title="dryicecream">dryicecream</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pyramidkonstruktion" title="pyramidkonstruktion">pyramidkonstruktion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/overlappingmaps" title="overlappingmaps">overlappingmaps</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/galactic" title="galactic">galactic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dangerousskiing" title="dangerousskiing">dangerousskiing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/posterize" title="posterize">posterize</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/messages" title="messages">messages</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freecell" title="freecell">freecell</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cycleshard" title="cycleshard">cycleshard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/playingtheslots" title="playingtheslots">playingtheslots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/manhattanmornings" title="manhattanmornings">manhattanmornings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ferryloading" title="ferryloading">ferryloading</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/countingpalindromes" title="countingpalindromes">countingpalindromes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/neutralground" title="neutralground">neutralground</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/luckynumber" title="luckynumber">luckynumber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fencing" title="fencing">fencing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buriedtreasure" title="buriedtreasure">buriedtreasure</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/missingnumber" title="missingnumber">missingnumber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/litespace" title="litespace">litespace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/familiar" title="familiar">familiar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/buenosairlines" title="buenosairlines">buenosairlines</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/millionairemadness" title="millionairemadness">millionairemadness</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lazylearner" title="lazylearner">lazylearner</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/evolution" title="evolution">evolution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/basincity" title="basincity">basincity</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/maximumrent" title="maximumrent">maximumrent</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joinstrings" title="joinstrings">joinstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/elderscrollbar" title="elderscrollbar">elderscrollbar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maintenance" title="maintenance">maintenance</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/marblestree" title="marblestree">marblestree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jailbreak" title="jailbreak">jailbreak</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eeriesubarrays" title="eeriesubarrays">eeriesubarrays</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/assistantranking" title="assistantranking">assistantranking</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/islandhopping" title="islandhopping">islandhopping</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ironman" title="ironman">ironman</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/directingrainfall" title="directingrainfall">directingrainfall</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zabe" title="zabe">zabe</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/illiteracy" title="illiteracy">illiteracy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/screen" title="screen">screen</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/costlycontest" title="costlycontest">costlycontest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/structuralintegrity" title="structuralintegrity">structuralintegrity</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/horror" title="horror">horror</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gruesomecave" title="gruesomecave">gruesomecave</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coprimeintegers" title="coprimeintegers">coprimeintegers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sms" title="sms">sms</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rectangularspiral" title="rectangularspiral">rectangularspiral</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gigcombinatorics" title="gigcombinatorics">gigcombinatorics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/codetheft" title="codetheft">codetheft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polygon" title="polygon">polygon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/geppetto" title="geppetto">geppetto</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ghostbusters2" title="ghostbusters2">ghostbusters2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cheatingluck" title="cheatingluck">cheatingluck</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maze2" title="maze2">maze2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flowfree" title="flowfree">flowfree</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gamenight" title="gamenight">gamenight</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/catenyms" title="catenyms">catenyms</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/knightofthetarotcards" title="knightofthetarotcards">knightofthetarotcards</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fencebowling" title="fencebowling">fencebowling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fulltank" title="fulltank">fulltank</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bundles" title="bundles">bundles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thief" title="thief">thief</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dyslectionary" title="dyslectionary">dyslectionary</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/freckles" title="freckles">freckles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fence2" title="fence2">fence2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jabuke2" title="jabuke2">jabuke2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dodecaphony" title="dodecaphony">dodecaphony</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foldedmap" title="foldedmap">foldedmap</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/biggest" title="biggest">biggest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/intellectualproperty" title="intellectualproperty">intellectualproperty</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/safe" title="safe">safe</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/firstofhername" title="firstofhername">firstofhername</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beautifulsquare" title="beautifulsquare">beautifulsquare</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/infectionestimation" title="infectionestimation">infectionestimation</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/catcoat" title="catcoat">catcoat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fibonacci" title="fibonacci">fibonacci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/apostrophecatastrophe" title="apostrophecatastrophe">apostrophecatastrophe</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/firingphaser" title="firingphaser">firingphaser</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pikemaneasy" title="pikemaneasy">pikemaneasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crni" title="crni">crni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/abstractart" title="abstractart">abstractart</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cpu2" title="cpu2">cpu2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/airconditioned" title="airconditioned">airconditioned</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coci" title="coci">coci</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/snobollskrig2" title="snobollskrig2">snobollskrig2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/enigma" title="enigma">enigma</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fluortanten" title="fluortanten">fluortanten</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/chocolates" title="chocolates">chocolates</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zoninghouses" title="zoninghouses">zoninghouses</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/darts" title="darts">darts</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rafting" title="rafting">rafting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/busticket" title="busticket">busticket</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/v" title="v">v</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cairocorridor" title="cairocorridor">cairocorridor</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/turtlemaster" title="turtlemaster">turtlemaster</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beeproblem" title="beeproblem">beeproblem</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tourist" title="tourist">tourist</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boardcovering" title="boardcovering">boardcovering</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tiredterry" title="tiredterry">tiredterry</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/walkforest" title="walkforest">walkforest</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingswalk" title="kingswalk">kingswalk</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/betweendarkanddawn" title="betweendarkanddawn">betweendarkanddawn</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tiles" title="tiles">tiles</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/assassins" title="assassins">assassins</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stringgame" title="stringgame">stringgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bats" title="bats">bats</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/mazemakers" title="mazemakers">mazemakers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/addemup" title="addemup">addemup</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/starwarsmovies" title="starwarsmovies">starwarsmovies</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ascendingphoto" title="ascendingphoto">ascendingphoto</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/snim" title="snim">snim</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zoning" title="zoning">zoning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/starwars" title="starwars">starwars</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/typecharts" title="typecharts">typecharts</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/sequentialmanufacturing" title="sequentialmanufacturing">sequentialmanufacturing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uzastopni" title="uzastopni">uzastopni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/securitybadge" title="securitybadge">securitybadge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stretching" title="stretching">stretching</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/problemclassification" title="problemclassification">problemclassification</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/usingdigits" title="usingdigits">usingdigits</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/scenery" title="scenery">scenery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skysthelimit" title="skysthelimit">skysthelimit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/peggamefortwo" title="peggamefortwo">peggamefortwo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/uniquedice" title="uniquedice">uniquedice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/returnofthejedi" title="returnofthejedi">returnofthejedi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/shotcube" title="shotcube">shotcube</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/outofsorts" title="outofsorts">outofsorts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whiterabbit" title="whiterabbit">whiterabbit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/redoks" title="redoks">redoks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/flightpath" title="flightpath">flightpath</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/moneymatters" title="moneymatters">moneymatters</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/politics" title="politics">politics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/putnik" title="putnik">putnik</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/russiandolls" title="russiandolls">russiandolls</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/milestones" title="milestones">milestones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sound" title="sound">sound</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pseudorandomnumbers" title="pseudorandomnumbers">pseudorandomnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromes" title="palindromes">palindromes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/lektira" title="lektira">lektira</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subsequencesinsubstrings" title="subsequencesinsubstrings">subsequencesinsubstrings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/princeza" title="princeza">princeza</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maxloot" title="maxloot">maxloot</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/kaleidoscopicpalindromes" title="kaleidoscopicpalindromes">kaleidoscopicpalindromes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stretchingstreamers" title="stretchingstreamers">stretchingstreamers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/poplocavanje" title="poplocavanje">poplocavanje</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lcmtree" title="lcmtree">lcmtree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/integerdivision" title="integerdivision">integerdivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stopcounting" title="stopcounting">stopcounting</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pieceittogether" title="pieceittogether">pieceittogether</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kemija" title="kemija">kemija</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ignore" title="ignore">ignore</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/spaceprobe" title="spaceprobe">spaceprobe</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/permrle" title="permrle">permrle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/guessthedigits" title="guessthedigits">guessthedigits</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/hypercube" title="hypercube">hypercube</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slom" title="slom">slom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/review" title="review">review</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestofcelery" title="forestofcelery">forestofcelery</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/guess" title="guess">guess</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sheldon" title="sheldon">sheldon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/parovi2" title="parovi2">parovi2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dominant" title="dominant">dominant</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/guessinggame" title="guessinggame">guessinggame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sabor" title="sabor">sabor</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pachinko" title="pachinko">pachinko</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuttingstrings" title="cuttingstrings">cuttingstrings</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/grid" title="grid">grid</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/razbibriga" title="razbibriga">razbibriga</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/multitouch" title="multitouch">multitouch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cuttingpolygon" title="cuttingpolygon">cuttingpolygon</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/golombrulers" title="golombrulers">golombrulers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/passingsecrets" title="passingsecrets">passingsecrets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/modelling" title="modelling">modelling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/courseplanning" title="courseplanning">courseplanning</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fridge" title="fridge">fridge</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/particlecollision" title="particlecollision">particlecollision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/linije" title="linije">linije</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/colorwalk" title="colorwalk">colorwalk</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/fractalarea" title="fractalarea">fractalarea</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oceancurrents" title="oceancurrents">oceancurrents</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/segmentintersection" title="segmentintersection">segmentintersection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/boom" title="boom">boom</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/floodit" title="floodit">floodit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/multiplicationgame" title="multiplicationgame">multiplicationgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jusaccrescendi" title="jusaccrescendi">jusaccrescendi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/solarly" title="solarly">solarly</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/flipfive" title="flipfive">flipfive</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lumbercraft" title="lumbercraft">lumbercraft</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jurassicjungle" title="jurassicjungle">jurassicjungle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aladin" title="aladin">aladin</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/findpoly" title="findpoly">findpoly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/letterwheels" title="letterwheels">letterwheels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jumpingyoshi" title="jumpingyoshi">jumpingyoshi</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/3sideddice" title="3sideddice">3sideddice</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ferryloading4" title="ferryloading4">ferryloading4</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/keyboard" title="keyboard">keyboard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joiningnetwork" title="joiningnetwork">joiningnetwork</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/winterroads" title="winterroads">winterroads</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/eatingout" title="eatingout">eatingout</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/juice" title="juice">juice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tower" title="tower">tower</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/amiga" title="amiga">amiga</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/downtime" title="downtime">downtime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/joiningflows" title="joiningflows">joiningflows</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hexagon" title="hexagon">hexagon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tourdefrance2" title="tourdefrance2">tourdefrance2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/countingchocolate" title="countingchocolate">countingchocolate</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jobpostings" title="jobpostings">jobpostings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/camels" title="camels">camels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/theendingoftheendpart1" title="theendingoftheendpart1">theendingoftheendpart1</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/capsules" title="capsules">capsules</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beanbag" title="beanbag">beanbag</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/getrichquickschemes" title="getrichquickschemes">getrichquickschemes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bookcase" title="bookcase">bookcase</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bridgesandtunnels" title="bridgesandtunnels">bridgesandtunnels</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/itcanbearranged" title="itcanbearranged">itcanbearranged</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gears" title="gears">gears</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sudokunique" title="sudokunique">sudokunique</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/arithmeticdecoding" title="arithmeticdecoding">arithmeticdecoding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ironcoal" title="ironcoal">ironcoal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/forestevolution" title="forestevolution">forestevolution</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/subwaymap" title="subwaymap">subwaymap</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/allaboutthatbase" title="allaboutthatbase">allaboutthatbase</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/incaseofinvasion" title="incaseofinvasion">incaseofinvasion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/findingpolly" title="findingpolly">findingpolly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/studentcounsel" title="studentcounsel">studentcounsel</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zebrasocelots" title="zebrasocelots">zebrasocelots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/importspaghetti" title="importspaghetti">importspaghetti</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/factovisors" title="factovisors">factovisors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/snowninjas" title="snowninjas">snowninjas</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/newfiber" title="newfiber">newfiber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/imagecompression" title="imagecompression">imagecompression</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exitsinexcess" title="exitsinexcess">exitsinexcess</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/odometeranalysis" title="odometeranalysis">odometeranalysis</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/water" title="water">water</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hyacinth" title="hyacinth">hyacinth</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/evenland" title="evenland">evenland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kitesurfing" title="kitesurfing">kitesurfing</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/trojke" title="trojke">trojke</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gcds" title="gcds">gcds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/equinumerous" title="equinumerous">equinumerous</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jackjill" title="jackjill">jackjill</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/tgif" title="tgif">tgif</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/frogger" title="frogger">frogger</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divisorgame" title="divisorgame">divisorgame</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/interception" title="interception">interception</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/textencryption" title="textencryption">textencryption</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fairwarning" title="fairwarning">fairwarning</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crackingthecode" title="crackingthecode">crackingthecode</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fancy" title="fancy">fancy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/smallschedule" title="smallschedule">smallschedule</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/exactchange2" title="exactchange2">exactchange2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/commemorativerace" title="commemorativerace">commemorativerace</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easyprobability" title="easyprobability">easyprobability</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/scrollingsign" title="scrollingsign">scrollingsign</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/erraticants" title="erraticants">erraticants</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/canthoexpressway" title="canthoexpressway">canthoexpressway</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blacksmithtraining" title="blacksmithtraining">blacksmithtraining</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/rotatecut" title="rotatecut">rotatecut</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/divisors" title="divisors">divisors</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/blazingnewtrails" title="blazingnewtrails">blazingnewtrails</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bakterije" title="bakterije">bakterije</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/delivery" title="delivery">delivery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deadfraction" title="deadfraction">deadfraction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/biometrics" title="biometrics">biometrics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gerrymander" title="gerrymander">gerrymander</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pathtracing" title="pathtracing">pathtracing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crane" title="crane">crane</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bicikli" title="bicikli">bicikli</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tagresan" title="tagresan">tagresan</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/speed" title="speed">speed</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cookieselection" title="cookieselection">cookieselection</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/avoidingairports" title="avoidingairports">avoidingairports</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tripletfreequeens" title="tripletfreequeens">tripletfreequeens</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/modulararithmetic" title="modulararithmetic">modulararithmetic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/conveyorbelts" title="conveyorbelts">conveyorbelts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/convex" title="convex">convex</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tangotango" title="tangotango">tangotango</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/keypad" title="keypad">keypad</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/colorland" title="colorland">colorland</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/almostunionfind" title="almostunionfind">almostunionfind</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sudoku" title="sudoku">sudoku</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/longswaps" title="longswaps">longswaps</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bestrational" title="bestrational">bestrational</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alea" title="alea">alea</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sneakattack" title="sneakattack">sneakattack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/logo" title="logo">logo</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wordclouds" title="wordclouds">wordclouds</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/genetics2" title="genetics2">genetics2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ambush" title="ambush">ambush</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/monopoly" title="monopoly">monopoly</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wherehaveyoubin" title="wherehaveyoubin">wherehaveyoubin</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/jatten" title="jatten">jatten</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/costofliving" title="costofliving">costofliving</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jollyjumpers" title="jollyjumpers">jollyjumpers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/grass" title="grass">grass</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lampknappar" title="lampknappar">lampknappar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/condorcet" title="condorcet">condorcet</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/apples" title="apples">apples</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thekingofthenorth" title="thekingofthenorth">thekingofthenorth</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/trickandtreat" title="trickandtreat">trickandtreat</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/barktree" title="barktree">barktree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/enlarginghashtables" title="enlarginghashtables">enlarginghashtables</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/targetpractice" title="targetpractice">targetpractice</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zuma" title="zuma">zuma</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/friends" title="friends">friends</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dobra" title="dobra">dobra</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stoichiometry" title="stoichiometry">stoichiometry</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/xyzzy" title="xyzzy">xyzzy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alchemy" title="alchemy">alchemy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cuttingcorners" title="cuttingcorners">cuttingcorners</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sentryrobots" title="sentryrobots">sentryrobots</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/winterfestival" title="winterfestival">winterfestival</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/threedprinter" title="threedprinter">threedprinter</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cropeasy" title="cropeasy">cropeasy</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hnumbers" title="hnumbers">hnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/whatsinit" title="whatsinit">whatsinit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mwvc" title="mwvc">mwvc</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/clockconstruction" title="clockconstruction">clockconstruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rings" title="rings">rings</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/videopoker" title="videopoker">videopoker</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/widgettree" title="widgettree">widgettree</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/circular" title="circular">circular</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/orders" title="orders">orders</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/vacuum" title="vacuum">vacuum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tictactoe" title="tictactoe">tictactoe</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/cheeseifyouplease" title="cheeseifyouplease">cheeseifyouplease</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainbowroads" title="rainbowroads">rainbowroads</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/unicycliccount" title="unicycliccount">unicycliccount</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/playlist" title="playlist">playlist</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chatter" title="chatter">chatter</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/primalrepresentation" title="primalrepresentation">primalrepresentation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tickets" title="tickets">tickets</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicaldistances" title="magicaldistances">magicaldistances</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/caveexploration2" title="caveexploration2">caveexploration2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/presidentialelections" title="presidentialelections">presidentialelections</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/stol" title="stol">stol</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/finalexam" title="finalexam">finalexam</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/catalansquare" title="catalansquare">catalansquare</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/paintingafence" title="paintingafence">paintingafence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/carpet" title="carpet">carpet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easyquery" title="easyquery">easyquery</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/candydivision" title="candydivision">candydivision</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/origami" title="origami">origami</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/squarerooms" title="squarerooms">squarerooms</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/downpayment" title="downpayment">downpayment</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bootstrappingnumber" title="bootstrappingnumber">bootstrappingnumber</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/muzicari" title="muzicari">muzicari</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/monkey" title="monkey">monkey</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/citytour" title="citytour">citytour</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/bigtruck" title="bigtruck">bigtruck</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mali" title="mali">mali</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skiing" title="skiing">skiing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/skogsbrand" title="skogsbrand">skogsbrand</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/basicremains" title="basicremains">basicremains</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/low" title="low">low</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/prefixfreecode" title="prefixfreecode">prefixfreecode</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/appelspelet" title="appelspelet">appelspelet</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/alphabet" title="alphabet">alphabet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/littletoys" title="littletoys">littletoys</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pokegene" title="pokegene">pokegene</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/visitorstrain" title="visitorstrain">visitorstrain</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zipline" title="zipline">zipline</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lcmpairsum" title="lcmpairsum">lcmpairsum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pixelated" title="pixelated">pixelated</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pipes" title="pipes">pipes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/zagrade" title="zagrade">zagrade</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kratki" title="kratki">kratki</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mushroommisery" title="mushroommisery">mushroommisery</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wine" title="wine">wine</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wimbledon" title="wimbledon">wimbledon</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kolinje" title="kolinje">kolinje</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/medals" title="medals">medals</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maxexpression" title="maxexpression">maxexpression</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/units" title="units">units</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kitchencombinatorics" title="kitchencombinatorics">kitchencombinatorics</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/lifeguards" title="lifeguards">lifeguards</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/foodreviewhard" title="foodreviewhard">foodreviewhard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/torn2pieces" title="torn2pieces">torn2pieces</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/historicexhibition" title="historicexhibition">historicexhibition</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kletva" title="kletva">kletva</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/drivesafely" title="drivesafely">drivesafely</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/succession" title="succession">succession</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/han" title="han">han</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kallaxconstruction" title="kallaxconstruction">kallaxconstruction</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/callacab" title="callacab">callacab</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/researchproductivityindex" title="researchproductivityindex">researchproductivityindex</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/greatexpectations" title="greatexpectations">greatexpectations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kaboom" title="kaboom">kaboom</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/busschedules" title="busschedules">busschedules</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/radir" title="radir">radir</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/game" title="game">game</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/initials" title="initials">initials</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/easyascab" title="easyascab">easyascab</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pseudoprime" title="pseudoprime">pseudoprime</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/froshweek" title="froshweek">froshweek</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hilbertsort" title="hilbertsort">hilbertsort</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/aroundthetrack" title="aroundthetrack">aroundthetrack</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/polish" title="polish">polish</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/explosion" title="explosion">explosion</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hidingchickens" title="hidingchickens">hidingchickens</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ahorseshoein" title="ahorseshoein">ahorseshoein</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/pivot" title="pivot">pivot</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/expectingrain" title="expectingrain">expectingrain</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/gasstationnumbers" title="gasstationnumbers">gasstationnumbers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/swapfrenzy" title="swapfrenzy">swapfrenzy</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/ovalwatch" title="ovalwatch">ovalwatch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/emptyingbaltic" title="emptyingbaltic">emptyingbaltic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/evenodd" title="evenodd">evenodd</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/ranklistsorting" title="ranklistsorting">ranklistsorting</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/loopytransit" title="loopytransit">loopytransit</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/elementarymath" title="elementarymath">elementarymath</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/deckrandomisation" title="deckrandomisation">deckrandomisation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oop" title="oop">oop</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/knightsearch" title="knightsearch">knightsearch</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/efficientexchange" title="efficientexchange">efficientexchange</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/city" title="city">city</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/oldschooldays" title="oldschooldays">oldschooldays</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/jughard" title="jughard">jughard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dexsave" title="dexsave">dexsave</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/budget" title="budget">budget</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/kingdomofkittens" title="kingdomofkittens">kingdomofkittens</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/infiniteslides" title="infiniteslides">infiniteslides</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/crazedboar" title="crazedboar">crazedboar</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/bipartitebattle" title="bipartitebattle">bipartitebattle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/eggs" title="eggs">eggs</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/imagedecoding" title="imagedecoding">imagedecoding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/countingcodes" title="countingcodes">countingcodes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/beetle" title="beetle">beetle</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/banjo" title="banjo">banjo</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/iks" title="iks">iks</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/countdown" title="countdown">countdown</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/basic" title="basic">basic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/atrivialpursuit" title="atrivialpursuit">atrivialpursuit</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/harddrive" title="harddrive">harddrive</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/coloring" title="coloring">coloring</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/barica" title="barica">barica</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/worm" title="worm">worm</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/telephones" title="telephones">telephones</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/circumsphere" title="circumsphere">circumsphere</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/alienmicrowave" title="alienmicrowave">alienmicrowave</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/fries" title="fries">fries</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/forests" title="forests">forests</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cd" title="cd">cd</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/airlinehub" title="airlinehub">airlinehub</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/magicalstring" title="magicalstring">magicalstring</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/orchard" title="orchard">orchard</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/camplunches" title="camplunches">camplunches</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/zgodan" title="zgodan">zgodan</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/funnygames" title="funnygames">funnygames</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/evilstraw" title="evilstraw">evilstraw</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/automatictrading" title="automatictrading">automatictrading</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wordequations" title="wordequations">wordequations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/div2mul2mul3" title="div2mul2mul3">div2mul2mul3</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/europeantrip" title="europeantrip">europeantrip</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/arrayofdiscord" title="arrayofdiscord">arrayofdiscord</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/wedding" title="wedding">wedding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/connectdots" title="connectdots">connectdots</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/draughts" title="draughts">draughts</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rationalsequence" title="rationalsequence">rationalsequence</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/variabelnamn" title="variabelnamn">variabelnamn</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/listgame2" title="listgame2">listgame2</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/dominoes2" title="dominoes2">dominoes2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/altruisticamphibians" title="altruisticamphibians">altruisticamphibians</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/toursdesalesforce" title="toursdesalesforce">toursdesalesforce</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/textprocessor" title="textprocessor">textprocessor</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/decisions" title="decisions">decisions</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/citations" title="citations">citations</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thesockpile" title="thesockpile">thesockpile</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/icefloes" title="icefloes">icefloes</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/stockbroker" title="stockbroker">stockbroker</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/driving" title="driving">driving</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/polarexpress" title="polarexpress">polarexpress</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/hiringfiring" title="hiringfiring">hiringfiring</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/crowdcontrol" title="crowdcontrol">crowdcontrol</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/twoknights" title="twoknights">twoknights</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/theendingoftheendpart2" title="theendingoftheendpart2">theendingoftheendpart2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/harvard" title="harvard">harvard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chopwood" title="chopwood">chopwood</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tombraider" title="tombraider">tombraider</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/test2" title="test2">test2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/balancedcut" title="balancedcut">balancedcut</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/chewbacca" title="chewbacca">chewbacca</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/slikar2" title="slikar2">slikar2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/target" title="target">target</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/246greaaat" title="246greaaat">246greaaat</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/canvas" title="canvas">canvas</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rimstyrka" title="rimstyrka">rimstyrka</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/takeover" title="takeover">takeover</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mnist2class" title="mnist2class">mnist2class</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/buttonbashing" title="buttonbashing">buttonbashing</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rectilinear" title="rectilinear">rectilinear</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/swimmingballs" title="swimmingballs">swimmingballs</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/tsp" title="tsp">tsp</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/buslines" title="buslines">buslines</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/rainbowtrees" title="rainbowtrees">rainbowtrees</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/sumandproduct" title="sumandproduct">sumandproduct</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/husbygge" title="husbygge">husbygge</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/blockgame2" title="blockgame2">blockgame2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/pravokutni" title="pravokutni">pravokutni</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/scaffolding" title="scaffolding">scaffolding</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/dictionary" title="dictionary">dictionary</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/asciifigurerotation" title="asciifigurerotation">asciifigurerotation</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mosquitoes" title="mosquitoes">mosquitoes</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/savez" title="savez">savez</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/woodencrates" title="woodencrates">woodencrates</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/architecture" title="architecture">architecture</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/perfectpowers" title="perfectpowers">perfectpowers</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/restoran" title="restoran">restoran</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/towers" title="towers">towers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/paths" title="paths">paths</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/palindromicdna" title="palindromicdna">palindromicdna</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/simplification" title="simplification">simplification</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/thewireghost" title="thewireghost">thewireghost</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/raidteams" title="raidteams">raidteams</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/organising" title="organising">organising</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/patuljci2" title="patuljci2">patuljci2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/printerscheduling" title="printerscheduling">printerscheduling</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/clinic" title="clinic">clinic</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/contestscheduling" title="contestscheduling">contestscheduling</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/museum" title="museum">museum</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mravihard" title="mravihard">mravihard</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/basicprogramming2" title="basicprogramming2">basicprogramming2</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mincostmaxflow" title="mincostmaxflow">mincostmaxflow</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mravojed" title="mravojed">mravojed</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/cameramakers" title="cameramakers">cameramakers</a></td>
-</tr>
-<tr>
-<td>🔰 <a href="https://open.kattis.com/problems/wheresmyinternet" title="wheresmyinternet">wheresmyinternet</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/maxcolinear" title="maxcolinear">maxcolinear</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/metal" title="metal">metal</a></td>
-<td>🔰 <a href="https://open.kattis.com/problems/mnist10class" title="mnist10class">mnist10class</a></td>
-</tr>
-</tbody>
-</table>
-<blockquote>
-<h3>AND NOW LAST BUT THE BEAST😈 problems waiting for you for a long time</h3>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">&lt;/&gt;</th>
-<th style="text-align:center">&lt;/&gt;</th>
-<th style="text-align:center">Very Hard</th>
-<th style="text-align:center">&lt;/&gt;</th>
-<th style="text-align:center">&lt;/&gt;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">🔰<a href="https://open.kattis.com/problems/satisfaction" title="satisfaction">satisfaction</a></td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-</tr>
-<tr>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">🔰<a href="https://open.kattis.com/problems/hopper" title="hopper">hopper</a></td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-</tr>
-<tr>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">🔰<a href="https://open.kattis.com/problems/magicalmysteryknigh" title="magicalmysteryknigh">magicalmysteryknigh</a></td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-<td style="text-align:center">&lt;........./.........&gt;</td>
-</tr>
-</tbody>
-</table>
-<br>
-### CONTACT && SUPPORT && SUGGESTION
-<br>
->### </>_For any support. Feel free to give any relevent suggestion to this noob
-<br>
-📧: Email me dummyforsunil@gmail.com
-<br>
-Made in IN. && Made for WORLD.
-<br>
-Copyright ©️ 2021 [sunil-shukla](contestarchive.github.io)
+| Easy                                                                                                                                                | Lower Medium                                                                                                                               | Upper Medium                                                                                                                      | Hard                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| :beginner: [tarifa](https://open.katts.com/problems/tarifa "tarifa")                                                                                | :beginner: [weather](https://open.kattis.com/problems/weather "weather")                                                                   | :beginner: [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring")                                           | :beginner: [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |
+| :beginner: [twostones](https://open.kattis.com/problems/twostones "twostones")                                                                      | :beginner: [ummcode](https://open.kattis.com/problems/ummcode "ummcode")                                                                   | :beginner: [likenooneeverwas](https://open.kattis.com/problems/likenooneeverwas "likenooneeverwas")                               | :beginner: [kraljevi](https://open.kattis.com/problems/kraljevi "kraljevi")                                                                |
+| :beginner: [timeloop](https://open.kattis.com/problems/timeloop "timeloop")                                                                         | :beginner: [monk](https://open.kattis.com/problems/monk "monk")                                                                            | :beginner: [dogs](https://open.kattis.com/problems/dogs "dogs")                                                                   | :beginner: [intercept](https://open.kattis.com/problems/intercept "intercept")                                                             |
+| :beginner: [stopwatch](https://open.kattis.com/problems/stopwatch "stopwatch")                                                                      | :beginner: [uxuhulvoting](https://open.kattis.com/problems/uxuhulvoting "uxuhulvoting")                                                    | :beginner: [iou](https://open.kattis.com/problems/iou "iou")                                                                      | :beginner: [installingapps](https://open.kattis.com/problems/installingapps "installingapps")                                              |
+| :beginner: [carrots](https://open.kattis.com/problems/carrots "carrots")                                                                            | :beginner: [tautology](https://open.kattis.com/problems/tautology "tautology")                                                             | :beginner: [infinite2darray](https://open.kattis.com/problems/infinite2darray "infinite2darray")                                  | :beginner: [homework](https://open.kattis.com/problems/homework "homework")                                                                |
+| :beginner: [ratingproblems](https://open.kattis.com/problems/ratingproblems "ratingproblems")                                                       | :beginner: [selfsimilarstrings](https://open.kattis.com/problems/selfsimilarstrings "selfsimilarstrings")                                  | :beginner: [igra](https://open.kattis.com/problems/igra "igra")                                                                   | :beginner: [hammertime](https://open.kattis.com/problems/hammertime "hammertime")                                                          |
+| :beginner: [qaly](https://open.kattis.com/problems/qaly "qaly")                                                                                     | :beginner: [roompainting](https://open.kattis.com/problems/roompainting "roompainting")                                                    | :beginner: [haiku](https://open.kattis.com/problems/haiku "haiku")                                                                | :beginner: [ith](https://open.kattis.com/problems/ith "ith")                                                                               |
+| :beginner: [quadrant](https://open.kattis.com/problems/quadrant "quadrant")                                                                         | :beginner: [repeatingdecimal](https://open.kattis.com/problems/repeatingdecimal "repeatingdecimal")                                        | :beginner: [garden](https://open.kattis.com/problems/garden "garden")                                                             | :beginner: [flippingcards](https://open.kattis.com/problems/flippingcards "flippingcards")                                                 |
+| :beginner: [pot](https://open.kattis.com/problems/pot "pot")                                                                                        | :beginner: [rationalarithmetic](https://open.kattis.com/problems/rationalarithmetic "rationalarithmetic")                                  | :beginner: [foldingacube](https://open.kattis.com/problems/foldingacube "foldingacube")                                           | :beginner: [evolutions](https://open.kattis.com/problems/evolutions "evolutions")                                                          |
+| :beginner: [planina](https://open.kattis.com/problems/planina "planina")                                                                            | :beginner: [opensource](https://open.kattis.com/problems/opensource "opensource")                                                          | :beginner: [flightplan](https://open.kattis.com/problems/flightplan "flightplan")                                                 | :beginner: [drowningcombinatorist](https://open.kattis.com/problems/drowningcombinatorist "drowningcombinatorist")                         |
+| :beginner: [pet](https://open.kattis.com/problems/pet "pet")                                                                                        | :beginner: [olderbrother](https://open.kattis.com/problems/olderbrother "olderbrother")                                                    | :beginner: [excavatorexpedition](https://open.kattis.com/problems/excavatorexpedition "excavatorexpedition")                      | :beginner: [division](https://open.kattis.com/problems/division "division")                                                                |
+| :beginner: [nastyhacks](https://open.kattis.com/problems/nastyhacks "nastyhacks")                                                                   | :beginner: [nikola](https://open.kattis.com/problems/nikola "nikola")                                                                      | :beginner: [eternalembers](https://open.kattis.com/problems/eternalembers "eternalembers")                                        | :beginner: [daringdoubt](https://open.kattis.com/problems/daringdoubt "daringdoubt")                                                       |
+| :beginner: [magictrick](https://open.kattis.com/problems/magictrick "magictrick")                                                                   | :beginner: [neighborhoodwatch](https://open.kattis.com/problems/neighborhoodwatch "neighborhoodwatch")                                     | :beginner: [enteringthetime](https://open.kattis.com/problems/enteringthetime "enteringthetime")                                  | :beginner: [cordonbleu](https://open.kattis.com/problems/cordonbleu "cordonbleu")                                                          |
+| :beginner: [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit "lastfactorialdigit")                                           | :beginner: [scenes](https://open.kattis.com/problems/scenes "scenes")                                                                      | :beginner: [ballotboxes](https://open.kattis.com/problems/ballotboxes "ballotboxes")                                              | :beginner: [convexhull2](https://open.kattis.com/problems/convexhull2 "convexhull2")                                                       |
+| :beginner: [laptopsticker](https://open.kattis.com/problems/laptopsticker "laptopsticker")                                                          | :beginner: [molekule](https://open.kattis.com/problems/molekule "molekule")                                                                | :beginner: [dinnerbet](https://open.kattis.com/problems/dinnerbet "dinnerbet")                                                    | :beginner: [conquertheworld](https://open.kattis.com/problems/conquertheworld "conquertheworld")                                           |
+| :beginner: [jumbojavelin](https://open.kattis.com/problems/jumbojavelin "jumbojavelin")                                                             | :beginner: [meowfactor](https://open.kattis.com/problems/meowfactor "meowfactor")                                                          | :beginner: [delivering](https://open.kattis.com/problems/delivering "delivering")                                                 | :beginner: [collusionontwowheels](https://open.kattis.com/problems/collusionontwowheels "collusionontwowheels")                            |
+| :beginner: [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition "jackolanternjuxtaposition")                      | :beginner: [leftandright](https://open.kattis.com/problems/leftandright "leftandright")                                                    | :beginner: [constrainedfreedomofchoice](https://open.kattis.com/problems/constrainedfreedomofchoice "constrainedfreedomofchoice") | :beginner: [circle](https://open.kattis.com/problems/circle "circle")                                                                      |
+| :beginner: [heartrate](https://open.kattis.com/problems/heartrate "heartrate")                                                                      | :beginner: [knightsfen](https://open.kattis.com/problems/knightsfen "knightsfen")                                                          | :beginner: [colouringbook](https://open.kattis.com/problems/colouringbook "colouringbook")                                        | :beginner: [catinatree](https://open.kattis.com/problems/catinatree "catinatree")                                                          |
+| :beginner: [greetings2](https://open.kattis.com/problems/greetings2 "greetings2")                                                                   | :beginner: [keyboardconcert](https://open.kattis.com/problems/keyboardconcert "keyboardconcert")                                           | :beginner: [cocoacoalition](https://open.kattis.com/problems/cocoacoalition "cocoacoalition")                                     | :beginner: [board](https://open.kattis.com/problems/board "board")                                                                         |
+| :beginner: [grassseed](https://open.kattis.com/problems/grassseed "grassseed")                                                                      | :beginner: [kattissquest](https://open.kattis.com/problems/kattissquest "kattissquest")                                                    | :beginner: [clockpictures](https://open.kattis.com/problems/clockpictures "clockpictures")                                        | :beginner: [safebet](https://open.kattis.com/problems/safebet "safebet")                                                                   |
+| :beginner: [fizzbuzz](https://open.kattis.com/problems/fizzbuzz "fizzbuzz")                                                                         | :beginner: [applesack](https://open.kattis.com/problems/applesack "applesack")                                                             | :beginner: [charlesincharge](https://open.kattis.com/problems/charlesincharge "charlesincharge")                                  | :beginner: [artur](https://open.kattis.com/problems/artur "artur")                                                                         |
+| :beginner: [filip](https://open.kattis.com/problems/filip "filip")                                                                                  | :beginner: [jackpot](https://open.kattis.com/problems/jackpot "jackpot")                                                                   | :beginner: [canonical](https://open.kattis.com/problems/canonical "canonical")                                                    | :beginner: [randomproblem](https://open.kattis.com/problems/randomproblem "randomproblem")                                                 |
+| :beginner: [faktor](https://open.kattis.com/problems/faktor "faktor")                                                                               | :beginner: [houseofcards](https://open.kattis.com/problems/houseofcards "houseofcards")                                                    | :beginner: [bookcircle](https://open.kattis.com/problems/bookcircle "bookcircle")                                                 | :beginner: [aqueducts](https://open.kattis.com/problems/aqueducts "aqueducts")                                                             |
+| :beginner: [electricaloutlets](https://open.kattis.com/problems/electricaloutlets "electricaloutlets")                                              | :beginner: [houselawn](https://open.kattis.com/problems/houselawn "houselawn")                                                             | :beginner: [data](https://open.kattis.com/problems/data "data")                                                                   | :beginner: [applescherriesmangos](https://open.kattis.com/problems/applescherriesmangos "applescherriesmangos")                            |
+| :beginner: [dicecup](https://open.kattis.com/problems/dicecup "dicecup")                                                                            | :beginner: [horrorfilmnight](https://open.kattis.com/problems/horrorfilmnight "horrorfilmnight")                                           | :beginner: [baza](https://open.kattis.com/problems/baza "baza")                                                                   | :beginner: [animal](https://open.kattis.com/problems/animal "animal")                                                                      |
+| :beginner: [cold](https://open.kattis.com/problems/cold "cold")                                                                                     | :beginner: [getshorty](https://open.kattis.com/problems/getshorty "getshorty")                                                             | :beginner: [archimedes](https://open.kattis.com/problems/archimedes "archimedes")                                                 | :beginner: [airportcoffee](https://open.kattis.com/problems/airportcoffee "airportcoffee")                                                 |
+| :beginner: [chanukah](https://open.kattis.com/problems/chanukah "chanukah")                                                                         | :beginner: [gearchanging](https://open.kattis.com/problems/gearchanging "gearchanging")                                                    | :beginner: [bracketnotation](https://open.kattis.com/problems/bracketnotation "bracketnotation")                                  | :beginner: [camping](https://open.kattis.com/problems/camping "camping")                                                                   |
+| :beginner: [bijele](https://open.kattis.com/problems/bijele "bijele")                                                                               | :beginner: [gamerank](https://open.kattis.com/problems/gamerank "gamerank")                                                                | :beginner: [brevoptimering](https://open.kattis.com/problems/brevoptimering "brevoptimering")                                     | :beginner: [wordladder2](https://open.kattis.com/problems/wordladder2 "wordladder2")                                                       |
+| :beginner: [bela](https://open.kattis.com/problems/bela "bela")                                                                                     | :beginner: [esej](https://open.kattis.com/problems/esej "esej")                                                                            | :beginner: [kodkraft](https://open.kattis.com/problems/kodkraft "kodkraft")                                                       | :beginner: [typo](https://open.kattis.com/problems/typo "typo")                                                                            |
+| :beginner: [batterup](https://open.kattis.com/problems/batterup "batterup")                                                                         | :beginner: [daceydice](https://open.kattis.com/problems/daceydice "daceydice")                                                             | :beginner: [wordspin](https://open.kattis.com/problems/wordspin "wordspin")                                                       | :beginner: [triangularcollection](https://open.kattis.com/problems/triangularcollection "triangularcollection")                            |
+| :beginner: [heimavinna](https://open.kattis.com/problems/heimavinna "heimavinna")                                                                   | :beginner: [communicationssatellite](https://open.kattis.com/problems/communicationssatellite "communicationssatellite")                   | :beginner: [heritage](https://open.kattis.com/problems/heritage "heritage")                                                       | :beginner: [treasurediving](https://open.kattis.com/problems/treasurediving "treasurediving")                                              |
+| :beginner: [ofugsnuid](https://open.kattis.com/problems/ofugsnuid "ofugsnuid")                                                                      | :beginner: [collapse](https://open.kattis.com/problems/collapse "collapse")                                                                | :beginner: [weightlifting](https://open.kattis.com/problems/weightlifting "weightlifting")                                        | :beginner: [tickettoride](https://open.kattis.com/problems/tickettoride "tickettoride")                                                    |
+| :beginner: [zamka](https://open.kattis.com/problems/zamka "zamka")                                                                                  | :beginner: [caveexploration](https://open.kattis.com/problems/caveexploration "caveexploration")                                           | :beginner: [unusualdarts](https://open.kattis.com/problems/unusualdarts "unusualdarts")                                           | :beginner: [themepark](https://open.kattis.com/problems/themepark "themepark")                                                             |
+| :beginner: [trik](https://open.kattis.com/problems/trik "trik")                                                                                     | :beginner: [blackout](https://open.kattis.com/problems/blackout "blackout")                                                                | :beginner: [unionfind](https://open.kattis.com/problems/unionfind "unionfind")                                                    | :beginner: [taboo](https://open.kattis.com/problems/taboo "taboo")                                                                         |
+| :beginner: [transitwoes](https://open.kattis.com/problems/transitwoes "transitwoes")                                                                | :beginner: [bigboxes](https://open.kattis.com/problems/bigboxes "bigboxes")                                                                | :beginner: [thore](https://open.kattis.com/problems/thore "thore")                                                                | :beginner: [speakingofwhich](https://open.kattis.com/problems/speakingofwhich "speakingofwhich")                                           |
+| :beginner: [humancannonball2](https://open.kattis.com/problems/humancannonball2 "humancannonball2")                                                 | :beginner: [avoidland](https://open.kattis.com/problems/avoidland "avoidland")                                                             | :beginner: [swish](https://open.kattis.com/problems/swish "swish")                                                                | :beginner: [spaghetti](https://open.kattis.com/problems/spaghetti "spaghetti")                                                             |
+| :beginner: [zanzibar](https://open.kattis.com/problems/zanzibar "zanzibar")                                                                         | :beginner: [averagespeed](https://open.kattis.com/problems/averagespeed "averagespeed")                                                    | :beginner: [studying](https://open.kattis.com/problems/studying "studying")                                                       | :beginner: [solarenergy](https://open.kattis.com/problems/solarenergy "solarenergy")                                                       |
+| :beginner: [sibice](https://open.kattis.com/problems/sibice "sibice")                                                                               | :beginner: [workstations](https://open.kattis.com/problems/workstations "workstations")                                                    | :beginner: [string](https://open.kattis.com/problems/string "string")                                                             | :beginner: [rotatetoroot](https://open.kattis.com/problems/rotatetoroot "rotatetoroot")                                                    |
+| :beginner: [shatteredcake](https://open.kattis.com/problems/shatteredcake "shatteredcake")                                                          | :beginner: [annoyedcoworkers](https://open.kattis.com/problems/annoyedcoworkers "annoyedcoworkers")                                        | :beginner: [sparklesseven](https://open.kattis.com/problems/sparklesseven "sparklesseven")                                        | :beginner: [removalgame](https://open.kattis.com/problems/removalgame "removalgame")                                                       |
+| :beginner: [railroad2](https://open.kattis.com/problems/railroad2 "railroad2")                                                                      | :beginner: [allkill](https://open.kattis.com/problems/allkill "allkill")                                                                   | :beginner: [shuffles](https://open.kattis.com/problems/shuffles "shuffles")                                                       | :beginner: [remoteland](https://open.kattis.com/problems/remoteland "remoteland")                                                          |
+| :beginner: [quickestimate](https://open.kattis.com/problems/quickestimate "quickestimate")                                                          | :beginner: [alexandbarb](https://open.kattis.com/problems/alexandbarb "alexandbarb")                                                       | :beginner: [pyro](https://open.kattis.com/problems/pyro "pyro")                                                                   | :beginner: [powersigns](https://open.kattis.com/problems/powersigns "powersigns")                                                          |
+| :beginner: [provincesandgold](https://open.kattis.com/problems/provincesandgold "provincesandgold")                                                 | :beginner: [watersheds](https://open.kattis.com/problems/watersheds "watersheds")                                                          | :beginner: [pongtournament](https://open.kattis.com/problems/pongtournament "pongtournament")                                     | :beginner: [pokemon](https://open.kattis.com/problems/pokemon "pokemon")                                                                   |
+| :beginner: [pieceofcake2](https://open.kattis.com/problems/pieceofcake2 "pieceofcake2")                                                             | :beginner: [waronweather](https://open.kattis.com/problems/waronweather "waronweather")                                                    | :beginner: [peaktram](https://open.kattis.com/problems/peaktram "peaktram")                                                       | :beginner: [peskyheroes](https://open.kattis.com/problems/peskyheroes "peskyheroes")                                                       |
+| :beginner: [parking2](https://open.kattis.com/problems/parking2 "parking2")                                                                         | :beginner: [visualgo](https://open.kattis.com/problems/visualgo "visualgo")                                                                | :beginner: [neo](https://open.kattis.com/problems/neo "neo")                                                                      | :beginner: [nesteddolls](https://open.kattis.com/problems/nesteddolls "nesteddolls")                                                       |
+| :beginner: [numberfun](https://open.kattis.com/problems/numberfun "numberfun")                                                                      | :beginner: [virus](https://open.kattis.com/problems/virus "virus")                                                                         | :beginner: [landline](https://open.kattis.com/problems/landline "landline")                                                       | :beginner: [monotony](https://open.kattis.com/problems/monotony "monotony")                                                                |
+| :beginner: [nodup](https://open.kattis.com/problems/nodup "nodup")                                                                                  | :beginner: [suspensionbridges](https://open.kattis.com/problems/suspensionbridges "suspensionbridges")                                     | :beginner: [imoharderproblem](https://open.kattis.com/problems/imoharderproblem "imoharderproblem")                               | :beginner: [lunchtimenamerecall](https://open.kattis.com/problems/lunchtimenamerecall "lunchtimenamerecall")                               |
+| :beginner: [modulo](https://open.kattis.com/problems/modulo "modulo")                                                                               | :beginner: [smallestmultiple](https://open.kattis.com/problems/smallestmultiple "smallestmultiple")                                        | :beginner: [hurricanedanger](https://open.kattis.com/problems/hurricanedanger "hurricanedanger")                                  | :beginner: [loremipsum](https://open.kattis.com/problems/loremipsum "loremipsum")                                                          |
+| :beginner: [ladder](https://open.kattis.com/problems/ladder "ladder")                                                                               | :beginner: [slikar](https://open.kattis.com/problems/slikar "slikar")                                                                      | :beginner: [flightcollision](https://open.kattis.com/problems/flightcollision "flightcollision")                                  | :beginner: [longestlife](https://open.kattis.com/problems/longestlife "longestlife")                                                       |
+| :beginner: [judgingmoose](https://open.kattis.com/problems/judgingmoose "judgingmoose")                                                             | :beginner: [shortestpath1](https://open.kattis.com/problems/shortestpath1 "shortestpath1")                                                 | :beginner: [fire3](https://open.kattis.com/problems/fire3 "fire3")                                                                | :beginner: [lazystudents](https://open.kattis.com/problems/lazystudents "lazystudents")                                                    |
+| :beginner: [jobexpenses](https://open.kattis.com/problems/jobexpenses "jobexpenses")                                                                | :beginner: [score](https://open.kattis.com/problems/score "score")                                                                         | :beginner: [exchangerates](https://open.kattis.com/problems/exchangerates "exchangerates")                                        | :beginner: [johnny5](https://open.kattis.com/problems/johnny5 "johnny5")                                                                   |
+| :beginner: [janitortroubles](https://open.kattis.com/problems/janitortroubles "janitortroubles")                                                    | :beginner: [spiral](https://open.kattis.com/problems/spiral "spiral")                                                                      | :beginner: [equations](https://open.kattis.com/problems/equations "equations")                                                    | :beginner: [infiltration](https://open.kattis.com/problems/infiltration "infiltration")                                                    |
+| :beginner: [everywhere](https://open.kattis.com/problems/everywhere "everywhere")                                                                   | :beginner: [pop](https://open.kattis.com/problems/pop "pop")                                                                               | :beginner: [discretelogging](https://open.kattis.com/problems/discretelogging "discretelogging")                                  | :beginner: [pockets](https://open.kattis.com/problems/pockets "pockets")                                                                   |
+| :beginner: [isithalloween](https://open.kattis.com/problems/isithalloween "isithalloween")                                                          | :beginner: [solitaire](https://open.kattis.com/problems/solitaire "solitaire")                                                             | :beginner: [derangementrotations](https://open.kattis.com/problems/derangementrotations "derangementrotations")                   | :beginner: [greedycow](https://open.kattis.com/problems/greedycow "greedycow")                                                             |
+| :beginner: [icpcawards](https://open.kattis.com/problems/icpcawards "icpcawards")                                                                   | :beginner: [paintings](https://open.kattis.com/problems/paintings "paintings")                                                             | :beginner: [coffeedate](https://open.kattis.com/problems/coffeedate "coffeedate")                                                 | :beginner: [greatestpair](https://open.kattis.com/problems/greatestpair "greatestpair")                                                    |
+| :beginner: [helpaphd](https://open.kattis.com/problems/helpaphd "helpaphd")                                                                         | :beginner: [oddbinom](https://open.kattis.com/problems/oddbinom "oddbinom")                                                                | :beginner: [buzzwords](https://open.kattis.com/problems/buzzwords "buzzwords")                                                    | :beginner: [help](https://open.kattis.com/problems/help "help")                                                                            |
+| :beginner: [hello](https://open.kattis.com/problems/hello "hello")                                                                                  | :beginner: [nizovi](https://open.kattis.com/problems/nizovi "nizovi")                                                                      | :beginner: [buggyrobot](https://open.kattis.com/problems/buggyrobot "buggyrobot")                                                 | :beginner: [forgottenhomework](https://open.kattis.com/problems/forgottenhomework "forgottenhomework")                                     |
+| :beginner: [harshadnumbers](https://open.kattis.com/problems/harshadnumbers "harshadnumbers")                                                       | :beginner: [lostinthewoods](https://open.kattis.com/problems/lostinthewoods "lostinthewoods")                                              | :beginner: [breakingcake](https://open.kattis.com/problems/breakingcake "breakingcake")                                           | :beginner: [findmyfamily](https://open.kattis.com/problems/findmyfamily "findmyfamily")                                                    |
+| :beginner: [forcedchoice](https://open.kattis.com/problems/forcedchoice "forcedchoice")                                                             | :beginner: [intergalacticbidding](https://open.kattis.com/problems/intergalacticbidding "intergalacticbidding")                            | :beginner: [bikegears](https://open.kattis.com/problems/bikegears "bikegears")                                                    | :beginner: [fakescoreboard](https://open.kattis.com/problems/fakescoreboard "fakescoreboard")                                              |
+| :beginner: [finalexam2](https://open.kattis.com/problems/finalexam2 "finalexam2")                                                                   | :beginner: [nine](https://open.kattis.com/problems/nine "nine")                                                                            | :beginner: [arranginghat](https://open.kattis.com/problems/arranginghat "arranginghat")                                           | :beginner: [explodingkittens](https://open.kattis.com/problems/explodingkittens "explodingkittens")                                        |
+| :beginner: [encodedmessage](https://open.kattis.com/problems/encodedmessage "encodedmessage")                                                       | :beginner: [hindex](https://open.kattis.com/problems/hindex "hindex")                                                                      | :beginner: [fleaonachessboard](https://open.kattis.com/problems/fleaonachessboard "fleaonachessboard")                            | :beginner: [editstepladders](https://open.kattis.com/problems/editstepladders "editstepladders")                                           |
+| :beginner: [detaileddifferences](https://open.kattis.com/problems/detaileddifferences "detaileddifferences")                                        | :beginner: [highwaytomountfansipan](https://open.kattis.com/problems/highwaytomountfansipan "highwaytomountfansipan")                      | :beginner: [bastubad](https://open.kattis.com/problems/bastubad "bastubad")                                                       | :beginner: [dragonball2](https://open.kattis.com/problems/dragonball2 "dragonball2")                                                       |
+| :beginner: [datum](https://open.kattis.com/problems/datum "datum")                                                                                  | :beginner: [hammingellipses](https://open.kattis.com/problems/hammingellipses "hammingellipses")                                           | :beginner: [youbethejudge](https://open.kattis.com/problems/youbethejudge "youbethejudge")                                        | :beginner: [dotsboxes](https://open.kattis.com/problems/dotsboxes "dotsboxes")                                                             |
+| :beginner: [cudoviste](https://open.kattis.com/problems/cudoviste "cudoviste")                                                                      | :beginner: [financialplanning](https://open.kattis.com/problems/financialplanning "financialplanning")                                     | :beginner: [wipeyourwhiteboards](https://open.kattis.com/problems/wipeyourwhiteboards "wipeyourwhiteboards")                      | :beginner: [doodling](https://open.kattis.com/problems/doodling "doodling")                                                                |
+| :beginner: [conundrum](https://open.kattis.com/problems/conundrum "conundrum")                                                                      | :beginner: [fairdivision](https://open.kattis.com/problems/fairdivision "fairdivision")                                                    | :beginner: [tunnelingtheearth](https://open.kattis.com/problems/tunnelingtheearth "tunnelingtheearth")                            | :beginner: [digraphs](https://open.kattis.com/problems/digraphs "digraphs")                                                                |
+| :beginner: [cetvrta](https://open.kattis.com/problems/cetvrta "cetvrta")                                                                            | :beginner: [emergency](https://open.kattis.com/problems/emergency "emergency")                                                             | :beginner: [transportation](https://open.kattis.com/problems/transportation "transportation")                                     | :beginner: [dictionaryattack](https://open.kattis.com/problems/dictionaryattack "dictionaryattack")                                        |
+| :beginner: [boatparts](https://open.kattis.com/problems/boatparts "boatparts")                                                                      | :beginner: [drivinglanes](https://open.kattis.com/problems/drivinglanes "drivinglanes")                                                    | :beginner: [tide](https://open.kattis.com/problems/tide "tide")                                                                   | :beginner: [collatzconjecture](https://open.kattis.com/problems/collatzconjecture "collatzconjecture")                                     |
+| :beginner: [avion](https://open.kattis.com/problems/avion "avion")                                                                                  | :beginner: [deadend](https://open.kattis.com/problems/deadend "deadend")                                                                   | :beginner: [lottery](https://open.kattis.com/problems/lottery "lottery")                                                          | :beginner: [citypark](https://open.kattis.com/problems/citypark "citypark")                                                                |
+| :beginner: [apaxiaaans](https://open.kattis.com/problems/apaxiaaans "apaxiaaans")                                                                   | :beginner: [curveknights](https://open.kattis.com/problems/curveknights "curveknights")                                                    | :beginner: [supermario169](https://open.kattis.com/problems/supermario169 "supermario169")                                        | :beginner: [captainobvious](https://open.kattis.com/problems/captainobvious "captainobvious")                                              |
+| :beginner: [alphabetspam](https://open.kattis.com/problems/alphabetspam "alphabetspam")                                                             | :beginner: [crackerbarrel](https://open.kattis.com/problems/crackerbarrel "crackerbarrel")                                                 | :beginner: [substringswitcheroo](https://open.kattis.com/problems/substringswitcheroo "substringswitcheroo")                      | :beginner: [burrowswheeler](https://open.kattis.com/problems/burrowswheeler "burrowswheeler")                                              |
+| :beginner: [addtwonumbers](https://open.kattis.com/problems/addtwonumbers "addtwonumbers")                                                          | :beginner: [brexit](https://open.kattis.com/problems/brexit "brexit")                                                                      | :beginner: [speedyescape](https://open.kattis.com/problems/speedyescape "speedyescape")                                           | :beginner: [builttoscale](https://open.kattis.com/problems/builttoscale "builttoscale")                                                    |
+| :beginner: [tetration](https://open.kattis.com/problems/tetration "tetration")                                                                      | :beginner: [birds](https://open.kattis.com/problems/birds "birds")                                                                         | :beginner: [smootharray](https://open.kattis.com/problems/smootharray "smootharray")                                              | :beginner: [bribe](https://open.kattis.com/problems/bribe "bribe")                                                                         |
+| :beginner: [taisformula](https://open.kattis.com/problems/taisformula "taisformula")                                                                | :beginner: [bank](https://open.kattis.com/problems/bank "bank")                                                                            | :beginner: [simplepolygon](https://open.kattis.com/problems/simplepolygon "simplepolygon")                                        | :beginner: [brackets](https://open.kattis.com/problems/brackets "brackets")                                                                |
+| :beginner: [synchronizinglists](https://open.kattis.com/problems/synchronizinglists "synchronizinglists")                                           | :beginner: [baloni](https://open.kattis.com/problems/baloni "baloni")                                                                      | :beginner: [risk](https://open.kattis.com/problems/risk "risk")                                                                   | :beginner: [barcode](https://open.kattis.com/problems/barcode "barcode")                                                                   |
+| :beginner: [sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits "sumsquareddigits")                                                 | :beginner: [ballsandneedles](https://open.kattis.com/problems/ballsandneedles "ballsandneedles")                                           | :beginner: [recovery](https://open.kattis.com/problems/recovery "recovery")                                                       | :beginner: [yesyes](https://open.kattis.com/problems/yesyes "yesyes")                                                                      |
+| :beginner: [stararrangements](https://open.kattis.com/problems/stararrangements "stararrangements")                                                 | :beginner: [alphabetanimals](https://open.kattis.com/problems/alphabetanimals "alphabetanimals")                                           | :beginner: [profitablepizzas](https://open.kattis.com/problems/profitablepizzas "profitablepizzas")                               | :beginner: [taxicab](https://open.kattis.com/problems/taxicab "taxicab")                                                                   |
+| :beginner: [sodaslurper](https://open.kattis.com/problems/sodaslurper "sodaslurper")                                                                | :beginner: [bungeebuilder](https://open.kattis.com/problems/bungeebuilder "bungeebuilder")                                                 | :beginner: [pokemongogo](https://open.kattis.com/problems/pokemongogo "pokemongogo")                                              | :beginner: [submarines](https://open.kattis.com/problems/submarines "submarines")                                                          |
+| :beginner: [skocimis](https://open.kattis.com/problems/skocimis "skocimis")                                                                         | :beginner: [trilemma](https://open.kattis.com/problems/trilemma "trilemma")                                                                | :beginner: [poetrytower](https://open.kattis.com/problems/poetrytower "poetrytower")                                              | :beginner: [statisticians](https://open.kattis.com/problems/statisticians "statisticians")                                                 |
+| :beginner: [simonsays](https://open.kattis.com/problems/simonsays "simonsays")                                                                      | :beginner: [walkway](https://open.kattis.com/problems/walkway "walkway")                                                                   | :beginner: [paludarium](https://open.kattis.com/problems/paludarium "paludarium")                                                 | :beginner: [stacking](https://open.kattis.com/problems/stacking "stacking")                                                                |
+| :beginner: [sevenwonders](https://open.kattis.com/problems/sevenwonders "sevenwonders")                                                             | :beginner: [upsanddownsofinvesting](https://open.kattis.com/problems/upsanddownsofinvesting "upsanddownsofinvesting")                      | :beginner: [moviecollection](https://open.kattis.com/problems/moviecollection "moviecollection")                                  | :beginner: [specialtour](https://open.kattis.com/problems/specialtour "specialtour")                                                       |
+| :beginner: [romans](https://open.kattis.com/problems/romans "romans")                                                                               | :beginner: [rectanglesurrounding](https://open.kattis.com/problems/rectanglesurrounding "rectanglesurrounding")                            | :beginner: [moogle](https://open.kattis.com/problems/moogle "moogle")                                                             | :beginner: [slicice](https://open.kattis.com/problems/slicice "slicice")                                                                   |
+| :beginner: [reversebinary](https://open.kattis.com/problems/reversebinary "reversebinary")                                                          | :beginner: [citrusintern](https://open.kattis.com/problems/citrusintern "citrusintern")                                                    | :beginner: [microrow](https://open.kattis.com/problems/microrow "microrow")                                                       | :beginner: [sensornetwork](https://open.kattis.com/problems/sensornetwork "sensornetwork")                                                 |
+| :beginner: [relocation](https://open.kattis.com/problems/relocation "relocation")                                                                   | :beginner: [skijumping](https://open.kattis.com/problems/skijumping "skijumping")                                                          | :beginner: [magicbitstrings](https://open.kattis.com/problems/magicbitstrings "magicbitstrings")                                  | :beginner: [sensor](https://open.kattis.com/problems/sensor "sensor")                                                                      |
+| :beginner: [racingalphabet](https://open.kattis.com/problems/racingalphabet "racingalphabet")                                                       | :beginner: [shortestpath2](https://open.kattis.com/problems/shortestpath2 "shortestpath2")                                                 | :beginner: [loopycabdrivers](https://open.kattis.com/problems/loopycabdrivers "loopycabdrivers")                                  | :beginner: [safety](https://open.kattis.com/problems/safety "safety")                                                                      |
+| :beginner: [quickbrownfox](https://open.kattis.com/problems/quickbrownfox "quickbrownfox")                                                          | :beginner: [shoppingmalls](https://open.kattis.com/problems/shoppingmalls "shoppingmalls")                                                 | :beginner: [logland](https://open.kattis.com/problems/logland "logland")                                                          | :beginner: [rubiksrevenge](https://open.kattis.com/problems/rubiksrevenge "rubiksrevenge")                                                 |
+| :beginner: [pokerhand](https://open.kattis.com/problems/pokerhand "pokerhand")                                                                      | :beginner: [rootedsubtrees](https://open.kattis.com/problems/rootedsubtrees "rootedsubtrees")                                              | :beginner: [killingchaos](https://open.kattis.com/problems/killingchaos "killingchaos")                                           | :beginner: [rainbownumbers](https://open.kattis.com/problems/rainbownumbers "rainbownumbers")                                              |
+| :beginner: [oddmanout](https://open.kattis.com/problems/oddmanout "oddmanout")                                                                      | :beginner: [pebblesolitaire2](https://open.kattis.com/problems/pebblesolitaire2 "pebblesolitaire2")                                        | :beginner: [keephiminside](https://open.kattis.com/problems/keephiminside "keephiminside")                                        | :beginner: [programmingteam](https://open.kattis.com/problems/programmingteam "programmingteam")                                           |
+| :beginner: [licensetolaunch](https://open.kattis.com/problems/licensetolaunch "licensetolaunch")                                                    | :beginner: [names](https://open.kattis.com/problems/names "names")                                                                         | :beginner: [honi](https://open.kattis.com/problems/honi "honi")                                                                   | :beginner: [primonimo](https://open.kattis.com/problems/primonimo "primonimo")                                                             |
+| :beginner: [kornislav](https://open.kattis.com/problems/kornislav "kornislav")                                                                      | :beginner: [modulosolitaire](https://open.kattis.com/problems/modulosolitaire "modulosolitaire")                                           | :beginner: [heightpreservation](https://open.kattis.com/problems/heightpreservation "heightpreservation")                         | :beginner: [piecesofparentheses](https://open.kattis.com/problems/piecesofparentheses "piecesofparentheses")                               |
+| :beginner: [kleptography](https://open.kattis.com/problems/kleptography "kleptography")                                                             | :beginner: [marypartitions](https://open.kattis.com/problems/marypartitions "marypartitions")                                              | :beginner: [greatgeekgameshow](https://open.kattis.com/problems/greatgeekgameshow "greatgeekgameshow")                            | :beginner: [notablequotables](https://open.kattis.com/problems/notablequotables "notablequotables")                                        |
+| :beginner: [kemija08](https://open.kattis.com/problems/kemija08 "kemija08")                                                                         | :beginner: [kitchen](https://open.kattis.com/problems/kitchen "kitchen")                                                                   | :beginner: [gettingjump](https://open.kattis.com/problems/gettingjump "gettingjump")                                              | :beginner: [mixingdrinks](https://open.kattis.com/problems/mixingdrinks "mixingdrinks")                                                    |
+| :beginner: [apaxianparent](https://open.kattis.com/problems/apaxianparent "apaxianparent")                                                          | :beginner: [islandtour](https://open.kattis.com/problems/islandtour "islandtour")                                                          | :beginner: [gamedesign](https://open.kattis.com/problems/gamedesign "gamedesign")                                                 | :beginner: [maximalsequences](https://open.kattis.com/problems/maximalsequences "maximalsequences")                                        |
+| :beginner: [greedypolygons](https://open.kattis.com/problems/greedypolygons "greedypolygons")                                                       | :beginner: [inverteddeck](https://open.kattis.com/problems/inverteddeck "inverteddeck")                                                    | :beginner: [floorplan](https://open.kattis.com/problems/floorplan "floorplan")                                                    | :beginner: [map](https://open.kattis.com/problems/map "map")                                                                               |
+| :beginner: [gerrymandering](https://open.kattis.com/problems/gerrymandering "gerrymandering")                                                       | :beginner: [howmanydigits](https://open.kattis.com/problems/howmanydigits "howmanydigits")                                                 | :beginner: [exponial](https://open.kattis.com/problems/exponial "exponial")                                                       | :beginner: [manhattanpositioningsystem](https://open.kattis.com/problems/manhattanpositioningsystem "manhattanpositioningsystem")          |
+| :beginner: [fyi](https://open.kattis.com/problems/fyi "fyi")                                                                                        | :beginner: [gears2](https://open.kattis.com/problems/gears2 "gears2")                                                                      | :beginner: [estimation](https://open.kattis.com/problems/estimation "estimation")                                                 | :beginner: [jumbledjourney](https://open.kattis.com/problems/jumbledjourney "jumbledjourney")                                              |
+| :beginner: [freefood](https://open.kattis.com/problems/freefood "freefood")                                                                         | :beginner: [fruitbaskets](https://open.kattis.com/problems/fruitbaskets "fruitbaskets")                                                    | :beginner: [ebonyandivory](https://open.kattis.com/problems/ebonyandivory "ebonyandivory")                                        | :beginner: [jellyraid](https://open.kattis.com/problems/jellyraid "jellyraid")                                                             |
+| :beginner: [fiftyshades](https://open.kattis.com/problems/fiftyshades "fiftyshades")                                                                | :beginner: [flowerytrails](https://open.kattis.com/problems/flowerytrails "flowerytrails")                                                 | :beginner: [eastereggs](https://open.kattis.com/problems/eastereggs "eastereggs")                                                 | :beginner: [itsamodmodmodmodworld](https://open.kattis.com/problems/itsamodmodmodmodworld "itsamodmodmodmodworld")                         |
+| :beginner: [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle "estimatingtheareaofacircle")                   | :beginner: [farey](https://open.kattis.com/problems/farey "farey")                                                                         | :beginner: [dogtrouble](https://open.kattis.com/problems/dogtrouble "dogtrouble")                                                 | :beginner: [ispiti](https://open.kattis.com/problems/ispiti "ispiti")                                                                      |
+| :beginner: [eligibility](https://open.kattis.com/problems/eligibility "eligibility")                                                                | :beginner: [extensiveor](https://open.kattis.com/problems/extensiveor "extensiveor")                                                       | :beginner: [crophard](https://open.kattis.com/problems/crophard "crophard")                                                       | :beginner: [heapstrees](https://open.kattis.com/problems/heapstrees "heapstrees")                                                          |
+| :beginner: [drunkvigenere](https://open.kattis.com/problems/drunkvigenere "drunkvigenere")                                                          | :beginner: [batteries](https://open.kattis.com/problems/batteries "batteries")                                                             | :beginner: [codes](https://open.kattis.com/problems/codes "codes")                                                                | :beginner: [greetings](https://open.kattis.com/problems/greetings "greetings")                                                             |
+| :beginner: [drmmessages](https://open.kattis.com/problems/drmmessages "drmmessages")                                                                | :beginner: [eatingeverything](https://open.kattis.com/problems/eatingeverything "eatingeverything")                                        | :beginner: [boxedletters](https://open.kattis.com/problems/boxedletters "boxedletters")                                           | :beginner: [goldleaf](https://open.kattis.com/problems/goldleaf "goldleaf")                                                                |
+| :beginner: [beavergnaw](https://open.kattis.com/problems/beavergnaw "beavergnaw")                                                                   | :beginner: [dicebetting](https://open.kattis.com/problems/dicebetting "dicebetting")                                                       | :beginner: [bond](https://open.kattis.com/problems/bond "bond")                                                                   | :beginner: [goatropes](https://open.kattis.com/problems/goatropes "goatropes")                                                             |
+| :beginner: [areal](https://open.kattis.com/problems/areal "areal")                                                                                  | :beginner: [diagonalcut](https://open.kattis.com/problems/diagonalcut "diagonalcut")                                                       | :beginner: [bilateral](https://open.kattis.com/problems/bilateral "bilateral")                                                    | :beginner: [generatingnumbers](https://open.kattis.com/problems/generatingnumbers "generatingnumbers")                                     |
+| :beginner: [rationalsequence2](https://open.kattis.com/problems/rationalsequence2 "rationalsequence2")                                              | :beginner: [clock](https://open.kattis.com/problems/clock "clock")                                                                         | :beginner: [amanda](https://open.kattis.com/problems/amanda "amanda")                                                             | :beginner: [antiques](https://open.kattis.com/problems/antiques "antiques")                                                                |
+| :beginner: [acm](https://open.kattis.com/problems/acm "acm")                                                                                        | :beginner: [catalan](https://open.kattis.com/problems/catalan "catalan")                                                                   | :beginner: [abandonedanimal](https://open.kattis.com/problems/abandonedanimal "abandonedanimal")                                  | :beginner: [evenelectricity](https://open.kattis.com/problems/evenelectricity "evenelectricity")                                           |
+| :beginner: [weakvertices](https://open.kattis.com/problems/weakvertices "weakvertices")                                                             | :beginner: [cafeteriaeasy](https://open.kattis.com/problems/cafeteriaeasy "cafeteriaeasy")                                                 | :beginner: [10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople "10kindsofpeople")                                  | :beginner: [enumeratingbrackets](https://open.kattis.com/problems/enumeratingbrackets "enumeratingbrackets")                               |
+| :beginner: [tripletexting](https://open.kattis.com/problems/tripletexting "tripletexting")                                                          | :beginner: [buildingboundaries](https://open.kattis.com/problems/buildingboundaries "buildingboundaries")                                  | :beginner: [zbrka](https://open.kattis.com/problems/zbrka "zbrka")                                                                | :beginner: [entertainingexcursion](https://open.kattis.com/problems/entertainingexcursion "entertainingexcursion")                         |
+| :beginner: [tri](https://open.kattis.com/problems/tri "tri")                                                                                        | :beginner: [wrapping](https://open.kattis.com/problems/wrapping "wrapping")                                                                | :beginner: [reduction](https://open.kattis.com/problems/reduction "reduction")                                                    | :beginner: [crusaders](https://open.kattis.com/problems/crusaders "crusaders")                                                             |
+| :beginner: [easiest](https://open.kattis.com/problems/easiest "easiest")                                                                            | :beginner: [arbitrage](https://open.kattis.com/problems/arbitrage "arbitrage")                                                             | :beginner: [trendingtopic](https://open.kattis.com/problems/trendingtopic "trendingtopic")                                        | :beginner: [comparinganswers](https://open.kattis.com/problems/comparinganswers "comparinganswers")                                        |
+| :beginner: [t9spelling](https://open.kattis.com/problems/t9spelling "t9spelling")                                                                   | :beginner: [cats](https://open.kattis.com/problems/cats "cats")                                                                            | :beginner: [bigpainting](https://open.kattis.com/problems/bigpainting "bigpainting")                                              | :beginner: [codepermutations](https://open.kattis.com/problems/codepermutations "codepermutations")                                        |
+| :beginner: [symmetricorder](https://open.kattis.com/problems/symmetricorder "symmetricorder")                                                       | :beginner: [grille](https://open.kattis.com/problems/grille "grille")                                                                      | :beginner: [soyoulikeyourfoodhot](https://open.kattis.com/problems/soyoulikeyourfoodhot "soyoulikeyourfoodhot")                   | :beginner: [choosingnumbers](https://open.kattis.com/problems/choosingnumbers "choosingnumbers")                                           |
+| :beginner: [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem "sumkindofproblem")                                                 | :beginner: [walrusweights](https://open.kattis.com/problems/walrusweights "walrusweights")                                                 | :beginner: [rocketpoweredhovercraft](https://open.kattis.com/problems/rocketpoweredhovercraft "rocketpoweredhovercraft")          | :beginner: [caveatemptor](https://open.kattis.com/problems/caveatemptor "caveatemptor")                                                    |
+| :beginner: [cups](https://open.kattis.com/problems/cups "cups")                                                                                     | :beginner: [unlockpattern2](https://open.kattis.com/problems/unlockpattern2 "unlockpattern2")                                              | :beginner: [rockclimbing](https://open.kattis.com/problems/rockclimbing "rockclimbing")                                           | :beginner: [bomas](https://open.kattis.com/problems/bomas "bomas")                                                                         |
+| :beginner: [speedlimit](https://open.kattis.com/problems/speedlimit "speedlimit")                                                                   | :beginner: [traveltheskies](https://open.kattis.com/problems/traveltheskies "traveltheskies")                                              | :beginner: [robotopia](https://open.kattis.com/problems/robotopia "robotopia")                                                    | :beginner: [cool1](https://open.kattis.com/problems/cool1 "cool1")                                                                         |
+| :beginner: [speeding](https://open.kattis.com/problems/speeding "speeding")                                                                         | :beginner: [tight](https://open.kattis.com/problems/tight "tight")                                                                         | :beginner: [roadtimes](https://open.kattis.com/problems/roadtimes "roadtimes")                                                    | :beginner: [airportlogistics](https://open.kattis.com/problems/airportlogistics "airportlogistics")                                        |
+| :beginner: [soylent](https://open.kattis.com/problems/soylent "soylent")                                                                            | :beginner: [supercomputer](https://open.kattis.com/problems/supercomputer "supercomputer")                                                 | :beginner: [rationalratio](https://open.kattis.com/problems/rationalratio "rationalratio")                                        | :beginner: [absurdistan2](https://open.kattis.com/problems/absurdistan2 "absurdistan2")                                                    |
+| :beginner: [skener](https://open.kattis.com/problems/skener "skener")                                                                               | :beginner: [sumdoku](https://open.kattis.com/problems/sumdoku "sumdoku")                                                                   | :beginner: [prosti](https://open.kattis.com/problems/prosti "prosti")                                                             | :beginner: [magicsequence](https://open.kattis.com/problems/magicsequence "magicsequence")                                                 |
+| :beginner: [schoolspirit](https://open.kattis.com/problems/schoolspirit "schoolspirit")                                                             | :beginner: [squawk](https://open.kattis.com/problems/squawk "squawk")                                                                      | :beginner: [privatespace](https://open.kattis.com/problems/privatespace "privatespace")                                           | :beginner: [mars](https://open.kattis.com/problems/mars "mars")                                                                            |
+| :beginner: [rijeci](https://open.kattis.com/problems/rijeci "rijeci")                                                                               | :beginner: [saferacing](https://open.kattis.com/problems/saferacing "saferacing")                                                          | :beginner: [primal](https://open.kattis.com/problems/primal "primal")                                                             | :beginner: [vjestica](https://open.kattis.com/problems/vjestica "vjestica")                                                                |
+| :beginner: [ptice](https://open.kattis.com/problems/ptice "ptice")                                                                                  | :beginner: [ratings](https://open.kattis.com/problems/ratings "ratings")                                                                   | :beginner: [polygongame](https://open.kattis.com/problems/polygongame "polygongame")                                              | :beginner: [vase](https://open.kattis.com/problems/vase "vase")                                                                            |
+| :beginner: [prsteni](https://open.kattis.com/problems/prsteni "prsteni")                                                                            | :beginner: [rainbowroadrace](https://open.kattis.com/problems/rainbowroadrace "rainbowroadrace")                                           | :beginner: [periodni](https://open.kattis.com/problems/periodni "periodni")                                                       | :beginner: [umbraldecoding](https://open.kattis.com/problems/umbraldecoding "umbraldecoding")                                              |
+| :beginner: [prozor](https://open.kattis.com/problems/prozor "prozor")                                                                               | :beginner: [pubs](https://open.kattis.com/problems/pubs "pubs")                                                                            | :beginner: [otherside](https://open.kattis.com/problems/otherside "otherside")                                                    | :beginner: [tourguide](https://open.kattis.com/problems/tourguide "tourguide")                                                             |
+| :beginner: [pizza2](https://open.kattis.com/problems/pizza2 "pizza2")                                                                               | :beginner: [parallelanalysis](https://open.kattis.com/problems/parallelanalysis "parallelanalysis")                                        | :beginner: [officespace](https://open.kattis.com/problems/officespace "officespace")                                              | :beginner: [toll](https://open.kattis.com/problems/toll "toll")                                                                            |
+| :beginner: [peragrams](https://open.kattis.com/problems/peragrams "peragrams")                                                                      | :beginner: [palindromicpassword](https://open.kattis.com/problems/palindromicpassword "palindromicpassword")                               | :beginner: [messenger](https://open.kattis.com/problems/messenger "messenger")                                                    | :beginner: [thewrathofkahn](https://open.kattis.com/problems/thewrathofkahn "thewrathofkahn")                                              |
+| :beginner: [patuljci](https://open.kattis.com/problems/patuljci "patuljci")                                                                         | :beginner: [nered](https://open.kattis.com/problems/nered "nered")                                                                         | :beginner: [maxflow](https://open.kattis.com/problems/maxflow "maxflow")                                                          | :beginner: [surveillancesquared](https://open.kattis.com/problems/surveillancesquared "surveillancesquared")                               |
+| :beginner: [oddgnome](https://open.kattis.com/problems/oddgnome "oddgnome")                                                                         | :beginner: [musicalchairs](https://open.kattis.com/problems/musicalchairs "musicalchairs")                                                 | :beginner: [mathworksheet](https://open.kattis.com/problems/mathworksheet "mathworksheet")                                        | :beginner: [rollercoasterfun](https://open.kattis.com/problems/rollercoasterfun "rollercoasterfun")                                        |
+| :beginner: [musicalscales](https://open.kattis.com/problems/musicalscales "musicalscales")                                                          | :beginner: [minorsetback](https://open.kattis.com/problems/minorsetback "minorsetback")                                                    | :beginner: [makingpalindromes](https://open.kattis.com/problems/makingpalindromes "makingpalindromes")                            | :beginner: [route](https://open.kattis.com/problems/route "route")                                                                         |
+| :beginner: [mjehuric](https://open.kattis.com/problems/mjehuric "mjehuric")                                                                         | :beginner: [minibattleship](https://open.kattis.com/problems/minibattleship "minibattleship")                                              | :beginner: [ls](https://open.kattis.com/problems/ls "ls")                                                                         | :beginner: [ragingriver](https://open.kattis.com/problems/ragingriver "ragingriver")                                                       |
+| :beginner: [mixedfractions](https://open.kattis.com/problems/mixedfractions "mixedfractions")                                                       | :beginner: [excursion](https://open.kattis.com/problems/excursion "excursion")                                                             | :beginner: [logo2](https://open.kattis.com/problems/logo2 "logo2")                                                                | :beginner: [pebblepuzzle](https://open.kattis.com/problems/pebblepuzzle "pebblepuzzle")                                                    |
+| :beginner: [mirror](https://open.kattis.com/problems/mirror "mirror")                                                                               | :beginner: [honeyheist](https://open.kattis.com/problems/honeyheist "honeyheist")                                                          | :beginner: [licenserenewal](https://open.kattis.com/problems/licenserenewal "licenserenewal")                                     | :beginner: [primetime](https://open.kattis.com/problems/primetime "primetime")                                                             |
+| :beginner: [methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication "methodicmultiplication")                               | :beginner: [gnollhypothesis](https://open.kattis.com/problems/gnollhypothesis "gnollhypothesis")                                           | :beginner: [lava](https://open.kattis.com/problems/lava "lava")                                                                   | :beginner: [police](https://open.kattis.com/problems/police "police")                                                                      |
+| :beginner: [luhnchecksum](https://open.kattis.com/problems/luhnchecksum "luhnchecksum")                                                             | :beginner: [genealogical](https://open.kattis.com/problems/genealogical "genealogical")                                                    | :beginner: [jugglingsequence](https://open.kattis.com/problems/jugglingsequence "jugglingsequence")                               | :beginner: [particles](https://open.kattis.com/problems/particles "particles")                                                             |
+| :beginner: [lostlineup](https://open.kattis.com/problems/lostlineup "lostlineup")                                                                   | :beginner: [frosting](https://open.kattis.com/problems/frosting "frosting")                                                                | :beginner: [holidaystars](https://open.kattis.com/problems/holidaystars "holidaystars")                                           | :beginner: [parades](https://open.kattis.com/problems/parades "parades")                                                                   |
+| :beginner: [leftbeehind](https://open.kattis.com/problems/leftbeehind "leftbeehind")                                                                | :beginner: [firefly](https://open.kattis.com/problems/firefly "firefly")                                                                   | :beginner: [highscore2](https://open.kattis.com/problems/highscore2 "highscore2")                                                 | :beginner: [odasiljaci](https://open.kattis.com/problems/odasiljaci "odasiljaci")                                                          |
+| :beginner: [karte](https://open.kattis.com/problems/karte "karte")                                                                                  | :beginner: [fieldtrip](https://open.kattis.com/problems/fieldtrip "fieldtrip")                                                             | :beginner: [growingupishardtodo](https://open.kattis.com/problems/growingupishardtodo "growingupishardtodo")                      | :beginner: [trick](https://open.kattis.com/problems/trick "trick")                                                                         |
+| :beginner: [maptiles2](https://open.kattis.com/problems/maptiles2 "maptiles2")                                                                      | :beginner: [falling](https://open.kattis.com/problems/falling "falling")                                                                   | :beginner: [gemisland](https://open.kattis.com/problems/gemisland "gemisland")                                                    | :beginner: [difficult](https://open.kattis.com/problems/difficult "difficult")                                                             |
+| :beginner: [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone "hissingmicrophone")                                              | :beginner: [equilibrium](https://open.kattis.com/problems/equilibrium "equilibrium")                                                       | :beginner: [floppy](https://open.kattis.com/problems/floppy "floppy")                                                             | :beginner: [linesofaction](https://open.kattis.com/problems/linesofaction "linesofaction")                                                 |
+| :beginner: [heirsdilemma](https://open.kattis.com/problems/heirsdilemma "heirsdilemma")                                                             | :beginner: [8queens](https://open.kattis.com/problems/8queens "8queens")                                                                   | :beginner: [fibtour](https://open.kattis.com/problems/fibtour "fibtour")                                                          | :beginner: [krotating](https://open.kattis.com/problems/krotating "krotating")                                                             |
+| :beginner: [hangman](https://open.kattis.com/problems/hangman "hangman")                                                                            | :beginner: [drivingrange](https://open.kattis.com/problems/drivingrange "drivingrange")                                                    | :beginner: [entirelyunsortedsequences](https://open.kattis.com/problems/entirelyunsortedsequences "entirelyunsortedsequences")    | :beginner: [knightstrip](https://open.kattis.com/problems/knightstrip "knightstrip")                                                       |
+| :beginner: [goatrope](https://open.kattis.com/problems/goatrope "goatrope")                                                                         | :beginner: [downfall](https://open.kattis.com/problems/downfall "downfall")                                                                | :beginner: [dragonballs](https://open.kattis.com/problems/dragonballs "dragonballs")                                              | :beginner: [keytoknowledge](https://open.kattis.com/problems/keytoknowledge "keytoknowledge")                                              |
+| :beginner: [fallingapart](https://open.kattis.com/problems/fallingapart "fallingapart")                                                             | :beginner: [disastrousdoubling](https://open.kattis.com/problems/disastrousdoubling "disastrousdoubling")                                  | :beginner: [dividedoughnut](https://open.kattis.com/problems/dividedoughnut "dividedoughnut")                                     | :beginner: [jugglingtroupe](https://open.kattis.com/problems/jugglingtroupe "jugglingtroupe")                                              |
+| :beginner: [sifferprodukt](https://open.kattis.com/problems/sifferprodukt "sifferprodukt")                                                          | :beginner: [coinstacks](https://open.kattis.com/problems/coinstacks "coinstacks")                                                          | :beginner: [destinationunknown](https://open.kattis.com/problems/destinationunknown "destinationunknown")                         | :beginner: [jez](https://open.kattis.com/problems/jez "jez")                                                                               |
+| :beginner: [differentdistances](https://open.kattis.com/problems/differentdistances "differentdistances")                                           | :beginner: [cardmagic](https://open.kattis.com/problems/cardmagic "cardmagic")                                                             | :beginner: [cleaningpipes](https://open.kattis.com/problems/cleaningpipes "cleaningpipes")                                        | :beginner: [ispmerger](https://open.kattis.com/problems/ispmerger "ispmerger")                                                             |
+| :beginner: [dicegame](https://open.kattis.com/problems/dicegame "dicegame")                                                                         | :beginner: [calculator](https://open.kattis.com/problems/calculator "calculator")                                                          | :beginner: [chineseremainder](https://open.kattis.com/problems/chineseremainder "chineseremainder")                               | :beginner: [inquiryii](https://open.kattis.com/problems/inquiryii "inquiryii")                                                             |
+| :beginner: [countingclauses](https://open.kattis.com/problems/countingclauses "countingclauses")                                                    | :beginner: [cakeymccakeface](https://open.kattis.com/problems/cakeymccakeface "cakeymccakeface")                                           | :beginner: [chesscompetition](https://open.kattis.com/problems/chesscompetition "chesscompetition")                               | :beginner: [icons](https://open.kattis.com/problems/icons "icons")                                                                         |
+| :beginner: [coconut](https://open.kattis.com/problems/coconut "coconut")                                                                            | :beginner: [vegetables](https://open.kattis.com/problems/vegetables "vegetables")                                                          | :beginner: [cardhands](https://open.kattis.com/problems/cardhands "cardhands")                                                    | :beginner: [hamster](https://open.kattis.com/problems/hamster "hamster")                                                                   |
+| :beginner: [closingtheloop](https://open.kattis.com/problems/closingtheloop "closingtheloop")                                                       | :beginner: [arithmetic](https://open.kattis.com/problems/arithmetic "arithmetic")                                                          | :beginner: [candydistribution](https://open.kattis.com/problems/candydistribution "candydistribution")                            | :beginner: [gridspeed](https://open.kattis.com/problems/gridspeed "gridspeed")                                                             |
+| :beginner: [bus](https://open.kattis.com/problems/bus "bus")                                                                                        | :beginner: [appealtotheaudience](https://open.kattis.com/problems/appealtotheaudience "appealtotheaudience")                               | :beginner: [bracketmatrix](https://open.kattis.com/problems/bracketmatrix "bracketmatrix")                                        | :beginner: [greatgdp](https://open.kattis.com/problems/greatgdp "greatgdp")                                                                |
+| :beginner: [boundingrobots](https://open.kattis.com/problems/boundingrobots "boundingrobots")                                                       | :beginner: [addingwords](https://open.kattis.com/problems/addingwords "addingwords")                                                       | :beginner: [blackvienna](https://open.kattis.com/problems/blackvienna "blackvienna")                                              | :beginner: [greatfireball](https://open.kattis.com/problems/greatfireball "greatfireball")                                                 |
+| :beginner: [fodelsedagsmemorisering](https://open.kattis.com/problems/fodelsedagsmemorisering "fodelsedagsmemorisering")                            | :beginner: [a1paper](https://open.kattis.com/problems/a1paper "a1paper")                                                                   | :beginner: [birdrescue](https://open.kattis.com/problems/birdrescue "birdrescue")                                                 | :beginner: [genetics](https://open.kattis.com/problems/genetics "genetics")                                                                |
+| :beginner: [yinyangstones](https://open.kattis.com/problems/yinyangstones "yinyangstones")                                                          | :beginner: [teque](https://open.kattis.com/problems/teque "teque")                                                                         | :beginner: [baggage](https://open.kattis.com/problems/baggage "baggage")                                                          | :beginner: [fruitslicer](https://open.kattis.com/problems/fruitslicer "fruitslicer")                                                       |
+| :beginner: [volim](https://open.kattis.com/problems/volim "volim")                                                                                  | :beginner: [sim](https://open.kattis.com/problems/sim "sim")                                                                               | :beginner: [avogadro](https://open.kattis.com/problems/avogadro "avogadro")                                                       | :beginner: [fastestspeedrun](https://open.kattis.com/problems/fastestspeedrun "fastestspeedrun")                                           |
+| :beginner: [unlockpattern](https://open.kattis.com/problems/unlockpattern "unlockpattern")                                                          | :beginner: [zigzag](https://open.kattis.com/problems/zigzag "zigzag")                                                                      | :beginner: [altosinging](https://open.kattis.com/problems/altosinging "altosinging")                                              | :beginner: [fancyeasy](https://open.kattis.com/problems/fancyeasy "fancyeasy")                                                             |
+| :beginner: [tornbygge](https://open.kattis.com/problems/tornbygge "tornbygge")                                                                      | :beginner: [undetected](https://open.kattis.com/problems/undetected "undetected")                                                          | :beginner: [dream](https://open.kattis.com/problems/dream "dream")                                                                | :beginner: [enjoyingelderberries](https://open.kattis.com/problems/enjoyingelderberries "enjoyingelderberries")                            |
+| :beginner: [timebomb](https://open.kattis.com/problems/timebomb "timebomb")                                                                         | :beginner: [tricktreat](https://open.kattis.com/problems/tricktreat "tricktreat")                                                          | :beginner: [adventurebegins](https://open.kattis.com/problems/adventurebegins "adventurebegins")                                  | :beginner: [endlessturning](https://open.kattis.com/problems/endlessturning "endlessturning")                                              |
+| :beginner: [thisaintyourgrandpascheckerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard "thisaintyourgrandpascheckerboard") | :beginner: [texassummers](https://open.kattis.com/problems/texassummers "texassummers")                                                    | :beginner: [zadaca](https://open.kattis.com/problems/zadaca "zadaca")                                                             | :beginner: [doubleclique](https://open.kattis.com/problems/doubleclique "doubleclique")                                                    |
+| :beginner: [thelastproblem](https://open.kattis.com/problems/thelastproblem "thelastproblem")                                                       | :beginner: [terraces](https://open.kattis.com/problems/terraces "terraces")                                                                | :beginner: [workout](https://open.kattis.com/problems/workout "workout")                                                          | :beginner: [dimsum](https://open.kattis.com/problems/dimsum "dimsum")                                                                      |
+| :beginner: [keytocrypto](https://open.kattis.com/problems/keytocrypto "keytocrypto")                                                                | :beginner: [ternarianweights](https://open.kattis.com/problems/ternarianweights "ternarianweights")                                        | :beginner: [trash](https://open.kattis.com/problems/trash "trash")                                                                | :beginner: [vonwalken](https://open.kattis.com/problems/vonwalken "vonwalken")                                                             |
+| :beginner: [spavanac](https://open.kattis.com/problems/spavanac "spavanac")                                                                         | :beginner: [svada](https://open.kattis.com/problems/svada "svada")                                                                         | :beginner: [translatorsdinner](https://open.kattis.com/problems/translatorsdinner "translatorsdinner")                            | :beginner: [councilling](https://open.kattis.com/problems/councilling "councilling")                                                       |
+| :beginner: [sok](https://open.kattis.com/problems/sok "sok")                                                                                        | :beginner: [selectgroup](https://open.kattis.com/problems/selectgroup "selectgroup")                                                       | :beginner: [transitcard](https://open.kattis.com/problems/transitcard "transitcard")                                              | :beginner: [conveyorbelts2](https://open.kattis.com/problems/conveyorbelts2 "conveyorbelts2")                                              |
+| :beginner: [sjecista](https://open.kattis.com/problems/sjecista "sjecista")                                                                         | :beginner: [rings2](https://open.kattis.com/problems/rings2 "rings2")                                                                      | :beginner: [traindelays](https://open.kattis.com/problems/traindelays "traindelays")                                              | :beginner: [compiler](https://open.kattis.com/problems/compiler "compiler")                                                                |
+| :beginner: [savingforretirement](https://open.kattis.com/problems/savingforretirement "savingforretirement")                                        | :beginner: [ricochetrobots](https://open.kattis.com/problems/ricochetrobots "ricochetrobots")                                              | :beginner: [thebeginningoftheendpart2](https://open.kattis.com/problems/thebeginningoftheendpart2 "thebeginningoftheendpart2")    | :beginner: [circuitdesign](https://open.kattis.com/problems/circuitdesign "circuitdesign")                                                 |
+| :beginner: [reverserot](https://open.kattis.com/problems/reverserot "reverserot")                                                                   | :beginner: [remorse](https://open.kattis.com/problems/remorse "remorse")                                                                   | :beginner: [surveillance](https://open.kattis.com/problems/surveillance "surveillance")                                           | :beginner: [cheerreaders](https://open.kattis.com/problems/cheerreaders "cheerreaders")                                                    |
+| :beginner: [prva](https://open.kattis.com/problems/prva "prva")                                                                                     | :beginner: [relatives](https://open.kattis.com/problems/relatives "relatives")                                                             | :beginner: [suffixsorting](https://open.kattis.com/problems/suffixsorting "suffixsorting")                                        | :beginner: [chainco](https://open.kattis.com/problems/chainco "chainco")                                                                   |
+| :beginner: [pauleigon](https://open.kattis.com/problems/pauleigon "pauleigon")                                                                      | :beginner: [reactivity](https://open.kattis.com/problems/reactivity "reactivity")                                                          | :beginner: [stringfactoring](https://open.kattis.com/problems/stringfactoring "stringfactoring")                                  | :beginner: [blocks](https://open.kattis.com/problems/blocks "blocks")                                                                      |
+| :beginner: [ostgotska](https://open.kattis.com/problems/ostgotska "ostgotska")                                                                      | :beginner: [primereduction](https://open.kattis.com/problems/primereduction "primereduction")                                              | :beginner: [slowleak](https://open.kattis.com/problems/slowleak "slowleak")                                                       | :beginner: [bst](https://open.kattis.com/problems/bst "bst")                                                                               |
+| :beginner: [missingnumbers](https://open.kattis.com/problems/missingnumbers "missingnumbers")                                                       | :beginner: [poplava](https://open.kattis.com/problems/poplava "poplava")                                                                   | :beginner: [reconstructingtapeart](https://open.kattis.com/problems/reconstructingtapeart "reconstructingtapeart")                | :beginner: [backpackbuddies](https://open.kattis.com/problems/backpackbuddies "backpackbuddies")                                           |
+| :beginner: [loorolls](https://open.kattis.com/problems/loorolls "loorolls")                                                                         | :beginner: [pascal](https://open.kattis.com/problems/pascal "pascal")                                                                      | :beginner: [equivalences](https://open.kattis.com/problems/equivalences "equivalences")                                           | :beginner: [rangers](https://open.kattis.com/problems/rangers "rangers")                                                                   |
+| :beginner: [kitten](https://open.kattis.com/problems/kitten "kitten")                                                                               | :beginner: [ceremony](https://open.kattis.com/problems/ceremony "ceremony")                                                                | :beginner: [plusminus](https://open.kattis.com/problems/plusminus "plusminus")                                                    | :beginner: [associationofmyths](https://open.kattis.com/problems/associationofmyths "associationofmyths")                                  |
+| :beginner: [justaminute](https://open.kattis.com/problems/justaminute "justaminute")                                                                | :beginner: [mafija](https://open.kattis.com/problems/mafija "mafija")                                                                      | :beginner: [pianino](https://open.kattis.com/problems/pianino "pianino")                                                          | :beginner: [mububa](https://open.kattis.com/problems/mububa "mububa")                                                                      |
+| :beginner: [jewelrybox](https://open.kattis.com/problems/jewelrybox "jewelrybox")                                                                   | :beginner: [luckydraw](https://open.kattis.com/problems/luckydraw "luckydraw")                                                             | :beginner: [oil2](https://open.kattis.com/problems/oil2 "oil2")                                                                   | :beginner: [result](https://open.kattis.com/problems/result "result")                                                                      |
+| :beginner: [inflation](https://open.kattis.com/problems/inflation "inflation")                                                                      | :beginner: [justforsidekicks](https://open.kattis.com/problems/justforsidekicks "justforsidekicks")                                        | :beginner: [lemonade](https://open.kattis.com/problems/lemonade "lemonade")                                                       | :beginner: [annorlundaanagram](https://open.kattis.com/problems/annorlundaanagram "annorlundaanagram")                                     |
+| :beginner: [hydrasheads](https://open.kattis.com/problems/hydrasheads "hydrasheads")                                                                | :beginner: [hexagonalrooks](https://open.kattis.com/problems/hexagonalrooks "hexagonalrooks")                                              | :beginner: [karel](https://open.kattis.com/problems/karel "karel")                                                                | :beginner: [mysterious](https://open.kattis.com/problems/mysterious "mysterious")                                                          |
+| :beginner: [hittingtargets](https://open.kattis.com/problems/hittingtargets "hittingtargets")                                                       | :beginner: [goodcoalition](https://open.kattis.com/problems/goodcoalition "goodcoalition")                                                 | :beginner: [kamioni](https://open.kattis.com/problems/kamioni "kamioni")                                                          | :beginner: [fence](https://open.kattis.com/problems/fence "fence")                                                                         |
+| :beginner: [herman](https://open.kattis.com/problems/herman "herman")                                                                               | :beginner: [gameofcards](https://open.kattis.com/problems/gameofcards "gameofcards")                                                       | :beginner: [jumpingchoreography](https://open.kattis.com/problems/jumpingchoreography "jumpingchoreography")                      | :beginner: [windypath](https://open.kattis.com/problems/windypath "windypath")                                                             |
+| :beginner: [hangingout](https://open.kattis.com/problems/hangingout "hangingout")                                                                   | :beginner: [foosball](https://open.kattis.com/problems/foosball "foosball")                                                                | :beginner: [isomorphicinversion](https://open.kattis.com/problems/isomorphicinversion "isomorphicinversion")                      | :beginner: [volumeamplification](https://open.kattis.com/problems/volumeamplification "volumeamplification")                               |
+| :beginner: [halfacookie](https://open.kattis.com/problems/halfacookie "halfacookie")                                                                | :beginner: [fishmongers](https://open.kattis.com/problems/fishmongers "fishmongers")                                                       | :beginner: [caching](https://open.kattis.com/problems/caching "caching")                                                          | :beginner: [triforce](https://open.kattis.com/problems/triforce "triforce")                                                                |
+| :beginner: [flyingsafely](https://open.kattis.com/problems/flyingsafely "flyingsafely")                                                             | :beginner: [shortcut](https://open.kattis.com/problems/shortcut "shortcut")                                                                | :beginner: [illumination](https://open.kattis.com/problems/illumination "illumination")                                           | :beginner: [tomjerry](https://open.kattis.com/problems/tomjerry "tomjerry")                                                                |
+| :beginner: [flexible](https://open.kattis.com/problems/flexible "flexible")                                                                         | :beginner: [digits](https://open.kattis.com/problems/digits "digits")                                                                      | :beginner: [hearthbreakers](https://open.kattis.com/problems/hearthbreakers "hearthbreakers")                                     | :beginner: [memory](https://open.kattis.com/problems/memory "memory")                                                                      |
+| :beginner: [falsesecurity](https://open.kattis.com/problems/falsesecurity "falsesecurity")                                                          | :beginner: [cuboidslicinggame](https://open.kattis.com/problems/cuboidslicinggame "cuboidslicinggame")                                     | :beginner: [gondolas](https://open.kattis.com/problems/gondolas "gondolas")                                                       | :beginner: [stringmultimatching](https://open.kattis.com/problems/stringmultimatching "stringmultimatching")                               |
+| :beginner: [empleh](https://open.kattis.com/problems/empleh "empleh")                                                                               | :beginner: [cranes](https://open.kattis.com/problems/cranes "cranes")                                                                      | :beginner: [gladiators](https://open.kattis.com/problems/gladiators "gladiators")                                                 | :beginner: [squarefieldshard](https://open.kattis.com/problems/squarefieldshard "squarefieldshard")                                        |
+| :beginner: [deathknight](https://open.kattis.com/problems/deathknight "deathknight")                                                                | :beginner: [cowboycheckers](https://open.kattis.com/problems/cowboycheckers "cowboycheckers")                                              | :beginner: [gingercandy](https://open.kattis.com/problems/gingercandy "gingercandy")                                              | :beginner: [spinningup](https://open.kattis.com/problems/spinningup "spinningup")                                                          |
+| :beginner: [dasblinkenlights](https://open.kattis.com/problems/dasblinkenlights "dasblinkenlights")                                                 | :beginner: [subseqhard](https://open.kattis.com/problems/subseqhard "subseqhard")                                                          | :beginner: [geezerscripts](https://open.kattis.com/problems/geezerscripts "geezerscripts")                                        | :beginner: [spam](https://open.kattis.com/problems/spam "spam")                                                                            |
+| :beginner: [cardtrick2](https://open.kattis.com/problems/cardtrick2 "cardtrick2")                                                                   | :beginner: [conquest](https://open.kattis.com/problems/conquest "conquest")                                                                | :beginner: [floatingformation](https://open.kattis.com/problems/floatingformation "floatingformation")                            | :beginner: [slidingblocks](https://open.kattis.com/problems/slidingblocks "slidingblocks")                                                 |
+| :beginner: [brokenswords](https://open.kattis.com/problems/brokenswords "brokenswords")                                                             | :beginner: [connectthedots](https://open.kattis.com/problems/connectthedots "connectthedots")                                              | :beginner: [faultysprinklers](https://open.kattis.com/problems/faultysprinklers "faultysprinklers")                               | :beginner: [san](https://open.kattis.com/problems/san "san")                                                                               |
+| :beginner: [breakingbranches](https://open.kattis.com/problems/breakingbranches "breakingbranches")                                                 | :beginner: [collatz](https://open.kattis.com/problems/collatz "collatz")                                                                   | :beginner: [factors](https://open.kattis.com/problems/factors "factors")                                                          | :beginner: [rnasecondarystructure](https://open.kattis.com/problems/rnasecondarystructure "rnasecondarystructure")                         |
+| :beginner: [basketballoneonone](https://open.kattis.com/problems/basketballoneonone "basketballoneonone")                                           | :beginner: [coast](https://open.kattis.com/problems/coast "coast")                                                                         | :beginner: [factorfree](https://open.kattis.com/problems/factorfree "factorfree")                                                 | :beginner: [pipe](https://open.kattis.com/problems/pipe "pipe")                                                                            |
+| :beginner: [babybites](https://open.kattis.com/problems/babybites "babybites")                                                                      | :beginner: [breakingbad](https://open.kattis.com/problems/breakingbad "breakingbad")                                                       | :beginner: [easyarithmetic](https://open.kattis.com/problems/easyarithmetic "easyarithmetic")                                     | :beginner: [physiognomy](https://open.kattis.com/problems/physiognomy "physiognomy")                                                       |
+| :beginner: [rationalsequence3](https://open.kattis.com/problems/rationalsequence3 "rationalsequence3")                                              | :beginner: [birthday](https://open.kattis.com/problems/birthday "birthday")                                                                | :beginner: [doors](https://open.kattis.com/problems/doors "doors")                                                                | :beginner: [peggame](https://open.kattis.com/problems/peggame "peggame")                                                                   |
+| :beginner: [anewalphabet](https://open.kattis.com/problems/anewalphabet "anewalphabet")                                                             | :beginner: [bing](https://open.kattis.com/problems/bing "bing")                                                                            | :beginner: [domine](https://open.kattis.com/problems/domine "domine")                                                             | :beginner: [parovi](https://open.kattis.com/problems/parovi "parovi")                                                                      |
+| :beginner: [aaah](https://open.kattis.com/problems/aaah "aaah")                                                                                     | :beginner: [alloys](https://open.kattis.com/problems/alloys "alloys")                                                                      | :beginner: [distance](https://open.kattis.com/problems/distance "distance")                                                       | :beginner: [numbers2](https://open.kattis.com/problems/numbers2 "numbers2")                                                                |
+| :beginner: [upprodun](https://open.kattis.com/problems/upprodun "upprodun")                                                                         | :beginner: [alchemy101](https://open.kattis.com/problems/alchemy101 "alchemy101")                                                          | :beginner: [creditcard](https://open.kattis.com/problems/creditcard "creditcard")                                                 | :beginner: [nekameleoni](https://open.kattis.com/problems/nekameleoni "nekameleoni")                                                       |
+| :beginner: [veci](https://open.kattis.com/problems/veci "veci")                                                                                     | :beginner: [znanstvenik](https://open.kattis.com/problems/znanstvenik "znanstvenik")                                                       | :beginner: [countcircuits](https://open.kattis.com/problems/countcircuits "countcircuits")                                        | :beginner: [multiplyingdigits](https://open.kattis.com/problems/multiplyingdigits "multiplyingdigits")                                     |
+| :beginner: [vauvau](https://open.kattis.com/problems/vauvau "vauvau")                                                                               | :beginner: [satisfiability](https://open.kattis.com/problems/satisfiability "satisfiability")                                              | :beginner: [chairhopping](https://open.kattis.com/problems/chairhopping "chairhopping")                                           | :beginner: [marshlandrescues](https://open.kattis.com/problems/marshlandrescues "marshlandrescues")                                        |
+| :beginner: [vacuumba](https://open.kattis.com/problems/vacuumba "vacuumba")                                                                         | :beginner: [wheels](https://open.kattis.com/problems/wheels "wheels")                                                                      | :beginner: [baas](https://open.kattis.com/problems/baas "baas")                                                                   | :beginner: [checkerboard](https://open.kattis.com/problems/checkerboard "checkerboard")                                                    |
+| :beginner: [tracksmoothing](https://open.kattis.com/problems/tracksmoothing "tracksmoothing")                                                       | :beginner: [wettiles](https://open.kattis.com/problems/wettiles "wettiles")                                                                | :beginner: [starnotatree](https://open.kattis.com/problems/starnotatree "starnotatree")                                           | :beginner: [luggage](https://open.kattis.com/problems/luggage "luggage")                                                                   |
+| :beginner: [owlandfox](https://open.kattis.com/problems/owlandfox "owlandfox")                                                                      | :beginner: [thanosthehero](https://open.kattis.com/problems/thanosthehero "thanosthehero")                                                 | :beginner: [magicallights](https://open.kattis.com/problems/magicallights "magicallights")                                        | :beginner: [correspondence](https://open.kattis.com/problems/correspondence "correspondence")                                              |
+| :beginner: [statistics](https://open.kattis.com/problems/statistics "statistics")                                                                   | :beginner: [tenis](https://open.kattis.com/problems/tenis "tenis")                                                                         | :beginner: [ingestion](https://open.kattis.com/problems/ingestion "ingestion")                                                    | :beginner: [laneswitching](https://open.kattis.com/problems/laneswitching "laneswitching")                                                 |
+| :beginner: [somesum](https://open.kattis.com/problems/somesum "somesum")                                                                            | :beginner: [swaptosort](https://open.kattis.com/problems/swaptosort "swaptosort")                                                          | :beginner: [antimatterrain](https://open.kattis.com/problems/antimatterrain "antimatterrain")                                     | :beginner: [jezzball](https://open.kattis.com/problems/jezzball "jezzball")                                                                |
+| :beginner: [shoppinglisteasy](https://open.kattis.com/problems/shoppinglisteasy "shoppinglisteasy")                                                 | :beginner: [congest](https://open.kattis.com/problems/congest "congest")                                                                   | :beginner: [amazing](https://open.kattis.com/problems/amazing "amazing")                                                          | :beginner: [jewelheist](https://open.kattis.com/problems/jewelheist "jewelheist")                                                          |
+| :beginner: [amoebas](https://open.kattis.com/problems/amoebas "amoebas")                                                                            | :beginner: [slidingtiles](https://open.kattis.com/problems/slidingtiles "slidingtiles")                                                    | :beginner: [adjoin](https://open.kattis.com/problems/adjoin "adjoin")                                                             | :beginner: [island](https://open.kattis.com/problems/island "island")                                                                      |
+| :beginner: [server](https://open.kattis.com/problems/server "server")                                                                               | :beginner: [rockpaperscissors](https://open.kattis.com/problems/rockpaperscissors "rockpaperscissors")                                     | :beginner: [babynames](https://open.kattis.com/problems/babynames "babynames")                                                    | :beginner: [heightprofile](https://open.kattis.com/problems/heightprofile "heightprofile")                                                 |
+| :beginner: [securedoors](https://open.kattis.com/problems/securedoors "securedoors")                                                                | :beginner: [quantum](https://open.kattis.com/problems/quantum "quantum")                                                                   | :beginner: [vindiagrams](https://open.kattis.com/problems/vindiagrams "vindiagrams")                                              | :beginner: [grabagraph](https://open.kattis.com/problems/grabagraph "grabagraph")                                                          |
+| :beginner: [secretmessage](https://open.kattis.com/problems/secretmessage "secretmessage")                                                          | :beginner: [pickupsticks](https://open.kattis.com/problems/pickupsticks "pickupsticks")                                                    | :beginner: [treeshopping](https://open.kattis.com/problems/treeshopping "treeshopping")                                           | :beginner: [gokigen](https://open.kattis.com/problems/gokigen "gokigen")                                                                   |
+| :beginner: [recipes](https://open.kattis.com/problems/recipes "recipes")                                                                            | :beginner: [persistent](https://open.kattis.com/problems/persistent "persistent")                                                          | :beginner: [toast](https://open.kattis.com/problems/toast "toast")                                                                | :beginner: [gauntletoffire](https://open.kattis.com/problems/gauntletoffire "gauntletoffire")                                              |
+| :beginner: [runlengthencodingrun](https://open.kattis.com/problems/runlengthencodingrun "runlengthencodingrun")                                     | :beginner: [mobilization](https://open.kattis.com/problems/mobilization "mobilization")                                                    | :beginner: [safesecret](https://open.kattis.com/problems/safesecret "safesecret")                                                 | :beginner: [gaggle](https://open.kattis.com/problems/gaggle "gaggle")                                                                      |
+| :beginner: [r2](https://open.kattis.com/problems/r2 "r2")                                                                                           | :beginner: [memorymatch](https://open.kattis.com/problems/memorymatch "memorymatch")                                                       | :beginner: [terracedfields](https://open.kattis.com/problems/terracedfields "terracedfields")                                     | :beginner: [fish](https://open.kattis.com/problems/fish "fish")                                                                            |
+| :beginner: [chopin](https://open.kattis.com/problems/chopin "chopin")                                                                               | :beginner: [knigsoftheforest](https://open.kattis.com/problems/knigsoftheforest "knigsoftheforest")                                        | :beginner: [svemir](https://open.kattis.com/problems/svemir "svemir")                                                             | :beginner: [endlessknight](https://open.kattis.com/problems/endlessknight "endlessknight")                                                 |
+| :beginner: [pervasiveheartmonitor](https://open.kattis.com/problems/pervasiveheartmonitor "pervasiveheartmonitor")                                  | :beginner: [borg](https://open.kattis.com/problems/borg "borg")                                                                            | :beginner: [structuralequivalence](https://open.kattis.com/problems/structuralequivalence "structuralequivalence")                | :beginner: [edgeremoval](https://open.kattis.com/problems/edgeremoval "edgeremoval")                                                       |
+| :beginner: [parking](https://open.kattis.com/problems/parking "parking")                                                                            | :beginner: [joylessgame](https://open.kattis.com/problems/joylessgame "joylessgame")                                                       | :beginner: [routing](https://open.kattis.com/problems/routing "routing")                                                          | :beginner: [sightseeing](https://open.kattis.com/problems/sightseeing "sightseeing")                                                       |
+| :beginner: [mosquito](https://open.kattis.com/problems/mosquito "mosquito")                                                                         | :beginner: [interpreter](https://open.kattis.com/problems/interpreter "interpreter")                                                       | :beginner: [randommanhattan](https://open.kattis.com/problems/randommanhattan "randommanhattan")                                  | :beginner: [cryptotrouble](https://open.kattis.com/problems/cryptotrouble "cryptotrouble")                                                 |
+| :beginner: [moscowdream](https://open.kattis.com/problems/moscowdream "moscowdream")                                                                | :beginner: [includescoring](https://open.kattis.com/problems/includescoring "includescoring")                                              | :beginner: [prettygoodcuberoot](https://open.kattis.com/problems/prettygoodcuberoot "prettygoodcuberoot")                         | :beginner: [copyingdna](https://open.kattis.com/problems/copyingdna "copyingdna")                                                          |
+| :beginner: [marko](https://open.kattis.com/problems/marko "marko")                                                                                  | :beginner: [thinkingofanumber](https://open.kattis.com/problems/thinkingofanumber "thinkingofanumber")                                     | :beginner: [perfectskyline](https://open.kattis.com/problems/perfectskyline "perfectskyline")                                     | :beginner: [colorcodes](https://open.kattis.com/problems/colorcodes "colorcodes")                                                          |
+| :beginner: [mancala](https://open.kattis.com/problems/mancala "mancala")                                                                            | :beginner: [hotspot](https://open.kattis.com/problems/hotspot "hotspot")                                                                   | :beginner: [perfectpathpatrol](https://open.kattis.com/problems/perfectpathpatrol "perfectpathpatrol")                            | :beginner: [circleoffriends](https://open.kattis.com/problems/circleoffriends "circleoffriends")                                           |
+| :beginner: [krizaljka](https://open.kattis.com/problems/krizaljka "krizaljka")                                                                      | :beginner: [hobsonstrains](https://open.kattis.com/problems/hobsonstrains "hobsonstrains")                                                 | :beginner: [palindromic](https://open.kattis.com/problems/palindromic "palindromic")                                              | :beginner: [cestarine](https://open.kattis.com/problems/cestarine "cestarine")                                                             |
+| :beginner: [islands3](https://open.kattis.com/problems/islands3 "islands3")                                                                         | :beginner: [ferryloading3](https://open.kattis.com/problems/ferryloading3 "ferryloading3")                                                 | :beginner: [paintbuckets](https://open.kattis.com/problems/paintbuckets "paintbuckets")                                           | :beginner: [cavli](https://open.kattis.com/problems/cavli "cavli")                                                                         |
+| :beginner: [howl](https://open.kattis.com/problems/howl "howl")                                                                                     | :beginner: [dungeon](https://open.kattis.com/problems/dungeon "dungeon")                                                                   | :beginner: [packingpests](https://open.kattis.com/problems/packingpests "packingpests")                                           | :beginner: [capturedbyaliens](https://open.kattis.com/problems/capturedbyaliens "capturedbyaliens")                                        |
+| :beginner: [hidingplaces](https://open.kattis.com/problems/hidingplaces "hidingplaces")                                                             | :beginner: [sequence](https://open.kattis.com/problems/sequence "sequence")                                                                | :beginner: [ministryofmagic](https://open.kattis.com/problems/ministryofmagic "ministryofmagic")                                  | :beginner: [britishmenu](https://open.kattis.com/problems/britishmenu "britishmenu")                                                       |
+| :beginner: [heliocentric](https://open.kattis.com/problems/heliocentric "heliocentric")                                                             | :beginner: [datingtime](https://open.kattis.com/problems/datingtime "datingtime")                                                          | :beginner: [lemonadetrade](https://open.kattis.com/problems/lemonadetrade "lemonadetrade")                                        | :beginner: [bob](https://open.kattis.com/problems/bob "bob")                                                                               |
+| :beginner: [friday](https://open.kattis.com/problems/friday "friday")                                                                               | :beginner: [cowcrane](https://open.kattis.com/problems/cowcrane "cowcrane")                                                                | :beginner: [landlocked](https://open.kattis.com/problems/landlocked "landlocked")                                                 | :beginner: [autocompletion](https://open.kattis.com/problems/autocompletion "autocompletion")                                              |
+| :beginner: [exam](https://open.kattis.com/problems/exam "exam")                                                                                     | :beginner: [generalchineseremainder](https://open.kattis.com/problems/generalchineseremainder "generalchineseremainder")                   | :beginner: [knights](https://open.kattis.com/problems/knights "knights")                                                          | :beginner: [asteroids](https://open.kattis.com/problems/asteroids "asteroids")                                                             |
+| :beginner: [erase](https://open.kattis.com/problems/erase "erase")                                                                                  | :beginner: [catering](https://open.kattis.com/problems/catering "catering")                                                                | :beginner: [intelligenceinfection](https://open.kattis.com/problems/intelligenceinfection "intelligenceinfection")                | :beginner: [around](https://open.kattis.com/problems/around "around")                                                                      |
+| :beginner: [eenymeeny](https://open.kattis.com/problems/eenymeeny "eenymeeny")                                                                      | :beginner: [catch](https://open.kattis.com/problems/catch "catch")                                                                         | :beginner: [herkabe](https://open.kattis.com/problems/herkabe "herkabe")                                                          | :beginner: [contacttracing](https://open.kattis.com/problems/contacttracing "contacttracing")                                              |
+| :beginner: [earlywinter](https://open.kattis.com/problems/earlywinter "earlywinter")                                                                | :beginner: [cardtrading](https://open.kattis.com/problems/cardtrading "cardtrading")                                                       | :beginner: [gwensgift](https://open.kattis.com/problems/gwensgift "gwensgift")                                                    | :beginner: [unicycles](https://open.kattis.com/problems/unicycles "unicycles")                                                             |
+| :beginner: [damagedequation](https://open.kattis.com/problems/damagedequation "damagedequation")                                                    | :beginner: [traffic](https://open.kattis.com/problems/traffic "traffic")                                                                   | :beginner: [guardianofdecency](https://open.kattis.com/problems/guardianofdecency "guardianofdecency")                            | :beginner: [additiongame](https://open.kattis.com/problems/additiongame "additiongame")                                                    |
+| :beginner: [convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea "convexpolygonarea")                                              | :beginner: [bitsequalizer](https://open.kattis.com/problems/bitsequalizer "bitsequalizer")                                                 | :beginner: [gatheringinyorknew](https://open.kattis.com/problems/gatheringinyorknew "gatheringinyorknew")                         | :beginner: [spock](https://open.kattis.com/problems/spock "spock")                                                                         |
+| :beginner: [conformity](https://open.kattis.com/problems/conformity "conformity")                                                                   | :beginner: [standings](https://open.kattis.com/problems/standings "standings")                                                             | :beginner: [foolingaround](https://open.kattis.com/problems/foolingaround "foolingaround")                                        | :beginner: [slon](https://open.kattis.com/problems/slon "slon")                                                                            |
+| :beginner: [completingthesquare](https://open.kattis.com/problems/completingthesquare "completingthesquare")                                        | :beginner: [beehouseperimeter](https://open.kattis.com/problems/beehouseperimeter "beehouseperimeter")                                     | :beginner: [fiat](https://open.kattis.com/problems/fiat "fiat")                                                                   | :beginner: [rectangleland](https://open.kattis.com/problems/rectangleland "rectangleland")                                                 |
+| :beginner: [cetiri](https://open.kattis.com/problems/cetiri "cetiri")                                                                               | :beginner: [ballbearings](https://open.kattis.com/problems/ballbearings "ballbearings")                                                    | :beginner: [exofficio](https://open.kattis.com/problems/exofficio "exofficio")                                                    | :beginner: [randomdigitalexponentiation](https://open.kattis.com/problems/randomdigitalexponentiation "randomdigitalexponentiation")       |
+| :beginner: [billiard](https://open.kattis.com/problems/billiard "billiard")                                                                         | :beginner: [abstractpainting](https://open.kattis.com/problems/abstractpainting "abstractpainting")                                        | :beginner: [escapeplan](https://open.kattis.com/problems/escapeplan "escapeplan")                                                 | :beginner: [pipes3](https://open.kattis.com/problems/pipes3 "pipes3")                                                                      |
+| :beginner: [baconeggsandspam](https://open.kattis.com/problems/baconeggsandspam "baconeggsandspam")                                                 | :beginner: [basicprogramming1](https://open.kattis.com/problems/basicprogramming1 "basicprogramming1")                                     | :beginner: [enemydivision](https://open.kattis.com/problems/enemydivision "enemydivision")                                        | :beginner: [minigolf](https://open.kattis.com/problems/minigolf "minigolf")                                                                |
+| :beginner: [autori](https://open.kattis.com/problems/autori "autori")                                                                               | :beginner: [vuk](https://open.kattis.com/problems/vuk "vuk")                                                                               | :beginner: [encodedcoordinates](https://open.kattis.com/problems/encodedcoordinates "encodedcoordinates")                         | :beginner: [minrojikvadrat](https://open.kattis.com/problems/minrojikvadrat "minrojikvadrat")                                              |
+| :beginner: [astrologicalsign](https://open.kattis.com/problems/astrologicalsign "astrologicalsign")                                                 | :beginner: [treehouses](https://open.kattis.com/problems/treehouses "treehouses")                                                          | :beginner: [digitsum](https://open.kattis.com/problems/digitsum "digitsum")                                                       | :beginner: [mag](https://open.kattis.com/problems/mag "mag")                                                                               |
+| :beginner: [skolavslutningen](https://open.kattis.com/problems/skolavslutningen "skolavslutningen")                                                 | :beginner: [tourists](https://open.kattis.com/problems/tourists "tourists")                                                                | :beginner: [digicomp2](https://open.kattis.com/problems/digicomp2 "digicomp2")                                                    | :beginner: [ladybug](https://open.kattis.com/problems/ladybug "ladybug")                                                                   |
+| :beginner: [zoo](https://open.kattis.com/problems/zoo "zoo")                                                                                        | :beginner: [tomography](https://open.kattis.com/problems/tomography "tomography")                                                          | :beginner: [crisscrosscables](https://open.kattis.com/problems/crisscrosscables "crisscrosscables")                               | :beginner: [largesttriangle](https://open.kattis.com/problems/largesttriangle "largesttriangle")                                           |
+| :beginner: [tolower](https://open.kattis.com/problems/tolower "tolower")                                                                            | :beginner: [thermostat](https://open.kattis.com/problems/thermostat "thermostat")                                                          | :beginner: [convoy](https://open.kattis.com/problems/convoy "convoy")                                                             | :beginner: [krumpirko](https://open.kattis.com/problems/krumpirko "krumpirko")                                                             |
+| :beginner: [tetris](https://open.kattis.com/problems/tetris "tetris")                                                                               | :beginner: [stockprices](https://open.kattis.com/problems/stockprices "stockprices")                                                       | :beginner: [colourful](https://open.kattis.com/problems/colourful "colourful")                                                    | :beginner: [isahasa](https://open.kattis.com/problems/isahasa "isahasa")                                                                   |
+| :beginner: [simplecronspec](https://open.kattis.com/problems/simplecronspec "simplecronspec")                                                       | :beginner: [signprofile](https://open.kattis.com/problems/signprofile "signprofile")                                                       | :beginner: [checkingbreak](https://open.kattis.com/problems/checkingbreak "checkingbreak")                                        | :beginner: [categorymanipulation](https://open.kattis.com/problems/categorymanipulation "categorymanipulation")                            |
+| :beginner: [set](https://open.kattis.com/problems/set "set")                                                                                        | :beginner: [shoppinglist](https://open.kattis.com/problems/shoppinglist "shoppinglist")                                                    | :beginner: [catvsdog](https://open.kattis.com/problems/catvsdog "catvsdog")                                                       | :beginner: [hunterxcommunication](https://open.kattis.com/problems/hunterxcommunication "hunterxcommunication")                            |
+| :beginner: [semafori](https://open.kattis.com/problems/semafori "semafori")                                                                         | :beginner: [assembly](https://open.kattis.com/problems/assembly "assembly")                                                                | :beginner: [coke](https://open.kattis.com/problems/coke "coke")                                                                   | :beginner: [haikuformatting](https://open.kattis.com/problems/haikuformatting "haikuformatting")                                           |
+| :beginner: [redrover](https://open.kattis.com/problems/redrover "redrover")                                                                         | :beginner: [rockband](https://open.kattis.com/problems/rockband "rockband")                                                                | :beginner: [bridgeautomation](https://open.kattis.com/problems/bridgeautomation "bridgeautomation")                               | :beginner: [gameworld](https://open.kattis.com/problems/gameworld "gameworld")                                                             |
+| :beginner: [raggedright](https://open.kattis.com/problems/raggedright "raggedright")                                                                | :beginner: [pumpkinpatch](https://open.kattis.com/problems/pumpkinpatch "pumpkinpatch")                                                    | :beginner: [bowlstack](https://open.kattis.com/problems/bowlstack "bowlstack")                                                    | :beginner: [furrynuisance](https://open.kattis.com/problems/furrynuisance "furrynuisance")                                                 |
+| :beginner: [prerequisites](https://open.kattis.com/problems/prerequisites "prerequisites")                                                          | :beginner: [pxs](https://open.kattis.com/problems/pxs "pxs")                                                                               | :beginner: [booking](https://open.kattis.com/problems/booking "booking")                                                          | :beginner: [flightplans](https://open.kattis.com/problems/flightplans "flightplans")                                                       |
+| :beginner: [plantingtrees](https://open.kattis.com/problems/plantingtrees "plantingtrees")                                                          | :beginner: [pearwise](https://open.kattis.com/problems/pearwise "pearwise")                                                                | :beginner: [bitwise](https://open.kattis.com/problems/bitwise "bitwise")                                                          | :beginner: [faucetflow](https://open.kattis.com/problems/faucetflow "faucetflow")                                                          |
+| :beginner: [permutationdescent](https://open.kattis.com/problems/permutationdescent "permutationdescent")                                           | :beginner: [orderlyclass](https://open.kattis.com/problems/orderlyclass "orderlyclass")                                                    | :beginner: [beautifulbridges](https://open.kattis.com/problems/beautifulbridges "beautifulbridges")                               | :beginner: [datepickup](https://open.kattis.com/problems/datepickup "datepickup")                                                          |
+| :beginner: [peg](https://open.kattis.com/problems/peg "peg")                                                                                        | :beginner: [openpitmining](https://open.kattis.com/problems/openpitmining "openpitmining")                                                 | :beginner: [bananaproblem](https://open.kattis.com/problems/bananaproblem "bananaproblem")                                        | :beginner: [criticalelements](https://open.kattis.com/problems/criticalelements "criticalelements")                                        |
+| :beginner: [pachydermpeanutpacking](https://open.kattis.com/problems/pachydermpeanutpacking "pachydermpeanutpacking")                               | :beginner: [onaveragetheyrepurple](https://open.kattis.com/problems/onaveragetheyrepurple "onaveragetheyrepurple")                         | :beginner: [cool2](https://open.kattis.com/problems/cool2 "cool2")                                                                | :beginner: [chromiumshipping](https://open.kattis.com/problems/chromiumshipping "chromiumshipping")                                        |
+| :beginner: [okviri](https://open.kattis.com/problems/okviri "okviri")                                                                               | :beginner: [molecules](https://open.kattis.com/problems/molecules "molecules")                                                             | :beginner: [arrivingontime](https://open.kattis.com/problems/arrivingontime "arrivingontime")                                     | :beginner: [chasingsubs](https://open.kattis.com/problems/chasingsubs "chasingsubs")                                                       |
+| :beginner: [oktalni](https://open.kattis.com/problems/oktalni "oktalni")                                                                            | :beginner: [mincut](https://open.kattis.com/problems/mincut "mincut")                                                                      | :beginner: [absurdistan3](https://open.kattis.com/problems/absurdistan3 "absurdistan3")                                           | :beginner: [browniepoints2](https://open.kattis.com/problems/browniepoints2 "browniepoints2")                                              |
+| :beginner: [oddities](https://open.kattis.com/problems/oddities "oddities")                                                                         | :beginner: [loworderzeros](https://open.kattis.com/problems/loworderzeros "loworderzeros")                                                 | :beginner: [zipfslaw](https://open.kattis.com/problems/zipfslaw "zipfslaw")                                                       | :beginner: [bonbons](https://open.kattis.com/problems/bonbons "bonbons")                                                                   |
+| :beginner: [nineknights](https://open.kattis.com/problems/nineknights "nineknights")                                                                | :beginner: [imperfectgps](https://open.kattis.com/problems/imperfectgps "imperfectgps")                                                    | :beginner: [spectrum](https://open.kattis.com/problems/spectrum "spectrum")                                                       | :beginner: [bikingduck](https://open.kattis.com/problems/bikingduck "bikingduck")                                                          |
+| :beginner: [marswindow](https://open.kattis.com/problems/marswindow "marswindow")                                                                   | :beginner: [hotdogs](https://open.kattis.com/problems/hotdogs "hotdogs")                                                                   | :beginner: [treasurespotting](https://open.kattis.com/problems/treasurespotting "treasurespotting")                               | :beginner: [aroyalproblem](https://open.kattis.com/problems/aroyalproblem "aroyalproblem")                                                 |
+| :beginner: [kafkaesque](https://open.kattis.com/problems/kafkaesque "kafkaesque")                                                                   | :beginner: [flagquiz](https://open.kattis.com/problems/flagquiz "flagquiz")                                                                | :beginner: [trainaddiction](https://open.kattis.com/problems/trainaddiction "trainaddiction")                                     | :beginner: [airrally](https://open.kattis.com/problems/airrally "airrally")                                                                |
+| :beginner: [compass](https://open.kattis.com/problems/compass "compass")                                                                            | :beginner: [fire2](https://open.kattis.com/problems/fire2 "fire2")                                                                         | :beginner: [tours](https://open.kattis.com/problems/tours "tours")                                                                | :beginner: [wormholes2](https://open.kattis.com/problems/wormholes2 "wormholes2")                                                          |
+| :beginner: [jabuke](https://open.kattis.com/problems/jabuke "jabuke")                                                                               | :beginner: [fantasydraft](https://open.kattis.com/problems/fantasydraft "fantasydraft")                                                    | :beginner: [thesummersunsetback](https://open.kattis.com/problems/thesummersunsetback "thesummersunsetback")                      | :beginner: [windows](https://open.kattis.com/problems/windows "windows")                                                                   |
+| :beginner: [hothike](https://open.kattis.com/problems/hothike "hothike")                                                                            | :beginner: [droppingdirections](https://open.kattis.com/problems/droppingdirections "droppingdirections")                                  | :beginner: [setstack](https://open.kattis.com/problems/setstack "setstack")                                                       | :beginner: [whiteboard](https://open.kattis.com/problems/whiteboard "whiteboard")                                                          |
+| :beginner: [glitchbot](https://open.kattis.com/problems/glitchbot "glitchbot")                                                                      | :beginner: [divisible](https://open.kattis.com/problems/divisible "divisible")                                                             | :beginner: [thelastcrusade](https://open.kattis.com/problems/thelastcrusade "thelastcrusade")                                     | :beginner: [watchyourstep](https://open.kattis.com/problems/watchyourstep "watchyourstep")                                                 |
+| :beginner: [funhouse](https://open.kattis.com/problems/funhouse "funhouse")                                                                         | :beginner: [dejavu](https://open.kattis.com/problems/dejavu "dejavu")                                                                      | :beginner: [darkness](https://open.kattis.com/problems/darkness "darkness")                                                       | :beginner: [vocabulary](https://open.kattis.com/problems/vocabulary "vocabulary")                                                          |
+| :beginner: [functionalfun](https://open.kattis.com/problems/functionalfun "functionalfun")                                                          | :beginner: [cycleseasy](https://open.kattis.com/problems/cycleseasy "cycleseasy")                                                          | :beginner: [testscheduling](https://open.kattis.com/problems/testscheduling "testscheduling")                                     | :beginner: [traintickets](https://open.kattis.com/problems/traintickets "traintickets")                                                    |
+| :beginner: [flowlayout](https://open.kattis.com/problems/flowlayout "flowlayout")                                                                   | :beginner: [cuttingbrownies](https://open.kattis.com/problems/cuttingbrownies "cuttingbrownies")                                           | :beginner: [sprocketscience](https://open.kattis.com/problems/sprocketscience "sprocketscience")                                  | :beginner: [thelastlaugh](https://open.kattis.com/problems/thelastlaugh "thelastlaugh")                                                    |
+| :beginner: [eventplanning](https://open.kattis.com/problems/eventplanning "eventplanning")                                                          | :beginner: [driver](https://open.kattis.com/problems/driver "driver")                                                                      | :beginner: [shibuyacrossing](https://open.kattis.com/problems/shibuyacrossing "shibuyacrossing")                                  | :beginner: [componentsgame](https://open.kattis.com/problems/componentsgame "componentsgame")                                              |
+| :beginner: [epigdanceoff](https://open.kattis.com/problems/epigdanceoff "epigdanceoff")                                                             | :beginner: [fraction](https://open.kattis.com/problems/fraction "fraction")                                                                | :beginner: [relativnost](https://open.kattis.com/problems/relativnost "relativnost")                                              | :beginner: [thebeginningoftheendpart1](https://open.kattis.com/problems/thebeginningoftheendpart1 "thebeginningoftheendpart1")             |
+| :beginner: [egypt](https://open.kattis.com/problems/egypt "egypt")                                                                                  | :beginner: [circularlock](https://open.kattis.com/problems/circularlock "circularlock")                                                    | :beginner: [promotions](https://open.kattis.com/problems/promotions "promotions")                                                 | :beginner: [hashing](https://open.kattis.com/problems/hashing "hashing")                                                                   |
+| :beginner: [echoechoecho](https://open.kattis.com/problems/echoechoecho "echoechoecho")                                                             | :beginner: [cheatingatwar](https://open.kattis.com/problems/cheatingatwar "cheatingatwar")                                                 | :beginner: [pictureday](https://open.kattis.com/problems/pictureday "pictureday")                                                 | :beginner: [spin](https://open.kattis.com/problems/spin "spin")                                                                            |
+| :beginner: [costumecontest](https://open.kattis.com/problems/costumecontest "costumecontest")                                                       | :beginner: [carvet](https://open.kattis.com/problems/carvet "carvet")                                                                      | :beginner: [pagelayout](https://open.kattis.com/problems/pagelayout "pagelayout")                                                 | :beginner: [slalom](https://open.kattis.com/problems/slalom "slalom")                                                                      |
+| :beginner: [cookingwater](https://open.kattis.com/problems/cookingwater "cookingwater")                                                             | :beginner: [brocard](https://open.kattis.com/problems/brocard "brocard")                                                                   | :beginner: [ozljeda](https://open.kattis.com/problems/ozljeda "ozljeda")                                                          | :beginner: [shoppingplan](https://open.kattis.com/problems/shoppingplan "shoppingplan")                                                    |
+| :beginner: [conteststruggles](https://open.kattis.com/problems/conteststruggles "conteststruggles")                                                 | :beginner: [signals](https://open.kattis.com/problems/signals "signals")                                                                   | :beginner: [newmaths](https://open.kattis.com/problems/newmaths "newmaths")                                                       | :beginner: [sevenkingdoms](https://open.kattis.com/problems/sevenkingdoms "sevenkingdoms")                                                 |
+| :beginner: [compoundwords](https://open.kattis.com/problems/compoundwords "compoundwords")                                                          | :beginner: [boxes](https://open.kattis.com/problems/boxes "boxes")                                                                         | :beginner: [minflow](https://open.kattis.com/problems/minflow "minflow")                                                          | :beginner: [sculpture](https://open.kattis.com/problems/sculpture "sculpture")                                                             |
+| :beginner: [carefulascent](https://open.kattis.com/problems/carefulascent "carefulascent")                                                          | :beginner: [bestbefore](https://open.kattis.com/problems/bestbefore "bestbefore")                                                          | :beginner: [liga](https://open.kattis.com/problems/liga "liga")                                                                   | :beginner: [rainfall](https://open.kattis.com/problems/rainfall "rainfall")                                                                |
+| :beginner: [buka](https://open.kattis.com/problems/buka "buka")                                                                                     | :beginner: [balanceddiet](https://open.kattis.com/problems/balanceddiet "balanceddiet")                                                    | :beginner: [leapfrog](https://open.kattis.com/problems/leapfrog "leapfrog")                                                       | :beginner: [polygraph](https://open.kattis.com/problems/polygraph "polygraph")                                                             |
+| :beginner: [bossbattle](https://open.kattis.com/problems/bossbattle "bossbattle")                                                                   | :beginner: [astro](https://open.kattis.com/problems/astro "astro")                                                                         | :beginner: [jumbledstring](https://open.kattis.com/problems/jumbledstring "jumbledstring")                                        | :beginner: [palacinke](https://open.kattis.com/problems/palacinke "palacinke")                                                             |
+| :beginner: [bookingaroom](https://open.kattis.com/problems/bookingaroom "bookingaroom")                                                             | :beginner: [alicedigital](https://open.kattis.com/problems/alicedigital "alicedigital")                                                    | :beginner: [johnsstack](https://open.kattis.com/problems/johnsstack "johnsstack")                                                 | :beginner: [mountainouslandscape](https://open.kattis.com/problems/mountainouslandscape "mountainouslandscape")                            |
+| :beginner: [asciiaddition](https://open.kattis.com/problems/asciiaddition "asciiaddition")                                                          | :beginner: [doctorkattis](https://open.kattis.com/problems/doctorkattis "doctorkattis")                                                    | :beginner: [inversefactorial](https://open.kattis.com/problems/inversefactorial "inversefactorial")                               | :beginner: [matchings](https://open.kattis.com/problems/matchings "matchings")                                                             |
+| :beginner: [aliennumbers](https://open.kattis.com/problems/aliennumbers "aliennumbers")                                                             | :beginner: [continuousmedian](https://open.kattis.com/problems/continuousmedian "continuousmedian")                                        | :beginner: [invasion](https://open.kattis.com/problems/invasion "invasion")                                                       | :beginner: [lifeforms](https://open.kattis.com/problems/lifeforms "lifeforms")                                                             |
+| :beginner: [aboveaverage](https://open.kattis.com/problems/aboveaverage "aboveaverage")                                                             | :beginner: [witchwood](https://open.kattis.com/problems/witchwood "witchwood")                                                             | :beginner: [estate](https://open.kattis.com/problems/estate "estate")                                                             | :beginner: [kingpinescape](https://open.kattis.com/problems/kingpinescape "kingpinescape")                                                 |
+| :beginner: [yoda](https://open.kattis.com/problems/yoda "yoda")                                                                                     | :beginner: [urbandesign](https://open.kattis.com/problems/urbandesign "urbandesign")                                                       | :beginner: [hopscotch](https://open.kattis.com/problems/hopscotch "hopscotch")                                                    | :beginner: [jinxedbetting](https://open.kattis.com/problems/jinxedbetting "jinxedbetting")                                                 |
+| :beginner: [warehouse](https://open.kattis.com/problems/warehouse "warehouse")                                                                      | :beginner: [tray](https://open.kattis.com/problems/tray "tray")                                                                            | :beginner: [highscore](https://open.kattis.com/problems/highscore "highscore")                                                    | :beginner: [jealousyoungsters](https://open.kattis.com/problems/jealousyoungsters "jealousyoungsters")                                     |
+| :beginner: [videospeedup](https://open.kattis.com/problems/videospeedup "videospeedup")                                                             | :beginner: [timing](https://open.kattis.com/problems/timing "timing")                                                                      | :beginner: [helpfulrotations](https://open.kattis.com/problems/helpfulrotations "helpfulrotations")                               | :beginner: [jazzjourney](https://open.kattis.com/problems/jazzjourney "jazzjourney")                                                       |
+| :beginner: [touchscreenkeyboard](https://open.kattis.com/problems/touchscreenkeyboard "touchscreenkeyboard")                                        | :beginner: [grapevine](https://open.kattis.com/problems/grapevine "grapevine")                                                             | :beginner: [heapsoffun](https://open.kattis.com/problems/heapsoffun "heapsoffun")                                                 | :beginner: [interviewqueue](https://open.kattis.com/problems/interviewqueue "interviewqueue")                                              |
+| :beginner: [spellingbee](https://open.kattis.com/problems/spellingbee "spellingbee")                                                                | :beginner: [ship](https://open.kattis.com/problems/ship "ship")                                                                            | :beginner: [halloweenloot](https://open.kattis.com/problems/halloweenloot "halloweenloot")                                        | :beginner: [intelligenceexchange](https://open.kattis.com/problems/intelligenceexchange "intelligenceexchange")                            |
+| :beginner: [simpleaddition](https://open.kattis.com/problems/simpleaddition "simpleaddition")                                                       | :beginner: [saintjohn](https://open.kattis.com/problems/saintjohn "saintjohn")                                                             | :beginner: [grandopening](https://open.kattis.com/problems/grandopening "grandopening")                                           | :beginner: [infiltration2](https://open.kattis.com/problems/infiltration2 "infiltration2")                                                 |
+| :beginner: [vajningsplikt](https://open.kattis.com/problems/vajningsplikt "vajningsplikt")                                                          | :beginner: [robotturtles](https://open.kattis.com/problems/robotturtles "robotturtles")                                                    | :beginner: [froggie](https://open.kattis.com/problems/froggie "froggie")                                                          | :beginner: [indoorienteering](https://open.kattis.com/problems/indoorienteering "indoorienteering")                                        |
+| :beginner: [commercials](https://open.kattis.com/problems/commercials "commercials")                                                                | :beginner: [robotsonagrid](https://open.kattis.com/problems/robotsonagrid "robotsonagrid")                                                 | :beginner: [foreveryoung](https://open.kattis.com/problems/foreveryoung "foreveryoung")                                           | :beginner: [ideas](https://open.kattis.com/problems/ideas "ideas")                                                                         |
+| :beginner: [progressivescramble](https://open.kattis.com/problems/progressivescramble "progressivescramble")                                        | :beginner: [reconnaissance](https://open.kattis.com/problems/reconnaissance "reconnaissance")                                              | :beginner: [fogcatchers](https://open.kattis.com/problems/fogcatchers "fogcatchers")                                              | :beginner: [howtopaint](https://open.kattis.com/problems/howtopaint "howtopaint")                                                          |
+| :beginner: [printingcosts](https://open.kattis.com/problems/printingcosts "printingcosts")                                                          | :beginner: [raceday](https://open.kattis.com/problems/raceday "raceday")                                                                   | :beginner: [flashingfluorescents](https://open.kattis.com/problems/flashingfluorescents "flashingfluorescents")                   | :beginner: [gridmst](https://open.kattis.com/problems/gridmst "gridmst")                                                                   |
+| :beginner: [polymul1](https://open.kattis.com/problems/polymul1 "polymul1")                                                                         | :beginner: [paintball](https://open.kattis.com/problems/paintball "paintball")                                                             | :beginner: [firestation](https://open.kattis.com/problems/firestation "firestation")                                              | :beginner: [greenlight](https://open.kattis.com/problems/greenlight "greenlight")                                                          |
+| :beginner: [okvir](https://open.kattis.com/problems/okvir "okvir")                                                                                  | :beginner: [necklacedecomposition](https://open.kattis.com/problems/necklacedecomposition "necklacedecomposition")                         | :beginner: [herrings](https://open.kattis.com/problems/herrings "herrings")                                                       | :beginner: [flight](https://open.kattis.com/problems/flight "flight")                                                                      |
+| :beginner: [numbertree](https://open.kattis.com/problems/numbertree "numbertree")                                                                   | :beginner: [muddyhike](https://open.kattis.com/problems/muddyhike "muddyhike")                                                             | :beginner: [ecodriving](https://open.kattis.com/problems/ecodriving "ecodriving")                                                 | :beginner: [familydag](https://open.kattis.com/problems/familydag "familydag")                                                             |
+| :beginner: [nop](https://open.kattis.com/problems/nop "nop")                                                                                        | :beginner: [mazemovement](https://open.kattis.com/problems/mazemovement "mazemovement")                                                    | :beginner: [dragondropped](https://open.kattis.com/problems/dragondropped "dragondropped")                                        | :beginner: [disposableswitches](https://open.kattis.com/problems/disposableswitches "disposableswitches")                                  |
+| :beginner: [musicalnotation](https://open.kattis.com/problems/musicalnotation "musicalnotation")                                                    | :beginner: [matchsticks](https://open.kattis.com/problems/matchsticks "matchsticks")                                                       | :beginner: [cvjetici](https://open.kattis.com/problems/cvjetici "cvjetici")                                                       | :beginner: [dancecircle](https://open.kattis.com/problems/dancecircle "dancecircle")                                                       |
+| :beginner: [mathhomework](https://open.kattis.com/problems/mathhomework "mathhomework")                                                             | :beginner: [knockout](https://open.kattis.com/problems/knockout "knockout")                                                                | :beginner: [cuttingthenecklace](https://open.kattis.com/problems/cuttingthenecklace "cuttingthenecklace")                         | :beginner: [compasscard](https://open.kattis.com/problems/compasscard "compasscard")                                                       |
+| :beginner: [measurement](https://open.kattis.com/problems/measurement "measurement")                                                                | :beginner: [kastenlauf](https://open.kattis.com/problems/kastenlauf "kastenlauf")                                                          | :beginner: [cucumberconundrum](https://open.kattis.com/problems/cucumberconundrum "cucumberconundrum")                            | :beginner: [collidingtraffic](https://open.kattis.com/problems/collidingtraffic "collidingtraffic")                                        |
+| :beginner: [humancannonball](https://open.kattis.com/problems/humancannonball "humancannonball")                                                    | :beginner: [hrpa](https://open.kattis.com/problems/hrpa "hrpa")                                                                            | :beginner: [coverage](https://open.kattis.com/problems/coverage "coverage")                                                       | :beginner: [chemicalsmonitoring](https://open.kattis.com/problems/chemicalsmonitoring "chemicalsmonitoring")                               |
+| :beginner: [haypoints](https://open.kattis.com/problems/haypoints "haypoints")                                                                      | :beginner: [howmanyzeros](https://open.kattis.com/problems/howmanyzeros "howmanyzeros")                                                    | :beginner: [konsultarbeten](https://open.kattis.com/problems/konsultarbeten "konsultarbeten")                                     | :beginner: [canyon](https://open.kattis.com/problems/canyon "canyon")                                                                      |
+| :beginner: [hardware](https://open.kattis.com/problems/hardware "hardware")                                                                         | :beginner: [hanjie](https://open.kattis.com/problems/hanjie "hanjie")                                                                      | :beginner: [citadelconstruction](https://open.kattis.com/problems/citadelconstruction "citadelconstruction")                      | :beginner: [cablecar](https://open.kattis.com/problems/cablecar "cablecar")                                                                |
+| :beginner: [redistribution](https://open.kattis.com/problems/redistribution "redistribution")                                                       | :beginner: [frustratedqueue](https://open.kattis.com/problems/frustratedqueue "frustratedqueue")                                           | :beginner: [cheaperdrink](https://open.kattis.com/problems/cheaperdrink "cheaperdrink")                                           | :beginner: [binarytree](https://open.kattis.com/problems/binarytree "binarytree")                                                          |
+| :beginner: [engineeringenglish](https://open.kattis.com/problems/engineeringenglish "engineeringenglish")                                           | :beginner: [font](https://open.kattis.com/problems/font "font")                                                                            | :beginner: [buffet](https://open.kattis.com/problems/buffet "buffet")                                                             | :beginner: [beacons](https://open.kattis.com/problems/beacons "beacons")                                                                   |
+| :beginner: [deathstar](https://open.kattis.com/problems/deathstar "deathstar")                                                                      | :beginner: [firetrucksarered](https://open.kattis.com/problems/firetrucksarered "firetrucksarered")                                        | :beginner: [bubblytroubly](https://open.kattis.com/problems/bubblytroubly "bubblytroubly")                                        | :beginner: [arcaeapartners](https://open.kattis.com/problems/arcaeapartners "arcaeapartners")                                              |
+| :beginner: [coursescheduling](https://open.kattis.com/problems/coursescheduling "coursescheduling")                                                 | :beginner: [findthegraph](https://open.kattis.com/problems/findthegraph "findthegraph")                                                    | :beginner: [bridgesandtunnels2](https://open.kattis.com/problems/bridgesandtunnels2 "bridgesandtunnels2")                         | :beginner: [walk](https://open.kattis.com/problems/walk "walk")                                                                            |
+| :beginner: [bestrelayteam](https://open.kattis.com/problems/bestrelayteam "bestrelayteam")                                                          | :beginner: [showroom](https://open.kattis.com/problems/showroom "showroom")                                                                | :beginner: [bigbrother](https://open.kattis.com/problems/bigbrother "bigbrother")                                                 | :beginner: [unterwavedistance](https://open.kattis.com/problems/unterwavedistance "unterwavedistance")                                     |
+| :beginner: [compromise](https://open.kattis.com/problems/compromise "compromise")                                                                   | :beginner: [drinkresponsibly](https://open.kattis.com/problems/drinkresponsibly "drinkresponsibly")                                        | :beginner: [balanceddiet2](https://open.kattis.com/problems/balanceddiet2 "balanceddiet2")                                        | :beginner: [truefalseworksheet](https://open.kattis.com/problems/truefalseworksheet "truefalseworksheet")                                  |
+| :beginner: [anotherbrick](https://open.kattis.com/problems/anotherbrick "anotherbrick")                                                             | :beginner: [convexhull](https://open.kattis.com/problems/convexhull "convexhull")                                                          | :beginner: [averagerank](https://open.kattis.com/problems/averagerank "averagerank")                                              | :beginner: [trainline](https://open.kattis.com/problems/trainline "trainline")                                                             |
+| :beginner: [akcija](https://open.kattis.com/problems/akcija "akcija")                                                                               | :beginner: [climbingstairs](https://open.kattis.com/problems/climbingstairs "climbingstairs")                                              | :beginner: [anthony](https://open.kattis.com/problems/anthony "anthony")                                                          | :beginner: [tournament](https://open.kattis.com/problems/tournament "tournament")                                                          |
+| :beginner: [abc](https://open.kattis.com/problems/abc "abc")                                                                                        | :beginner: [chemistsvows](https://open.kattis.com/problems/chemistsvows "chemistsvows")                                                    | :beginner: [allpairspath](https://open.kattis.com/problems/allpairspath "allpairspath")                                           | :beginner: [structuraldifferences](https://open.kattis.com/problems/structuraldifferences "structuraldifferences")                         |
+| :beginner: [watchdog](https://open.kattis.com/problems/watchdog "watchdog")                                                                         | :beginner: [cardhand](https://open.kattis.com/problems/cardhand "cardhand")                                                                | :beginner: [alliswell](https://open.kattis.com/problems/alliswell "alliswell")                                                    | :beginner: [strikercount](https://open.kattis.com/problems/strikercount "strikercount")                                                    |
+| :beginner: [triangleornaments](https://open.kattis.com/problems/triangleornaments "triangleornaments")                                              | :beginner: [bucketbrigade](https://open.kattis.com/problems/bucketbrigade "bucketbrigade")                                                 | :beginner: [accesspoints](https://open.kattis.com/problems/accesspoints "accesspoints")                                           | :beginner: [sheep](https://open.kattis.com/problems/sheep "sheep")                                                                         |
+| :beginner: [trainpassengers](https://open.kattis.com/problems/trainpassengers "trainpassengers")                                                    | :beginner: [amultiplicationgame](https://open.kattis.com/problems/amultiplicationgame "amultiplicationgame")                               | :beginner: [xortris](https://open.kattis.com/problems/xortris "xortris")                                                          | :beginner: [shares](https://open.kattis.com/problems/shares "shares")                                                                      |
+| :beginner: [temperature](https://open.kattis.com/problems/temperature "temperature")                                                                | :beginner: [yatp](https://open.kattis.com/problems/yatp "yatp")                                                                            | :beginner: [whacamole](https://open.kattis.com/problems/whacamole "whacamole")                                                    | :beginner: [sequentialyahtzee](https://open.kattis.com/problems/sequentialyahtzee "sequentialyahtzee")                                     |
+| :beginner: [thegrandadventure](https://open.kattis.com/problems/thegrandadventure "thegrandadventure")                                              | :beginner: [victorythroughsynergy](https://open.kattis.com/problems/victorythroughsynergy "victorythroughsynergy")                         | :beginner: [consumption](https://open.kattis.com/problems/consumption "consumption")                                              | :beginner: [sendmoremoney](https://open.kattis.com/problems/sendmoremoney "sendmoremoney")                                                 |
+| :beginner: [temperatureconfusion](https://open.kattis.com/problems/temperatureconfusion "temperatureconfusion")                                     | :beginner: [snowflakes](https://open.kattis.com/problems/snowflakes "snowflakes")                                                          | :beginner: [deliveryperson](https://open.kattis.com/problems/deliveryperson "deliveryperson")                                     | :beginner: [rubikrectangle](https://open.kattis.com/problems/rubikrectangle "rubikrectangle")                                              |
+| :beginner: [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers "sorttwonumbers")                                                       | :beginner: [xentopia](https://open.kattis.com/problems/xentopia "xentopia")                                                                | :beginner: [trafficblights](https://open.kattis.com/problems/trafficblights "trafficblights")                                     | :beginner: [pizzaproblems](https://open.kattis.com/problems/pizzaproblems "pizzaproblems")                                                 |
+| :beginner: [sortofsorting](https://open.kattis.com/problems/sortofsorting "sortofsorting")                                                          | :beginner: [tictactoe2](https://open.kattis.com/problems/tictactoe2 "tictactoe2")                                                          | :beginner: [tractor](https://open.kattis.com/problems/tractor "tractor")                                                          | :beginner: [equationsolverplus](https://open.kattis.com/problems/equationsolverplus "equationsolverplus")                                  |
+| :beginner: [socialrunning](https://open.kattis.com/problems/socialrunning "socialrunning")                                                          | :beginner: [stringmatching](https://open.kattis.com/problems/stringmatching "stringmatching")                                              | :beginner: [substitution](https://open.kattis.com/problems/substitution "substitution")                                           | :beginner: [mountainroad](https://open.kattis.com/problems/mountainroad "mountainroad")                                                    |
+| :beginner: [princesspeach](https://open.kattis.com/problems/princesspeach "princesspeach")                                                          | :beginner: [stopcard](https://open.kattis.com/problems/stopcard "stopcard")                                                                | :beginner: [magical3](https://open.kattis.com/problems/magical3 "magical3")                                                       | :beginner: [lightsout](https://open.kattis.com/problems/lightsout "lightsout")                                                             |
+| :beginner: [savingdaylight](https://open.kattis.com/problems/savingdaylight "savingdaylight")                                                       | :beginner: [curvyblocks](https://open.kattis.com/problems/curvyblocks "curvyblocks")                                                       | :beginner: [embarrassedcryptographer](https://open.kattis.com/problems/embarrassedcryptographer "embarrassedcryptographer")       | :beginner: [kingofspades](https://open.kattis.com/problems/kingofspades "kingofspades")                                                    |
+| :beginner: [quiteaproblem](https://open.kattis.com/problems/quiteaproblem "quiteaproblem")                                                          | :beginner: [squaredeal](https://open.kattis.com/problems/squaredeal "squaredeal")                                                          | :beginner: [teamup](https://open.kattis.com/problems/teamup "teamup")                                                             | :beginner: [kindergarten](https://open.kattis.com/problems/kindergarten "kindergarten")                                                    |
+| :beginner: [register](https://open.kattis.com/problems/register "register")                                                                         | :beginner: [shortsell](https://open.kattis.com/problems/shortsell "shortsell")                                                             | :beginner: [slalom2](https://open.kattis.com/problems/slalom2 "slalom2")                                                          | :beginner: [islands2](https://open.kattis.com/problems/islands2 "islands2")                                                                |
+| :beginner: [piglatin](https://open.kattis.com/problems/piglatin "piglatin")                                                                         | :beginner: [settlers2](https://open.kattis.com/problems/settlers2 "settlers2")                                                             | :beginner: [skiresort](https://open.kattis.com/problems/skiresort "skiresort")                                                    | :beginner: [iqtest](https://open.kattis.com/problems/iqtest "iqtest")                                                                      |
+| :beginner: [permutedarithmeticsequence](https://open.kattis.com/problems/permutedarithmeticsequence "permutedarithmeticsequence")                   | :beginner: [dutyscheduler](https://open.kattis.com/problems/dutyscheduler "dutyscheduler")                                                 | :beginner: [shopping](https://open.kattis.com/problems/shopping "shopping")                                                       | :beginner: [squares](https://open.kattis.com/problems/squares "squares")                                                                   |
+| :beginner: [password](https://open.kattis.com/problems/password "password")                                                                         | :beginner: [primematrix](https://open.kattis.com/problems/primematrix "primematrix")                                                       | :beginner: [rebelportals](https://open.kattis.com/problems/rebelportals "rebelportals")                                           | :beginner: [hash](https://open.kattis.com/problems/hash "hash")                                                                            |
+| :beginner: [npuzzle](https://open.kattis.com/problems/npuzzle "npuzzle")                                                                            | :beginner: [phonelist](https://open.kattis.com/problems/phonelist "phonelist")                                                             | :beginner: [razgovori](https://open.kattis.com/problems/razgovori "razgovori")                                                    | :beginner: [greatestpermutation](https://open.kattis.com/problems/greatestpermutation "greatestpermutation")                               |
+| :beginner: [nimionese](https://open.kattis.com/problems/nimionese "nimionese")                                                                      | :beginner: [partygame](https://open.kattis.com/problems/partygame "partygame")                                                             | :beginner: [pubnite](https://open.kattis.com/problems/pubnite "pubnite")                                                          | :beginner: [fidgetspinner](https://open.kattis.com/problems/fidgetspinner "fidgetspinner")                                                 |
+| :beginner: [multiplication](https://open.kattis.com/problems/multiplication "multiplication")                                                       | :beginner: [musiccollection](https://open.kattis.com/problems/musiccollection "musiccollection")                                           | :beginner: [prosjek2](https://open.kattis.com/problems/prosjek2 "prosjek2")                                                       | :beginner: [fantasticproblem](https://open.kattis.com/problems/fantasticproblem "fantasticproblem")                                        |
+| :beginner: [misa](https://open.kattis.com/problems/misa "misa")                                                                                     | :beginner: [improbable](https://open.kattis.com/problems/improbable "improbable")                                                          | :beginner: [powerstrings](https://open.kattis.com/problems/powerstrings "powerstrings")                                           | :beginner: [enclosure](https://open.kattis.com/problems/enclosure "enclosure")                                                             |
+| :beginner: [minimumscalar](https://open.kattis.com/problems/minimumscalar "minimumscalar")                                                          | :beginner: [maximizingwinnings](https://open.kattis.com/problems/maximizingwinnings "maximizingwinnings")                                  | :beginner: [pointinpolygon](https://open.kattis.com/problems/pointinpolygon "pointinpolygon")                                     | :beginner: [directorymanagement](https://open.kattis.com/problems/directorymanagement "directorymanagement")                               |
+| :beginner: [mia](https://open.kattis.com/problems/mia "mia")                                                                                        | :beginner: [knapsackpacking](https://open.kattis.com/problems/knapsackpacking "knapsackpacking")                                           | :beginner: [pitchperformance](https://open.kattis.com/problems/pitchperformance "pitchperformance")                               | :beginner: [demeritpoints](https://open.kattis.com/problems/demeritpoints "demeritpoints")                                                 |
+| :beginner: [metaprogramming](https://open.kattis.com/problems/metaprogramming "metaprogramming")                                                    | :beginner: [kamp](https://open.kattis.com/problems/kamp "kamp")                                                                            | :beginner: [perica](https://open.kattis.com/problems/perica "perica")                                                             | :beginner: [deliverydelays](https://open.kattis.com/problems/deliverydelays "deliverydelays")                                              |
+| :beginner: [majstor](https://open.kattis.com/problems/majstor "majstor")                                                                            | :beginner: [increasingsubsequence](https://open.kattis.com/problems/increasingsubsequence "increasingsubsequence")                         | :beginner: [pavers](https://open.kattis.com/problems/pavers "pavers")                                                             | :beginner: [climbing](https://open.kattis.com/problems/climbing "climbing")                                                                |
+| :beginner: [lawnmower](https://open.kattis.com/problems/lawnmower "lawnmower")                                                                      | :beginner: [hogwarts2](https://open.kattis.com/problems/hogwarts2 "hogwarts2")                                                             | :beginner: [pachinkoprobability](https://open.kattis.com/problems/pachinkoprobability "pachinkoprobability")                      | :beginner: [blokovi](https://open.kattis.com/problems/blokovi "blokovi")                                                                   |
+| :beginner: [keyboardd](https://open.kattis.com/problems/keyboardd "keyboardd")                                                                      | :beginner: [grasshopper](https://open.kattis.com/problems/grasshopper "grasshopper")                                                       | :beginner: [outing](https://open.kattis.com/problems/outing "outing")                                                             | :beginner: [biotrip](https://open.kattis.com/problems/biotrip "biotrip")                                                                   |
+| :beginner: [communication](https://open.kattis.com/problems/communication "communication")                                                          | :beginner: [greatswercporto](https://open.kattis.com/problems/greatswercporto "greatswercporto")                                           | :beginner: [maze](https://open.kattis.com/problems/maze "maze")                                                                   | :beginner: [bingoties](https://open.kattis.com/problems/bingoties "bingoties")                                                             |
+| :beginner: [hidden](https://open.kattis.com/problems/hidden "hidden")                                                                               | :beginner: [generalizedrecursivefunctions](https://open.kattis.com/problems/generalizedrecursivefunctions "generalizedrecursivefunctions") | :beginner: [managingpackaging](https://open.kattis.com/problems/managingpackaging "managingpackaging")                            | :beginner: [binaryvoting](https://open.kattis.com/problems/binaryvoting "binaryvoting")                                                    |
+| :beginner: [growlinggears](https://open.kattis.com/problems/growlinggears "growlinggears")                                                          | :beginner: [foodcarts](https://open.kattis.com/problems/foodcarts "foodcarts")                                                             | :beginner: [hotels](https://open.kattis.com/problems/hotels "hotels")                                                             | :beginner: [causal](https://open.kattis.com/problems/causal "causal")                                                                      |
+| :beginner: [greedilyincreasing](https://open.kattis.com/problems/greedilyincreasing "greedilyincreasing")                                           | :beginner: [flowergarden](https://open.kattis.com/problems/flowergarden "flowergarden")                                                    | :beginner: [hogwarts](https://open.kattis.com/problems/hogwarts "hogwarts")                                                       | :beginner: [knightfly](https://open.kattis.com/problems/knightfly "knightfly")                                                             |
+| :beginner: [gold](https://open.kattis.com/problems/gold "gold")                                                                                     | :beginner: [fenwick](https://open.kattis.com/problems/fenwick "fenwick")                                                                   | :beginner: [hiddenwords](https://open.kattis.com/problems/hiddenwords "hiddenwords")                                              | :beginner: [zergrush](https://open.kattis.com/problems/zergrush "zergrush")                                                                |
+| :beginner: [george](https://open.kattis.com/problems/george "george")                                                                               | :beginner: [dancerecital](https://open.kattis.com/problems/dancerecital "dancerecital")                                                    | :beginner: [roomba](https://open.kattis.com/problems/roomba "roomba")                                                             | :beginner: [windowshopping](https://open.kattis.com/problems/windowshopping "windowshopping")                                              |
+| :beginner: [fbiuniversal](https://open.kattis.com/problems/fbiuniversal "fbiuniversal")                                                             | :beginner: [cross](https://open.kattis.com/problems/cross "cross")                                                                         | :beginner: [habeascorpus](https://open.kattis.com/problems/habeascorpus "habeascorpus")                                           | :beginner: [triptik](https://open.kattis.com/problems/triptik "triptik")                                                                   |
+| :beginner: [exactlyelectrical](https://open.kattis.com/problems/exactlyelectrical "exactlyelectrical")                                              | :beginner: [coveredwalkway](https://open.kattis.com/problems/coveredwalkway "coveredwalkway")                                              | :beginner: [goblingardenguards](https://open.kattis.com/problems/goblingardenguards "goblingardenguards")                         | :beginner: [suma](https://open.kattis.com/problems/suma "suma")                                                                            |
+| :beginner: [driversdilemma](https://open.kattis.com/problems/driversdilemma "driversdilemma")                                                       | :beginner: [copsandrobbers](https://open.kattis.com/problems/copsandrobbers "copsandrobbers")                                              | :beginner: [gettingthrough](https://open.kattis.com/problems/gettingthrough "gettingthrough")                                     | :beginner: [stack](https://open.kattis.com/problems/stack "stack")                                                                         |
+| :beginner: [dreamer](https://open.kattis.com/problems/dreamer "dreamer")                                                                            | :beginner: [boundingbox](https://open.kattis.com/problems/boundingbox "boundingbox")                                                       | :beginner: [fulldepthmorningshow](https://open.kattis.com/problems/fulldepthmorningshow "fulldepthmorningshow")                   | :beginner: [rhino](https://open.kattis.com/problems/rhino "rhino")                                                                         |
+| :beginner: [delimitersoup](https://open.kattis.com/problems/delimitersoup "delimitersoup")                                                          | :beginner: [primes2](https://open.kattis.com/problems/primes2 "primes2")                                                                   | :beginner: [fractal2](https://open.kattis.com/problems/fractal2 "fractal2")                                                       | :beginner: [recursionrandfun](https://open.kattis.com/problems/recursionrandfun "recursionrandfun")                                        |
+| :beginner: [dst](https://open.kattis.com/problems/dst "dst")                                                                                        | :beginner: [beautifulprimes](https://open.kattis.com/problems/beautifulprimes "beautifulprimes")                                           | :beginner: [folding](https://open.kattis.com/problems/folding "folding")                                                          | :beginner: [radar](https://open.kattis.com/problems/radar "radar")                                                                         |
+| :beginner: [conquestcampaign](https://open.kattis.com/problems/conquestcampaign "conquestcampaign")                                                 | :beginner: [arcticnetwork](https://open.kattis.com/problems/arcticnetwork "arcticnetwork")                                                 | :beginner: [filmcritics](https://open.kattis.com/problems/filmcritics "filmcritics")                                              | :beginner: [prolongedpassword](https://open.kattis.com/problems/prolongedpassword "prolongedpassword")                                     |
+| :beginner: [color](https://open.kattis.com/problems/color "color")                                                                                  | :beginner: [appallingarchitecture](https://open.kattis.com/problems/appallingarchitecture "appallingarchitecture")                         | :beginner: [fairbandwidthsharing](https://open.kattis.com/problems/fairbandwidthsharing "fairbandwidthsharing")                   | :beginner: [programmingteamselection](https://open.kattis.com/problems/programmingteamselection "programmingteamselection")                |
+| :beginner: [calories](https://open.kattis.com/problems/calories "calories")                                                                         | :beginner: [anotherdice](https://open.kattis.com/problems/anotherdice "anotherdice")                                                       | :beginner: [exammanipulation](https://open.kattis.com/problems/exammanipulation "exammanipulation")                               | :beginner: [porkbarrel](https://open.kattis.com/problems/porkbarrel "porkbarrel")                                                          |
+| :beginner: [beehives](https://open.kattis.com/problems/beehives "beehives")                                                                         | :beginner: [toys](https://open.kattis.com/problems/toys "toys")                                                                            | :beginner: [entertainmentbox](https://open.kattis.com/problems/entertainmentbox "entertainmentbox")                               | :beginner: [plankton](https://open.kattis.com/problems/plankton "plankton")                                                                |
+| :beginner: [babylonian](https://open.kattis.com/problems/babylonian "babylonian")                                                                   | :beginner: [srednji](https://open.kattis.com/problems/srednji "srednji")                                                                   | :beginner: [easyclimb](https://open.kattis.com/problems/easyclimb "easyclimb")                                                    | :beginner: [pirate](https://open.kattis.com/problems/pirate "pirate")                                                                      |
+| :beginner: [whatdoesthefoxsay](https://open.kattis.com/problems/whatdoesthefoxsay "whatdoesthefoxsay")                                              | :beginner: [squarefieldseasy](https://open.kattis.com/problems/squarefieldseasy "squarefieldseasy")                                        | :beginner: [earlyorders](https://open.kattis.com/problems/earlyorders "earlyorders")                                              | :beginner: [paintedcorridors](https://open.kattis.com/problems/paintedcorridors "paintedcorridors")                                        |
+| :beginner: [welcomeeasy](https://open.kattis.com/problems/welcomeeasy "welcomeeasy")                                                                | :beginner: [romanholidays](https://open.kattis.com/problems/romanholidays "romanholidays")                                                 | :beginner: [droppingball2](https://open.kattis.com/problems/droppingball2 "droppingball2")                                        | :beginner: [onewayroads](https://open.kattis.com/problems/onewayroads "onewayroads")                                                       |
+| :beginner: [insert](https://open.kattis.com/problems/insert "insert")                                                                               | :beginner: [rocketstages](https://open.kattis.com/problems/rocketstages "rocketstages")                                                    | :beginner: [optimistan](https://open.kattis.com/problems/optimistan "optimistan")                                                 | :beginner: [milkteabattle](https://open.kattis.com/problems/milkteabattle "milkteabattle")                                                 |
+| :beginner: [tram](https://open.kattis.com/problems/tram "tram")                                                                                     | :beginner: [purplerain](https://open.kattis.com/problems/purplerain "purplerain")                                                          | :beginner: [dickandjane](https://open.kattis.com/problems/dickandjane "dickandjane")                                              | :beginner: [meowfactor2](https://open.kattis.com/problems/meowfactor2 "meowfactor2")                                                       |
+| :beginner: [mailbox](https://open.kattis.com/problems/mailbox "mailbox")                                                                            | :beginner: [programmingtutors](https://open.kattis.com/problems/programmingtutors "programmingtutors")                                     | :beginner: [coverup](https://open.kattis.com/problems/coverup "coverup")                                                          | :beginner: [rivers](https://open.kattis.com/problems/rivers "rivers")                                                                      |
+| :beginner: [thedealoftheday](https://open.kattis.com/problems/thedealoftheday "thedealoftheday")                                                    | :beginner: [papersnowflakes](https://open.kattis.com/problems/papersnowflakes "papersnowflakes")                                           | :beginner: [cousins](https://open.kattis.com/problems/cousins "cousins")                                                          | :beginner: [lockblocked](https://open.kattis.com/problems/lockblocked "lockblocked")                                                       |
+| :beginner: [thebackslashproblem](https://open.kattis.com/problems/thebackslashproblem "thebackslashproblem")                                        | :beginner: [paintball2](https://open.kattis.com/problems/paintball2 "paintball2")                                                          | :beginner: [chesstournament](https://open.kattis.com/problems/chesstournament "chesstournament")                                  | :beginner: [knightsmarathon](https://open.kattis.com/problems/knightsmarathon "knightsmarathon")                                           |
+| :beginner: [tajna](https://open.kattis.com/problems/tajna "tajna")                                                                                  | :beginner: [ninepacks](https://open.kattis.com/problems/ninepacks "ninepacks")                                                             | :beginner: [cargame](https://open.kattis.com/problems/cargame "cargame")                                                          | :beginner: [justenoughbridges](https://open.kattis.com/problems/justenoughbridges "justenoughbridges")                                     |
+| :beginner: [sylvester](https://open.kattis.com/problems/sylvester "sylvester")                                                                      | :beginner: [minspantree](https://open.kattis.com/problems/minspantree "minspantree")                                                       | :beginner: [cafeteria](https://open.kattis.com/problems/cafeteria "cafeteria")                                                    | :beginner: [hoarsehorses](https://open.kattis.com/problems/hoarsehorses "hoarsehorses")                                                    |
+| :beginner: [sumoftheothers](https://open.kattis.com/problems/sumoftheothers "sumoftheothers")                                                       | :beginner: [meltdown](https://open.kattis.com/problems/meltdown "meltdown")                                                                | :beginner: [bulldozer](https://open.kattis.com/problems/bulldozer "bulldozer")                                                    | :beginner: [hideandseek](https://open.kattis.com/problems/hideandseek "hideandseek")                                                       |
+| :beginner: [subwayplanning](https://open.kattis.com/problems/subwayplanning "subwayplanning")                                                       | :beginner: [marchofpenguins](https://open.kattis.com/problems/marchofpenguins "marchofpenguins")                                           | :beginner: [autocorrect](https://open.kattis.com/problems/autocorrect "autocorrect")                                              | :beginner: [heropower](https://open.kattis.com/problems/heropower "heropower")                                                             |
+| :beginner: [softpasswords](https://open.kattis.com/problems/softpasswords "softpasswords")                                                          | :beginner: [magicalcrystals](https://open.kattis.com/problems/magicalcrystals "magicalcrystals")                                           | :beginner: [bitcointoss](https://open.kattis.com/problems/bitcointoss "bitcointoss")                                              | :beginner: [guessingcircle](https://open.kattis.com/problems/guessingcircle "guessingcircle")                                              |
+| :beginner: [snapperhard](https://open.kattis.com/problems/snapperhard "snapperhard")                                                                | :beginner: [magicalcows](https://open.kattis.com/problems/magicalcows "magicalcows")                                                       | :beginner: [birthdaycake](https://open.kattis.com/problems/birthdaycake "birthdaycake")                                           | :beginner: [greatcircle](https://open.kattis.com/problems/greatcircle "greatcircle")                                                       |
+| :beginner: [slatkisi](https://open.kattis.com/problems/slatkisi "slatkisi")                                                                         | :beginner: [macarons](https://open.kattis.com/problems/macarons "macarons")                                                                | :beginner: [barcode2](https://open.kattis.com/problems/barcode2 "barcode2")                                                       | :beginner: [goingdutch](https://open.kattis.com/problems/goingdutch "goingdutch")                                                          |
+| :beginner: [sidewayssorting](https://open.kattis.com/problems/sidewayssorting "sidewayssorting")                                                    | :beginner: [lost](https://open.kattis.com/problems/lost "lost")                                                                            | :beginner: [artwork](https://open.kattis.com/problems/artwork "artwork")                                                          | :beginner: [gameofgnomes](https://open.kattis.com/problems/gameofgnomes "gameofgnomes")                                                    |
+| :beginner: [shopaholic](https://open.kattis.com/problems/shopaholic "shopaholic")                                                                   | :beginner: [segmentdistance](https://open.kattis.com/problems/segmentdistance "segmentdistance")                                           | :beginner: [apparatus](https://open.kattis.com/problems/apparatus "apparatus")                                                    | :beginner: [frenemies](https://open.kattis.com/problems/frenemies "frenemies")                                                             |
+| :beginner: [sanic](https://open.kattis.com/problems/sanic "sanic")                                                                                  | :beginner: [limbo2](https://open.kattis.com/problems/limbo2 "limbo2")                                                                      | :beginner: [amazingadventures](https://open.kattis.com/problems/amazingadventures "amazingadventures")                            | :beginner: [flowfinder](https://open.kattis.com/problems/flowfinder "flowfinder")                                                          |
+| :beginner: [recount](https://open.kattis.com/problems/recount "recount")                                                                            | :beginner: [limbo1](https://open.kattis.com/problems/limbo1 "limbo1")                                                                      | :beginner: [sequences](https://open.kattis.com/problems/sequences "sequences")                                                    | :beginner: [flowerpots](https://open.kattis.com/problems/flowerpots "flowerpots")                                                          |
+| :beginner: [qanat](https://open.kattis.com/problems/qanat "qanat")                                                                                  | :beginner: [walls](https://open.kattis.com/problems/walls "walls")                                                                         | :beginner: [lovepolygon](https://open.kattis.com/problems/lovepolygon "lovepolygon")                                              | :beginner: [escape](https://open.kattis.com/problems/escape "escape")                                                                      |
+| :beginner: [onechicken](https://open.kattis.com/problems/onechicken "onechicken")                                                                   | :beginner: [kingscolors](https://open.kattis.com/problems/kingscolors "kingscolors")                                                       | :beginner: [wiknow](https://open.kattis.com/problems/wiknow "wiknow")                                                             | :beginner: [dungeondawdler](https://open.kattis.com/problems/dungeondawdler "dungeondawdler")                                              |
+| :beginner: [notamused](https://open.kattis.com/problems/notamused "notamused")                                                                      | :beginner: [kinarow](https://open.kattis.com/problems/kinarow "kinarow")                                                                   | :beginner: [whenplanetoidsalign](https://open.kattis.com/problems/whenplanetoidsalign "whenplanetoidsalign")                      | :beginner: [divideandconquer](https://open.kattis.com/problems/divideandconquer "divideandconquer")                                        |
+| :beginner: [jazzitup](https://open.kattis.com/problems/jazzitup "jazzitup")                                                                         | :beginner: [ontrack](https://open.kattis.com/problems/ontrack "ontrack")                                                                   | :beginner: [trezor](https://open.kattis.com/problems/trezor "trezor")                                                             | :beginner: [dinner](https://open.kattis.com/problems/dinner "dinner")                                                                      |
+| :beginner: [inquiryi](https://open.kattis.com/problems/inquiryi "inquiryi")                                                                         | :beginner: [jobbyte](https://open.kattis.com/problems/jobbyte "jobbyte")                                                                   | :beginner: [treasuremap](https://open.kattis.com/problems/treasuremap "treasuremap")                                              | :beginner: [craters](https://open.kattis.com/problems/craters "craters")                                                                   |
+| :beginner: [imageprocessing](https://open.kattis.com/problems/imageprocessing "imageprocessing")                                                    | :beginner: [hugecampus](https://open.kattis.com/problems/hugecampus "hugecampus")                                                          | :beginner: [railway](https://open.kattis.com/problems/railway "railway")                                                          | :beginner: [committeeassignment](https://open.kattis.com/problems/committeeassignment "committeeassignment")                               |
+| :beginner: [height](https://open.kattis.com/problems/height "height")                                                                               | :beginner: [hoppers](https://open.kattis.com/problems/hoppers "hoppers")                                                                   | :beginner: [tightlypacked](https://open.kattis.com/problems/tightlypacked "tightlypacked")                                        | :beginner: [bridgebuilders](https://open.kattis.com/problems/bridgebuilders "bridgebuilders")                                              |
+| :beginner: [geneticsearch](https://open.kattis.com/problems/geneticsearch "geneticsearch")                                                          | :beginner: [gowithflow](https://open.kattis.com/problems/gowithflow "gowithflow")                                                          | :beginner: [punctiliouscruciverbalist](https://open.kattis.com/problems/punctiliouscruciverbalist "punctiliouscruciverbalist")    | :beginner: [borders](https://open.kattis.com/problems/borders "borders")                                                                   |
+| :beginner: [froshweek2](https://open.kattis.com/problems/froshweek2 "froshweek2")                                                                   | :beginner: [freeweights](https://open.kattis.com/problems/freeweights "freeweights")                                                       | :beginner: [table](https://open.kattis.com/problems/table "table")                                                                | :beginner: [asteroidmining](https://open.kattis.com/problems/asteroidmining "asteroidmining")                                              |
+| :beginner: [fontan](https://open.kattis.com/problems/fontan "fontan")                                                                               | :beginner: [forestforthetrees](https://open.kattis.com/problems/forestforthetrees "forestforthetrees")                                     | :beginner: [stikl](https://open.kattis.com/problems/stikl "stikl")                                                                | :beginner: [antiarithmetic](https://open.kattis.com/problems/antiarithmetic "antiarithmetic")                                              |
+| :beginner: [flippingpatties](https://open.kattis.com/problems/flippingpatties "flippingpatties")                                                    | :beginner: [factstone](https://open.kattis.com/problems/factstone "factstone")                                                             | :beginner: [slantdrilling](https://open.kattis.com/problems/slantdrilling "slantdrilling")                                        | :beginner: [winningthevote](https://open.kattis.com/problems/winningthevote "winningthevote")                                              |
+| :beginner: [fastfood](https://open.kattis.com/problems/fastfood "fastfood")                                                                         | :beginner: [endgame](https://open.kattis.com/problems/endgame "endgame")                                                                   | :beginner: [shetalkstoangel](https://open.kattis.com/problems/shetalkstoangel "shetalkstoangel")                                  | :beginner: [watchlater](https://open.kattis.com/problems/watchlater "watchlater")                                                          |
+| :beginner: [euclideantsp](https://open.kattis.com/problems/euclideantsp "euclideantsp")                                                             | :beginner: [editingexplosion](https://open.kattis.com/problems/editingexplosion "editingexplosion")                                        | :beginner: [roomassignments](https://open.kattis.com/problems/roomassignments "roomassignments")                                  | :beginner: [leprechaunhunt](https://open.kattis.com/problems/leprechaunhunt "leprechaunhunt")                                              |
+| :beginner: [espressobucks](https://open.kattis.com/problems/espressobucks "espressobucks")                                                          | :beginner: [dragonball1](https://open.kattis.com/problems/dragonball1 "dragonball1")                                                       | :beginner: [roadtrip](https://open.kattis.com/problems/roadtrip "roadtrip")                                                       | :beginner: [brickstopshere](https://open.kattis.com/problems/brickstopshere "brickstopshere")                                              |
+| :beginner: [doorman](https://open.kattis.com/problems/doorman "doorman")                                                                            | :beginner: [disgruntledjudge](https://open.kattis.com/problems/disgruntledjudge "disgruntledjudge")                                        | :beginner: [repeatedsubstrings](https://open.kattis.com/problems/repeatedsubstrings "repeatedsubstrings")                         | :beginner: [suffidromes](https://open.kattis.com/problems/suffidromes "suffidromes")                                                       |
+| :beginner: [dirtydriving](https://open.kattis.com/problems/dirtydriving "dirtydriving")                                                             | :beginner: [crashingrobots](https://open.kattis.com/problems/crashingrobots "crashingrobots")                                              | :beginner: [remainderreminder](https://open.kattis.com/problems/remainderreminder "remainderreminder")                            | :beginner: [substitutionmania](https://open.kattis.com/problems/substitutionmania "substitutionmania")                                     |
+| :beginner: [crackingrsa](https://open.kattis.com/problems/crackingrsa "crackingrsa")                                                                | :beginner: [crane2](https://open.kattis.com/problems/crane2 "crane2")                                                                      | :beginner: [randomwalking](https://open.kattis.com/problems/randomwalking "randomwalking")                                        | :beginner: [qualificationround](https://open.kattis.com/problems/qualificationround "qualificationround")                                  |
+| :beginner: [countingtriangles](https://open.kattis.com/problems/countingtriangles "countingtriangles")                                              | :beginner: [toy](https://open.kattis.com/problems/toy "toy")                                                                               | :beginner: [racinggems](https://open.kattis.com/problems/racinggems "racinggems")                                                 | :beginner: [powersof2](https://open.kattis.com/problems/powersof2 "powersof2")                                                             |
+| :beginner: [chartingprogress](https://open.kattis.com/problems/chartingprogress "chartingprogress")                                                 | :beginner: [comma](https://open.kattis.com/problems/comma "comma")                                                                         | :beginner: [pollygone](https://open.kattis.com/problems/pollygone "pollygone")                                                    | :beginner: [planetarygrid](https://open.kattis.com/problems/planetarygrid "planetarygrid")                                                 |
+| :beginner: [ceiling](https://open.kattis.com/problems/ceiling "ceiling")                                                                            | :beginner: [checkingforcorrectness](https://open.kattis.com/problems/checkingforcorrectness "checkingforcorrectness")                      | :beginner: [physicalmusic](https://open.kattis.com/problems/physicalmusic "physicalmusic")                                        | :beginner: [streaming](https://open.kattis.com/problems/streaming "streaming")                                                             |
+| :beginner: [busyschedule](https://open.kattis.com/problems/busyschedule "busyschedule")                                                             | :beginner: [cezar](https://open.kattis.com/problems/cezar "cezar")                                                                         | :beginner: [pandachess](https://open.kattis.com/problems/pandachess "pandachess")                                                 | :beginner: [passwords](https://open.kattis.com/problems/passwords "passwords")                                                             |
+| :beginner: [browniepoints](https://open.kattis.com/problems/browniepoints "browniepoints")                                                          | :beginner: [canvasline](https://open.kattis.com/problems/canvasline "canvasline")                                                          | :beginner: [nonprimefactors](https://open.kattis.com/problems/nonprimefactors "nonprimefactors")                                  | :beginner: [palindromecrossword](https://open.kattis.com/problems/palindromecrossword "palindromecrossword")                               |
+| :beginner: [bishops](https://open.kattis.com/problems/bishops "bishops")                                                                            | :beginner: [cake](https://open.kattis.com/problems/cake "cake")                                                                            | :beginner: [najkraci](https://open.kattis.com/problems/najkraci "najkraci")                                                       | :beginner: [mixingcolours](https://open.kattis.com/problems/mixingcolours "mixingcolours")                                                 |
+| :beginner: [bestcompression](https://open.kattis.com/problems/bestcompression "bestcompression")                                                    | :beginner: [birthdayboy](https://open.kattis.com/problems/birthdayboy "birthdayboy")                                                       | :beginner: [maxcolorclique](https://open.kattis.com/problems/maxcolorclique "maxcolorclique")                                     | :beginner: [matrica](https://open.kattis.com/problems/matrica "matrica")                                                                   |
+| :beginner: [towering](https://open.kattis.com/problems/towering "towering")                                                                         | :beginner: [base2palindrome](https://open.kattis.com/problems/base2palindrome "base2palindrome")                                           | :beginner: [latinsquare](https://open.kattis.com/problems/latinsquare "latinsquare")                                              | :beginner: [largeparty](https://open.kattis.com/problems/largeparty "largeparty")                                                          |
+| :beginner: [armystrengtheasy](https://open.kattis.com/problems/armystrengtheasy "armystrengtheasy")                                                 | :beginner: [avoidingtheapocalypse](https://open.kattis.com/problems/avoidingtheapocalypse "avoidingtheapocalypse")                         | :beginner: [landinheritance](https://open.kattis.com/problems/landinheritance "landinheritance")                                  | :beginner: [krtica](https://open.kattis.com/problems/krtica "krtica")                                                                      |
+| :beginner: [3dprinter](https://open.kattis.com/problems/3dprinter "3dprinter")                                                                      | :beginner: [favourable](https://open.kattis.com/problems/favourable "favourable")                                                          | :beginner: [kralj](https://open.kattis.com/problems/kralj "kralj")                                                                | :beginner: [kingdoms](https://open.kattis.com/problems/kingdoms "kingdoms")                                                                |
+| :beginner: [toilet](https://open.kattis.com/problems/toilet "toilet")                                                                               | :beginner: [matryoshka](https://open.kattis.com/problems/matryoshka "matryoshka")                                                          | :beginner: [kingdomofants](https://open.kattis.com/problems/kingdomofants "kingdomofants")                                        | :beginner: [jackdawsandcrows](https://open.kattis.com/problems/jackdawsandcrows "jackdawsandcrows")                                        |
+| :beginner: [threepowers](https://open.kattis.com/problems/threepowers "threepowers")                                                                | :beginner: [zipfsong](https://open.kattis.com/problems/zipfsong "zipfsong")                                                                | :beginner: [keepcalmandcarryoff](https://open.kattis.com/problems/keepcalmandcarryoff "keepcalmandcarryoff")                      | :beginner: [impossibleprices](https://open.kattis.com/problems/impossibleprices "impossibleprices")                                        |
+| :beginner: [splat](https://open.kattis.com/problems/splat "splat")                                                                                  | :beginner: [welcomehard](https://open.kattis.com/problems/welcomehard "welcomehard")                                                       | :beginner: [jugglingpatterns](https://open.kattis.com/problems/jugglingpatterns "jugglingpatterns")                               | :beginner: [hottercolder](https://open.kattis.com/problems/hottercolder "hottercolder")                                                    |
+| :beginner: [proofs](https://open.kattis.com/problems/proofs "proofs")                                                                               | :beginner: [touchdown](https://open.kattis.com/problems/touchdown "touchdown")                                                             | :beginner: [juggler](https://open.kattis.com/problems/juggler "juggler")                                                          | :beginner: [friends2](https://open.kattis.com/problems/friends2 "friends2")                                                                |
+| :beginner: [primepath](https://open.kattis.com/problems/primepath "primepath")                                                                      | :beginner: [endoftheworld](https://open.kattis.com/problems/endoftheworld "endoftheworld")                                                 | :beginner: [intervalcover](https://open.kattis.com/problems/intervalcover "intervalcover")                                        | :beginner: [freedesserts](https://open.kattis.com/problems/freedesserts "freedesserts")                                                    |
+| :beginner: [permcode](https://open.kattis.com/problems/permcode "permcode")                                                                         | :beginner: [skyline](https://open.kattis.com/problems/skyline "skyline")                                                                   | :beginner: [helpfulcurrents](https://open.kattis.com/problems/helpfulcurrents "helpfulcurrents")                                  | :beginner: [flightsafety](https://open.kattis.com/problems/flightsafety "flightsafety")                                                    |
+| :beginner: [perket](https://open.kattis.com/problems/perket "perket")                                                                               | :beginner: [palindromesubstring](https://open.kattis.com/problems/palindromesubstring "palindromesubstring")                               | :beginner: [globalwarming](https://open.kattis.com/problems/globalwarming "globalwarming")                                        | :beginner: [fakeit](https://open.kattis.com/problems/fakeit "fakeit")                                                                      |
+| :beginner: [ornaments](https://open.kattis.com/problems/ornaments "ornaments")                                                                      | :beginner: [ones](https://open.kattis.com/problems/ones "ones")                                                                            | :beginner: [eulerianpath](https://open.kattis.com/problems/eulerianpath "eulerianpath")                                           | :beginner: [excitingtournament](https://open.kattis.com/problems/excitingtournament "excitingtournament")                                  |
+| :beginner: [odds](https://open.kattis.com/problems/odds "odds")                                                                                     | :beginner: [megainversions](https://open.kattis.com/problems/megainversions "megainversions")                                              | :beginner: [engaging](https://open.kattis.com/problems/engaging "engaging")                                                       | :beginner: [driverdisagreement](https://open.kattis.com/problems/driverdisagreement "driverdisagreement")                                  |
+| :beginner: [natrij](https://open.kattis.com/problems/natrij "natrij")                                                                               | :beginner: [linearrecurrence](https://open.kattis.com/problems/linearrecurrence "linearrecurrence")                                        | :beginner: [election](https://open.kattis.com/problems/election "election")                                                       | :beginner: [cheetahs](https://open.kattis.com/problems/cheetahs "cheetahs")                                                                |
+| :beginner: [musicyourway](https://open.kattis.com/problems/musicyourway "musicyourway")                                                             | :beginner: [knapsackcollection](https://open.kattis.com/problems/knapsackcollection "knapsackcollection")                                  | :beginner: [dvaput](https://open.kattis.com/problems/dvaput "dvaput")                                                             | :beginner: [catmouse](https://open.kattis.com/problems/catmouse "catmouse")                                                                |
+| :beginner: [lostmap](https://open.kattis.com/problems/lostmap "lostmap")                                                                            | :beginner: [jetpack](https://open.kattis.com/problems/jetpack "jetpack")                                                                   | :beginner: [debugging](https://open.kattis.com/problems/debugging "debugging")                                                    | :beginner: [busyboard](https://open.kattis.com/problems/busyboard "busyboard")                                                             |
+| :beginner: [keywords](https://open.kattis.com/problems/keywords "keywords")                                                                         | :beginner: [irrationaldivision](https://open.kattis.com/problems/irrationaldivision "irrationaldivision")                                  | :beginner: [cupid](https://open.kattis.com/problems/cupid "cupid")                                                                | :beginner: [aroundthetrack2](https://open.kattis.com/problems/aroundthetrack2 "aroundthetrack2")                                           |
+| :beginner: [iboard](https://open.kattis.com/problems/iboard "iboard")                                                                               | :beginner: [greetingcard](https://open.kattis.com/problems/greetingcard "greetingcard")                                                    | :beginner: [subexpression](https://open.kattis.com/problems/subexpression "subexpression")                                        | :beginner: [antennaplacement](https://open.kattis.com/problems/antennaplacement "antennaplacement")                                        |
+| :beginner: [hotsprings](https://open.kattis.com/problems/hotsprings "hotsprings")                                                                   | :beginner: [flygskam](https://open.kattis.com/problems/flygskam "flygskam")                                                                | :beginner: [bridge](https://open.kattis.com/problems/bridge "bridge")                                                             | :beginner: [airport](https://open.kattis.com/problems/airport "airport")                                                                   |
+| :beginner: [eulersnumber](https://open.kattis.com/problems/eulersnumber "eulersnumber")                                                             | :beginner: [fenceortho](https://open.kattis.com/problems/fenceortho "fenceortho")                                                          | :beginner: [redsocks](https://open.kattis.com/problems/redsocks "redsocks")                                                       | :beginner: [abinitio](https://open.kattis.com/problems/abinitio "abinitio")                                                                |
+| :beginner: [equalsumseasy](https://open.kattis.com/problems/equalsumseasy "equalsumseasy")                                                          | :beginner: [faultyrobot](https://open.kattis.com/problems/faultyrobot "faultyrobot")                                                       | :beginner: [ballcolors](https://open.kattis.com/problems/ballcolors "ballcolors")                                                 | :beginner: [alternating](https://open.kattis.com/problems/alternating "alternating")                                                       |
+| :beginner: [saxophone](https://open.kattis.com/problems/saxophone "saxophone")                                                                      | :beginner: [enemyterritory](https://open.kattis.com/problems/enemyterritory "enemyterritory")                                              | :beginner: [bakice](https://open.kattis.com/problems/bakice "bakice")                                                             | :beginner: [bonsai](https://open.kattis.com/problems/bonsai "bonsai")                                                                      |
+| :beginner: [drinkingsong](https://open.kattis.com/problems/drinkingsong "drinkingsong")                                                             | :beginner: [equilibrium2](https://open.kattis.com/problems/equilibrium2 "equilibrium2")                                                    | :beginner: [arrangingwine](https://open.kattis.com/problems/arrangingwine "arrangingwine")                                        | :beginner: [treehugging](https://open.kattis.com/problems/treehugging "treehugging")                                                       |
+| :beginner: [display](https://open.kattis.com/problems/display "display")                                                                            | :beginner: [dartboard](https://open.kattis.com/problems/dartboard "dartboard")                                                             | :beginner: [anewadventure](https://open.kattis.com/problems/anewadventure "anewadventure")                                        | :beginner: [symmetry](https://open.kattis.com/problems/symmetry "symmetry")                                                                |
+| :beginner: [compositions](https://open.kattis.com/problems/compositions "compositions")                                                             | :beginner: [connectn](https://open.kattis.com/problems/connectn "connectn")                                                                | :beginner: [airports](https://open.kattis.com/problems/airports "airports")                                                       | :beginner: [slika](https://open.kattis.com/problems/slika "slika")                                                                         |
+| :beginner: [character](https://open.kattis.com/problems/character "character")                                                                      | :beginner: [beepers](https://open.kattis.com/problems/beepers "beepers")                                                                   | :beginner: [uncrossedknights](https://open.kattis.com/problems/uncrossedknights "uncrossedknights")                               | :beginner: [rinse](https://open.kattis.com/problems/rinse "rinse")                                                                         |
+| :beginner: [blackfriday](https://open.kattis.com/problems/blackfriday "blackfriday")                                                                | :beginner: [cartrouble](https://open.kattis.com/problems/cartrouble "cartrouble")                                                          | :beginner: [threedigits](https://open.kattis.com/problems/threedigits "threedigits")                                              | :beginner: [planestrainsbutnotautomobiles](https://open.kattis.com/problems/planestrainsbutnotautomobiles "planestrainsbutnotautomobiles") |
+| :beginner: [beekeeper](https://open.kattis.com/problems/beekeeper "beekeeper")                                                                      | :beginner: [bumped](https://open.kattis.com/problems/bumped "bumped")                                                                      | :beginner: [aliens](https://open.kattis.com/problems/aliens "aliens")                                                             | :beginner: [spaceinvaders](https://open.kattis.com/problems/spaceinvaders "spaceinvaders")                                                 |
+| :beginner: [armystrengthhard](https://open.kattis.com/problems/armystrengthhard "armystrengthhard")                                                 | :beginner: [boomingbusiness](https://open.kattis.com/problems/boomingbusiness "boomingbusiness")                                           | :beginner: [bugs](https://open.kattis.com/problems/bugs "bugs")                                                                   | :beginner: [anti11hard](https://open.kattis.com/problems/anti11hard "anti11hard")                                                          |
+| :beginner: [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin "aprizenoonecanwin")                                              | :beginner: [bookclub](https://open.kattis.com/problems/bookclub "bookclub")                                                                | :beginner: [socialresistance](https://open.kattis.com/problems/socialresistance "socialresistance")                               | :beginner: [mcpartdeux](https://open.kattis.com/problems/mcpartdeux "mcpartdeux")                                                          |
+| :beginner: [ants](https://open.kattis.com/problems/ants "ants")                                                                                     | :beginner: [birthdayparadox](https://open.kattis.com/problems/birthdayparadox "birthdayparadox")                                           | :beginner: [shrine](https://open.kattis.com/problems/shrine "shrine")                                                             | :beginner: [manhattan](https://open.kattis.com/problems/manhattan "manhattan")                                                             |
+| :beginner: [zyxab](https://open.kattis.com/problems/zyxab "zyxab")                                                                                  | :beginner: [control](https://open.kattis.com/problems/control "control")                                                                   | :beginner: [shesallyak](https://open.kattis.com/problems/shesallyak "shesallyak")                                                 | :beginner: [lowtoner](https://open.kattis.com/problems/lowtoner "lowtoner")                                                                |
+| :beginner: [wordcloud](https://open.kattis.com/problems/wordcloud "wordcloud")                                                                      | :beginner: [askmarilyn](https://open.kattis.com/problems/askmarilyn "askmarilyn")                                                          | :beginner: [secretsantacycles](https://open.kattis.com/problems/secretsantacycles "secretsantacycles")                            | :beginner: [kingdomofhamsters](https://open.kattis.com/problems/kingdomofhamsters "kingdomofhamsters")                                     |
+| :beginner: [whichbase](https://open.kattis.com/problems/whichbase "whichbase")                                                                      | :beginner: [classy](https://open.kattis.com/problems/classy "classy")                                                                      | :beginner: [sandart](https://open.kattis.com/problems/sandart "sandart")                                                          | :beginner: [kattislittlehelpers](https://open.kattis.com/problems/kattislittlehelpers "kattislittlehelpers")                               |
+| :beginner: [tritiling](https://open.kattis.com/problems/tritiling "tritiling")                                                                      | :beginner: [xorsequences](https://open.kattis.com/problems/xorsequences "xorsequences")                                                    | :beginner: [roadwork](https://open.kattis.com/problems/roadwork "roadwork")                                                       | :beginner: [justiceforants](https://open.kattis.com/problems/justiceforants "justiceforants")                                              |
+| :beginner: [toflur](https://open.kattis.com/problems/toflur "toflur")                                                                               | :beginner: [wheretolive](https://open.kattis.com/problems/wheretolive "wheretolive")                                                       | :beginner: [rhombinoes](https://open.kattis.com/problems/rhombinoes "rhombinoes")                                                 | :beginner: [graphicmadness](https://open.kattis.com/problems/graphicmadness "graphicmadness")                                              |
+| :beginner: [sgcoin](https://open.kattis.com/problems/sgcoin "sgcoin")                                                                               | :beginner: [timezones](https://open.kattis.com/problems/timezones "timezones")                                                             | :beginner: [redbluetree](https://open.kattis.com/problems/redbluetree "redbluetree")                                              | :beginner: [fluffycat](https://open.kattis.com/problems/fluffycat "fluffycat")                                                             |
+| :beginner: [secretchamber](https://open.kattis.com/problems/secretchamber "secretchamber")                                                          | :beginner: [agglomerator](https://open.kattis.com/problems/agglomerator "agglomerator")                                                    | :beginner: [rasterized](https://open.kattis.com/problems/rasterized "rasterized")                                                 | :beginner: [floodingfields](https://open.kattis.com/problems/floodingfields "floodingfields")                                              |
+| :beginner: [rollcall](https://open.kattis.com/problems/rollcall "rollcall")                                                                         | :beginner: [suffixarrayreconstruction](https://open.kattis.com/problems/suffixarrayreconstruction "suffixarrayreconstruction")             | :beginner: [railroad](https://open.kattis.com/problems/railroad "railroad")                                                       | :beginner: [equestriagames](https://open.kattis.com/problems/equestriagames "equestriagames")                                              |
+| :beginner: [reachableroads](https://open.kattis.com/problems/reachableroads "reachableroads")                                                       | :beginner: [silueta](https://open.kattis.com/problems/silueta "silueta")                                                                   | :beginner: [pollution](https://open.kattis.com/problems/pollution "pollution")                                                    | :beginner: [equality](https://open.kattis.com/problems/equality "equality")                                                                |
+| :beginner: [vote](https://open.kattis.com/problems/vote "vote")                                                                                     | :beginner: [runningmom](https://open.kattis.com/problems/runningmom "runningmom")                                                          | :beginner: [planetdestruction](https://open.kattis.com/problems/planetdestruction "planetdestruction")                            | :beginner: [domino](https://open.kattis.com/problems/domino "domino")                                                                      |
+| :beginner: [plot](https://open.kattis.com/problems/plot "plot")                                                                                     | :beginner: [rimski](https://open.kattis.com/problems/rimski "rimski")                                                                      | :beginner: [primes](https://open.kattis.com/problems/primes "primes")                                                             | :beginner: [checkers](https://open.kattis.com/problems/checkers "checkers")                                                                |
+| :beginner: [pizzahawaii](https://open.kattis.com/problems/pizzahawaii "pizzahawaii")                                                                | :beginner: [restaurantbribes](https://open.kattis.com/problems/restaurantbribes "restaurantbribes")                                        | :beginner: [paint](https://open.kattis.com/problems/paint "paint")                                                                | :beginner: [celebritysplit](https://open.kattis.com/problems/celebritysplit "celebritysplit")                                              |
+| :beginner: [pebblesolitaire](https://open.kattis.com/problems/pebblesolitaire "pebblesolitaire")                                                    | :beginner: [rectangularcity](https://open.kattis.com/problems/rectangularcity "rectangularcity")                                           | :beginner: [orphanbackups](https://open.kattis.com/problems/orphanbackups "orphanbackups")                                        | :beginner: [buildboat](https://open.kattis.com/problems/buildboat "buildboat")                                                             |
+| :beginner: [averageshard](https://open.kattis.com/problems/averageshard "averageshard")                                                             | :beginner: [protectingthecollection](https://open.kattis.com/problems/protectingthecollection "protectingthecollection")                   | :beginner: [mountainvillage](https://open.kattis.com/problems/mountainvillage "mountainvillage")                                  | :beginner: [bracketsequence](https://open.kattis.com/problems/bracketsequence "bracketsequence")                                           |
+| :beginner: [pairingsocks](https://open.kattis.com/problems/pairingsocks "pairingsocks")                                                             | :beginner: [playingwithnumbers](https://open.kattis.com/problems/playingwithnumbers "playingwithnumbers")                                  | :beginner: [lexicography](https://open.kattis.com/problems/lexicography "lexicography")                                           | :beginner: [bonafide](https://open.kattis.com/problems/bonafide "bonafide")                                                                |
+| :beginner: [mastermind](https://open.kattis.com/problems/mastermind "mastermind")                                                                   | :beginner: [numbersetseasy](https://open.kattis.com/problems/numbersetseasy "numbersetseasy")                                              | :beginner: [landscaping](https://open.kattis.com/problems/landscaping "landscaping")                                              | :beginner: [bitonicordering](https://open.kattis.com/problems/bitonicordering "bitonicordering")                                           |
+| :beginner: [juryjeopardy](https://open.kattis.com/problems/juryjeopardy "juryjeopardy")                                                             | :beginner: [nonnegpartsums](https://open.kattis.com/problems/nonnegpartsums "nonnegpartsums")                                              | :beginner: [jupiter](https://open.kattis.com/problems/jupiter "jupiter")                                                          | :beginner: [bit4bit](https://open.kattis.com/problems/bit4bit "bit4bit")                                                                   |
+| :beginner: [irepeatmyself](https://open.kattis.com/problems/irepeatmyself "irepeatmyself")                                                          | :beginner: [naturereserve](https://open.kattis.com/problems/naturereserve "naturereserve")                                                 | :beginner: [inventing](https://open.kattis.com/problems/inventing "inventing")                                                    | :beginner: [basicbasis](https://open.kattis.com/problems/basicbasis "basicbasis")                                                          |
+| :beginner: [holeynqueensbatman](https://open.kattis.com/problems/holeynqueensbatman "holeynqueensbatman")                                           | :beginner: [namethatpermutation](https://open.kattis.com/problems/namethatpermutation "namethatpermutation")                               | :beginner: [intersectingrectangles](https://open.kattis.com/problems/intersectingrectangles "intersectingrectangles")             | :beginner: [worstweather](https://open.kattis.com/problems/worstweather "worstweather")                                                    |
+| :beginner: [happyprime](https://open.kattis.com/problems/happyprime "happyprime")                                                                   | :beginner: [piano](https://open.kattis.com/problems/piano "piano")                                                                         | :beginner: [golfbot](https://open.kattis.com/problems/golfbot "golfbot")                                                          | :beginner: [theimp](https://open.kattis.com/problems/theimp "theimp")                                                                      |
+| :beginner: [gettowork](https://open.kattis.com/problems/gettowork "gettowork")                                                                      | :beginner: [monumentmaker](https://open.kattis.com/problems/monumentmaker "monumentmaker")                                                 | :beginner: [freegoodies](https://open.kattis.com/problems/freegoodies "freegoodies")                                              | :beginner: [telescope](https://open.kattis.com/problems/telescope "telescope")                                                             |
+| :beginner: [flowshop](https://open.kattis.com/problems/flowshop "flowshop")                                                                         | :beginner: [modulodatastructures](https://open.kattis.com/problems/modulodatastructures "modulodatastructures")                            | :beginner: [excellentengineers](https://open.kattis.com/problems/excellentengineers "excellentengineers")                         | :beginner: [symmetricpolynomials](https://open.kattis.com/problems/symmetricpolynomials "symmetricpolynomials")                            |
+| :beginner: [election2](https://open.kattis.com/problems/election2 "election2")                                                                      | :beginner: [kingdomofcats](https://open.kattis.com/problems/kingdomofcats "kingdomofcats")                                                 | :beginner: [endor](https://open.kattis.com/problems/endor "endor")                                                                | :beginner: [subway3](https://open.kattis.com/problems/subway3 "subway3")                                                                   |
+| :beginner: [bubbletea](https://open.kattis.com/problems/bubbletea "bubbletea")                                                                      | :beginner: [kayaking](https://open.kattis.com/problems/kayaking "kayaking")                                                                | :beginner: [drafttime](https://open.kattis.com/problems/drafttime "drafttime")                                                    | :beginner: [stickers](https://open.kattis.com/problems/stickers "stickers")                                                                |
+| :beginner: [cursethedarkness](https://open.kattis.com/problems/cursethedarkness "cursethedarkness")                                                 | :beginner: [justenoughwater](https://open.kattis.com/problems/justenoughwater "justenoughwater")                                           | :beginner: [diversecookies](https://open.kattis.com/problems/diversecookies "diversecookies")                                     | :beginner: [squarepie](https://open.kattis.com/problems/squarepie "squarepie")                                                             |
+| :beginner: [cookiecutter](https://open.kattis.com/problems/cookiecutter "cookiecutter")                                                             | :beginner: [itsasecret](https://open.kattis.com/problems/itsasecret "itsasecret")                                                          | :beginner: [diplomacy](https://open.kattis.com/problems/diplomacy "diplomacy")                                                    | :beginner: [ski](https://open.kattis.com/problems/ski "ski")                                                                               |
+| :beginner: [competitivearcadebasketball](https://open.kattis.com/problems/competitivearcadebasketball "competitivearcadebasketball")                | :beginner: [interestingintegers](https://open.kattis.com/problems/interestingintegers "interestingintegers")                               | :beginner: [cutitout](https://open.kattis.com/problems/cutitout "cutitout")                                                       | :beginner: [shootout](https://open.kattis.com/problems/shootout "shootout")                                                                |
+| :beginner: [cokolada](https://open.kattis.com/problems/cokolada "cokolada")                                                                         | :beginner: [integerlists](https://open.kattis.com/problems/integerlists "integerlists")                                                    | :beginner: [bustour](https://open.kattis.com/problems/bustour "bustour")                                                          | :beginner: [radioreceiver](https://open.kattis.com/problems/radioreceiver "radioreceiver")                                                 |
+| :beginner: [codecleanups](https://open.kattis.com/problems/codecleanups "codecleanups")                                                             | :beginner: [gradecurving](https://open.kattis.com/problems/gradecurving "gradecurving")                                                    | :beginner: [brickwall](https://open.kattis.com/problems/brickwall "brickwall")                                                    | :beginner: [podnizovi](https://open.kattis.com/problems/podnizovi "podnizovi")                                                             |
+| :beginner: [climbingworm](https://open.kattis.com/problems/climbingworm "climbingworm")                                                             | :beginner: [gopher2](https://open.kattis.com/problems/gopher2 "gopher2")                                                                   | :beginner: [blobsofdoom](https://open.kattis.com/problems/blobsofdoom "blobsofdoom")                                              | :beginner: [pizzacutting](https://open.kattis.com/problems/pizzacutting "pizzacutting")                                                    |
+| :beginner: [circuitmath](https://open.kattis.com/problems/circuitmath "circuitmath")                                                                | :beginner: [genijalac](https://open.kattis.com/problems/genijalac "genijalac")                                                             | :beginner: [atomicenergy](https://open.kattis.com/problems/atomicenergy "atomicenergy")                                           | :beginner: [outsourcing](https://open.kattis.com/problems/outsourcing "outsourcing")                                                       |
+| :beginner: [calculatingdartscores](https://open.kattis.com/problems/calculatingdartscores "calculatingdartscores")                                  | :beginner: [fundamentalneighbors](https://open.kattis.com/problems/fundamentalneighbors "fundamentalneighbors")                            | :beginner: [arcade](https://open.kattis.com/problems/arcade "arcade")                                                             | :beginner: [outofcontext](https://open.kattis.com/problems/outofcontext "outofcontext")                                                    |
+| :beginner: [bits](https://open.kattis.com/problems/bits "bits")                                                                                     | :beginner: [freighttrain](https://open.kattis.com/problems/freighttrain "freighttrain")                                                    | :beginner: [aijeopardy](https://open.kattis.com/problems/aijeopardy "aijeopardy")                                                 | :beginner: [jogurt](https://open.kattis.com/problems/jogurt "jogurt")                                                                      |
+| :beginner: [beatspread](https://open.kattis.com/problems/beatspread "beatspread")                                                                   | :beginner: [raffle](https://open.kattis.com/problems/raffle "raffle")                                                                      | :beginner: [ads](https://open.kattis.com/problems/ads "ads")                                                                      | :beginner: [inspirationmanifestation](https://open.kattis.com/problems/inspirationmanifestation "inspirationmanifestation")                |
+| :beginner: [babelfish](https://open.kattis.com/problems/babelfish "babelfish")                                                                      | :beginner: [ferryloading5](https://open.kattis.com/problems/ferryloading5 "ferryloading5")                                                 | :beginner: [tarotshamboast](https://open.kattis.com/problems/tarotshamboast "tarotshamboast")                                     | :beginner: [ifthenelse](https://open.kattis.com/problems/ifthenelse "ifthenelse")                                                          |
+| :beginner: [knightjump](https://open.kattis.com/problems/knightjump "knightjump")                                                                   | :beginner: [euclidsgame](https://open.kattis.com/problems/euclidsgame "euclidsgame")                                                       | :beginner: [stackmachine](https://open.kattis.com/problems/stackmachine "stackmachine")                                           | :beginner: [spidersonwater](https://open.kattis.com/problems/spidersonwater "spidersonwater")                                              |
+| :beginner: [wizardofodds](https://open.kattis.com/problems/wizardofodds "wizardofodds")                                                             | :beginner: [eko](https://open.kattis.com/problems/eko "eko")                                                                               | :beginner: [sonofpipestream](https://open.kattis.com/problems/sonofpipestream "sonofpipestream")                                  | :beginner: [holmes](https://open.kattis.com/problems/holmes "holmes")                                                                      |
+| :beginner: [treasurehunt](https://open.kattis.com/problems/treasurehunt "treasurehunt")                                                             | :beginner: [divideby100](https://open.kattis.com/problems/divideby100 "divideby100")                                                       | :beginner: [shuffle](https://open.kattis.com/problems/shuffle "shuffle")                                                          | :beginner: [holeinone](https://open.kattis.com/problems/holeinone "holeinone")                                                             |
+| :beginner: [ada](https://open.kattis.com/problems/ada "ada")                                                                                        | :beginner: [digitdivision](https://open.kattis.com/problems/digitdivision "digitdivision")                                                 | :beginner: [robots](https://open.kattis.com/problems/robots "robots")                                                             | :beginner: [gridguardian](https://open.kattis.com/problems/gridguardian "gridguardian")                                                    |
+| :beginner: [sort](https://open.kattis.com/problems/sort "sort")                                                                                     | :beginner: [digbuild](https://open.kattis.com/problems/digbuild "digbuild")                                                                | :beginner: [robotmaze](https://open.kattis.com/problems/robotmaze "robotmaze")                                                    | :beginner: [gottacatchemall](https://open.kattis.com/problems/gottacatchemall "gottacatchemall")                                           |
+| :beginner: [triangle](https://open.kattis.com/problems/triangle "triangle")                                                                         | :beginner: [deduplicatingfiles](https://open.kattis.com/problems/deduplicatingfiles "deduplicatingfiles")                                  | :beginner: [retribution](https://open.kattis.com/problems/retribution "retribution")                                              | :beginner: [ridofcoins](https://open.kattis.com/problems/ridofcoins "ridofcoins")                                                          |
+| :beginner: [santaklas](https://open.kattis.com/problems/santaklas "santaklas")                                                                      | :beginner: [dartscoring](https://open.kattis.com/problems/dartscoring "dartscoring")                                                       | :beginner: [radiotransmission](https://open.kattis.com/problems/radiotransmission "radiotransmission")                            | :beginner: [gamesuggestions](https://open.kattis.com/problems/gamesuggestions "gamesuggestions")                                           |
+| :beginner: [planetaris](https://open.kattis.com/problems/planetaris "planetaris")                                                                   | :beginner: [countinggis](https://open.kattis.com/problems/countinggis "countinggis")                                                       | :beginner: [prosjek](https://open.kattis.com/problems/prosjek "prosjek")                                                          | :beginner: [gamescheduling](https://open.kattis.com/problems/gamescheduling "gamescheduling")                                              |
+| :beginner: [periodicstrings](https://open.kattis.com/problems/periodicstrings "periodicstrings")                                                    | :beginner: [conservation](https://open.kattis.com/problems/conservation "conservation")                                                    | :beginner: [puzzle2](https://open.kattis.com/problems/puzzle2 "puzzle2")                                                          | :beginner: [forest](https://open.kattis.com/problems/forest "forest")                                                                      |
+| :beginner: [peasoup](https://open.kattis.com/problems/peasoup "peasoup")                                                                            | :beginner: [concentration](https://open.kattis.com/problems/concentration "concentration")                                                 | :beginner: [pickingupthedice](https://open.kattis.com/problems/pickingupthedice "pickingupthedice")                               | :beginner: [followthebouncingball](https://open.kattis.com/problems/followthebouncingball "followthebouncingball")                         |
+| :beginner: [parket](https://open.kattis.com/problems/parket "parket")                                                                               | :beginner: [companypicnic](https://open.kattis.com/problems/companypicnic "companypicnic")                                                 | :beginner: [pharmacy](https://open.kattis.com/problems/pharmacy "pharmacy")                                                       | :beginner: [fairdivisions](https://open.kattis.com/problems/fairdivisions "fairdivisions")                                                 |
+| :beginner: [averageseasy](https://open.kattis.com/problems/averageseasy "averageseasy")                                                             | :beginner: [communicatingstrategy](https://open.kattis.com/problems/communicatingstrategy "communicatingstrategy")                         | :beginner: [periodicpoints](https://open.kattis.com/problems/periodicpoints "periodicpoints")                                     | :beginner: [englishrestaurant](https://open.kattis.com/problems/englishrestaurant "englishrestaurant")                                     |
+| :beginner: [nothanks](https://open.kattis.com/problems/nothanks "nothanks")                                                                         | :beginner: [checkmateinone](https://open.kattis.com/problems/checkmateinone "checkmateinone")                                              | :beginner: [mosaic](https://open.kattis.com/problems/mosaic "mosaic")                                                             | :beginner: [eksplozija](https://open.kattis.com/problems/eksplozija "eksplozija")                                                          |
+| :beginner: [natjecanje](https://open.kattis.com/problems/natjecanje "natjecanje")                                                                   | :beginner: [busplanning](https://open.kattis.com/problems/busplanning "busplanning")                                                       | :beginner: [money](https://open.kattis.com/problems/money "money")                                                                | :beginner: [easymultiplication](https://open.kattis.com/problems/easymultiplication "easymultiplication")                                  |
+| :beginner: [mravi](https://open.kattis.com/problems/mravi "mravi")                                                                                  | :beginner: [branch](https://open.kattis.com/problems/branch "branch")                                                                      | :beginner: [mixedbasearithmetic](https://open.kattis.com/problems/mixedbasearithmetic "mixedbasearithmetic")                      | :beginner: [dvoniz](https://open.kattis.com/problems/dvoniz "dvoniz")                                                                      |
+| :beginner: [malfunctioningrobot](https://open.kattis.com/problems/malfunctioningrobot "malfunctioningrobot")                                        | :beginner: [boggle](https://open.kattis.com/problems/boggle "boggle")                                                                      | :beginner: [mario](https://open.kattis.com/problems/mario "mario")                                                                | :beginner: [drawingcircles](https://open.kattis.com/problems/drawingcircles "drawingcircles")                                              |
+| :beginner: [lindenmayorsystem](https://open.kattis.com/problems/lindenmayorsystem "lindenmayorsystem")                                              | :beginner: [zapis](https://open.kattis.com/problems/zapis "zapis")                                                                         | :beginner: [longincsubseq](https://open.kattis.com/problems/longincsubseq "longincsubseq")                                        | :beginner: [tiling](https://open.kattis.com/problems/tiling "tiling")                                                                      |
+| :beginner: [jurassicjigsaw](https://open.kattis.com/problems/jurassicjigsaw "jurassicjigsaw")                                                       | :beginner: [wifi](https://open.kattis.com/problems/wifi "wifi")                                                                            | :beginner: [longestcommonsubsequence](https://open.kattis.com/problems/longestcommonsubsequence "longestcommonsubsequence")       | :beginner: [daringdont](https://open.kattis.com/problems/daringdont "daringdont")                                                          |
+| :beginner: [htoo](https://open.kattis.com/problems/htoo "htoo")                                                                                     | :beginner: [vudu](https://open.kattis.com/problems/vudu "vudu")                                                                            | :beginner: [lista](https://open.kattis.com/problems/lista "lista")                                                                | :beginner: [commonground](https://open.kattis.com/problems/commonground "commonground")                                                    |
+| :beginner: [honey](https://open.kattis.com/problems/honey "honey")                                                                                  | :beginner: [turbo](https://open.kattis.com/problems/turbo "turbo")                                                                         | :beginner: [lights](https://open.kattis.com/problems/lights "lights")                                                             | :beginner: [closestpair2](https://open.kattis.com/problems/closestpair2 "closestpair2")                                                    |
+| :beginner: [gridmagic](https://open.kattis.com/problems/gridmagic "gridmagic")                                                                      | :beginner: [triangle2hexagon](https://open.kattis.com/problems/triangle2hexagon "triangle2hexagon")                                        | :beginner: [justaquiz](https://open.kattis.com/problems/justaquiz "justaquiz")                                                    | :beginner: [declaration](https://open.kattis.com/problems/declaration "declaration")                                                       |
+| :beginner: [genius](https://open.kattis.com/problems/genius "genius")                                                                               | :beginner: [traintimetables](https://open.kattis.com/problems/traintimetables "traintimetables")                                           | :beginner: [ivana](https://open.kattis.com/problems/ivana "ivana")                                                                | :beginner: [candychain](https://open.kattis.com/problems/candychain "candychain")                                                          |
+| :beginner: [throwns](https://open.kattis.com/problems/throwns "throwns")                                                                            | :beginner: [tightfitsudoku](https://open.kattis.com/problems/tightfitsudoku "tightfitsudoku")                                              | :beginner: [investigatingimposters](https://open.kattis.com/problems/investigatingimposters "investigatingimposters")             | :beginner: [bowserspipes](https://open.kattis.com/problems/bowserspipes "bowserspipes")                                                    |
+| :beginner: [fizzbuzz2](https://open.kattis.com/problems/fizzbuzz2 "fizzbuzz2")                                                                      | :beginner: [subway](https://open.kattis.com/problems/subway "subway")                                                                      | :beginner: [idf](https://open.kattis.com/problems/idf "idf")                                                                      | :beginner: [productivity](https://open.kattis.com/problems/productivity "productivity")                                                    |
+| :beginner: [dunglish](https://open.kattis.com/problems/dunglish "dunglish")                                                                         | :beginner: [socialadvertising](https://open.kattis.com/problems/socialadvertising "socialadvertising")                                     | :beginner: [icecream2](https://open.kattis.com/problems/icecream2 "icecream2")                                                    | :beginner: [balltricks](https://open.kattis.com/problems/balltricks "balltricks")                                                          |
+| :beginner: [doggopher](https://open.kattis.com/problems/doggopher "doggopher")                                                                      | :beginner: [skilifts](https://open.kattis.com/problems/skilifts "skilifts")                                                                | :beginner: [hexagoncoloring](https://open.kattis.com/problems/hexagoncoloring "hexagoncoloring")                                  | :beginner: [artappreciation](https://open.kattis.com/problems/artappreciation "artappreciation")                                           |
+| :beginner: [deceptivedice](https://open.kattis.com/problems/deceptivedice "deceptivedice")                                                          | :beginner: [sequence2](https://open.kattis.com/problems/sequence2 "sequence2")                                                             | :beginner: [haybales](https://open.kattis.com/problems/haybales "haybales")                                                       | :beginner: [queryonarray](https://open.kattis.com/problems/queryonarray "queryonarray")                                                    |
+| :beginner: [dartscores](https://open.kattis.com/problems/dartscores "dartscores")                                                                   | :beginner: [rockscissorspaper](https://open.kattis.com/problems/rockscissorspaper "rockscissorspaper")                                     | :beginner: [granica](https://open.kattis.com/problems/granica "granica")                                                          | :beginner: [jobbdna](https://open.kattis.com/problems/jobbdna "jobbdna")                                                                   |
+| :beginner: [crne](https://open.kattis.com/problems/crne "crne")                                                                                     | :beginner: [riskylottery](https://open.kattis.com/problems/riskylottery "riskylottery")                                                    | :beginner: [gallup](https://open.kattis.com/problems/gallup "gallup")                                                             | :beginner: [coincounter](https://open.kattis.com/problems/coincounter "coincounter")                                                       |
+| :beginner: [combinationlock](https://open.kattis.com/problems/combinationlock "combinationlock")                                                    | :beginner: [pullingtheirweight](https://open.kattis.com/problems/pullingtheirweight "pullingtheirweight")                                  | :beginner: [forestconstruction](https://open.kattis.com/problems/forestconstruction "forestconstruction")                         | :beginner: [unbalancedparentheses](https://open.kattis.com/problems/unbalancedparentheses "unbalancedparentheses")                         |
+| :beginner: [cardboardcontainer](https://open.kattis.com/problems/cardboardcontainer "cardboardcontainer")                                           | :beginner: [ticketpricing](https://open.kattis.com/problems/ticketpricing "ticketpricing")                                                 | :beginner: [flyswatter](https://open.kattis.com/problems/flyswatter "flyswatter")                                                 | :beginner: [straza](https://open.kattis.com/problems/straza "straza")                                                                      |
+| :beginner: [backspace](https://open.kattis.com/problems/backspace "backspace")                                                                      | :beginner: [pizza](https://open.kattis.com/problems/pizza "pizza")                                                                         | :beginner: [conversion](https://open.kattis.com/problems/conversion "conversion")                                                 | :beginner: [smoothedgardens](https://open.kattis.com/problems/smoothedgardens "smoothedgardens")                                           |
+| :beginner: [areyoulistening](https://open.kattis.com/problems/areyoulistening "areyoulistening")                                                    | :beginner: [pianolessons](https://open.kattis.com/problems/pianolessons "pianolessons")                                                    | :beginner: [jattenfinn](https://open.kattis.com/problems/jattenfinn "jattenfinn")                                                 | :beginner: [sellingspatulas](https://open.kattis.com/problems/sellingspatulas "sellingspatulas")                                           |
+| :beginner: [anothercandies](https://open.kattis.com/problems/anothercandies "anothercandies")                                                       | :beginner: [otpor](https://open.kattis.com/problems/otpor "otpor")                                                                         | :beginner: [findinglines](https://open.kattis.com/problems/findinglines "findinglines")                                           | :beginner: [saskatchewan](https://open.kattis.com/problems/saskatchewan "saskatchewan")                                                    |
+| :beginner: [artichoke](https://open.kattis.com/problems/artichoke "artichoke")                                                                      | :beginner: [ntnuorienteering](https://open.kattis.com/problems/ntnuorienteering "ntnuorienteering")                                        | :beginner: [figurinefigures](https://open.kattis.com/problems/figurinefigures "figurinefigures")                                  | :beginner: [racetrack](https://open.kattis.com/problems/racetrack "racetrack")                                                             |
+| :beginner: [alldifferentdirections](https://open.kattis.com/problems/alldifferentdirections "alldifferentdirections")                               | :beginner: [mallmania](https://open.kattis.com/problems/mallmania "mallmania")                                                             | :beginner: [farmingmars](https://open.kattis.com/problems/farmingmars "farmingmars")                                              | :beginner: [obfuscation](https://open.kattis.com/problems/obfuscation "obfuscation")                                                       |
+| :beginner: [martiandna](https://open.kattis.com/problems/martiandna "martiandna")                                                                   | :beginner: [longestcommonsubstring](https://open.kattis.com/problems/longestcommonsubstring "longestcommonsubstring")                      | :beginner: [expandingrods](https://open.kattis.com/problems/expandingrods "expandingrods")                                        | :beginner: [norma](https://open.kattis.com/problems/norma "norma")                                                                         |
+| :beginner: [bryr](https://open.kattis.com/problems/bryr "bryr")                                                                                     | :beginner: [lipschitzconstant](https://open.kattis.com/problems/lipschitzconstant "lipschitzconstant")                                     | :beginner: [exhaustiveexperiment](https://open.kattis.com/problems/exhaustiveexperiment "exhaustiveexperiment")                   | :beginner: [longlongstrings](https://open.kattis.com/problems/longlongstrings "longlongstrings")                                           |
+| :beginner: [lyklagangriti](https://open.kattis.com/problems/lyklagangriti "lyklagangriti")                                                          | :beginner: [kuhar](https://open.kattis.com/problems/kuhar "kuhar")                                                                         | :beginner: [errands](https://open.kattis.com/problems/errands "errands")                                                          | :beginner: [knox](https://open.kattis.com/problems/knox "knox")                                                                            |
+| :beginner: [universityzoning](https://open.kattis.com/problems/universityzoning "universityzoning")                                                 | :beginner: [joggingtrails](https://open.kattis.com/problems/joggingtrails "joggingtrails")                                                 | :beginner: [ecocover](https://open.kattis.com/problems/ecocover "ecocover")                                                       | :beginner: [keys](https://open.kattis.com/problems/keys "keys")                                                                            |
+| :beginner: [wordsfornumbers](https://open.kattis.com/problems/wordsfornumbers "wordsfornumbers")                                                    | :beginner: [gorillas](https://open.kattis.com/problems/gorillas "gorillas")                                                                | :beginner: [drzava](https://open.kattis.com/problems/drzava "drzava")                                                             | :beginner: [moretriangles](https://open.kattis.com/problems/moretriangles "moretriangles")                                                 |
+| :beginner: [woodensigns](https://open.kattis.com/problems/woodensigns "woodensigns")                                                                | :beginner: [goofy](https://open.kattis.com/problems/goofy "goofy")                                                                         | :beginner: [crabbles](https://open.kattis.com/problems/crabbles "crabbles")                                                       | :beginner: [hauntedgraveyard](https://open.kattis.com/problems/hauntedgraveyard "hauntedgraveyard")                                        |
+| :beginner: [woodcutting](https://open.kattis.com/problems/woodcutting "woodcutting")                                                                | :beginner: [goodmessages](https://open.kattis.com/problems/goodmessages "goodmessages")                                                    | :beginner: [cosmocraft](https://open.kattis.com/problems/cosmocraft "cosmocraft")                                                 | :beginner: [gottanudge](https://open.kattis.com/problems/gottanudge "gottanudge")                                                          |
+| :beginner: [variablearithmetic](https://open.kattis.com/problems/variablearithmetic "variablearithmetic")                                           | :beginner: [gmo](https://open.kattis.com/problems/gmo "gmo")                                                                               | :beginner: [classrooms](https://open.kattis.com/problems/classrooms "classrooms")                                                 | :beginner: [fallingsnow](https://open.kattis.com/problems/fallingsnow "fallingsnow")                                                       |
+| :beginner: [trollhunt](https://open.kattis.com/problems/trollhunt "trollhunt")                                                                      | :beginner: [gluttonousgoop](https://open.kattis.com/problems/gluttonousgoop "gluttonousgoop")                                              | :beginner: [classpicture](https://open.kattis.com/problems/classpicture "classpicture")                                           | :beginner: [paired](https://open.kattis.com/problems/paired "paired")                                                                      |
+| :beginner: [textureanalysis](https://open.kattis.com/problems/textureanalysis "textureanalysis")                                                    | :beginner: [galaksija](https://open.kattis.com/problems/galaksija "galaksija")                                                             | :beginner: [chuck](https://open.kattis.com/problems/chuck "chuck")                                                                | :beginner: [dominatingduos](https://open.kattis.com/problems/dominatingduos "dominatingduos")                                              |
+| :beginner: [stickysituation](https://open.kattis.com/problems/stickysituation "stickysituation")                                                    | :beginner: [forestfires](https://open.kattis.com/problems/forestfires "forestfires")                                                       | :beginner: [cdvii](https://open.kattis.com/problems/cdvii "cdvii")                                                                | :beginner: [diceandladders](https://open.kattis.com/problems/diceandladders "diceandladders")                                              |
+| :beginner: [sretan](https://open.kattis.com/problems/sretan "sretan")                                                                               | :beginner: [famouspagoda](https://open.kattis.com/problems/famouspagoda "famouspagoda")                                                    | :beginner: [battleofhogwarts](https://open.kattis.com/problems/battleofhogwarts "battleofhogwarts")                               | :beginner: [dance](https://open.kattis.com/problems/dance "dance")                                                                         |
+| :beginner: [smartphone](https://open.kattis.com/problems/smartphone "smartphone")                                                                   | :beginner: [facility](https://open.kattis.com/problems/facility "facility")                                                                | :beginner: [bagoftiles](https://open.kattis.com/problems/bagoftiles "bagoftiles")                                                 | :beginner: [coupons](https://open.kattis.com/problems/coupons "coupons")                                                                   |
+| :beginner: [simon](https://open.kattis.com/problems/simon "simon")                                                                                  | :beginner: [cpu](https://open.kattis.com/problems/cpu "cpu")                                                                               | :beginner: [assemblyline](https://open.kattis.com/problems/assemblyline "assemblyline")                                           | :beginner: [classicalcounting](https://open.kattis.com/problems/classicalcounting "classicalcounting")                                     |
+| :beginner: [putovanje](https://open.kattis.com/problems/putovanje "putovanje")                                                                      | :beginner: [dontfencemein](https://open.kattis.com/problems/dontfencemein "dontfencemein")                                                 | :beginner: [aspenavenue](https://open.kattis.com/problems/aspenavenue "aspenavenue")                                              | :beginner: [cellularmerging](https://open.kattis.com/problems/cellularmerging "cellularmerging")                                           |
+| :beginner: [pripreme](https://open.kattis.com/problems/pripreme "pripreme")                                                                         | :beginner: [dominos](https://open.kattis.com/problems/dominos "dominos")                                                                   | :beginner: [manresor](https://open.kattis.com/problems/manresor "manresor")                                                       | :beginner: [bribingeve](https://open.kattis.com/problems/bribingeve "bribingeve")                                                          |
+| :beginner: [permutationencryption](https://open.kattis.com/problems/permutationencryption "permutationencryption")                                  | :beginner: [distributingseats](https://open.kattis.com/problems/distributingseats "distributingseats")                                     | :beginner: [witchdance](https://open.kattis.com/problems/witchdance "witchdance")                                                 | :beginner: [aliencodebreaking](https://open.kattis.com/problems/aliencodebreaking "aliencodebreaking")                                     |
+| :beginner: [anti11](https://open.kattis.com/problems/anti11 "anti11")                                                                               | :beginner: [decodingthehallway](https://open.kattis.com/problems/decodingthehallway "decodingthehallway")                                  | :beginner: [winningstreak](https://open.kattis.com/problems/winningstreak "winningstreak")                                        | :beginner: [barshelf](https://open.kattis.com/problems/barshelf "barshelf")                                                                |
+| :beginner: [lockedtreasure](https://open.kattis.com/problems/lockedtreasure "lockedtreasure")                                                       | :beginner: [damsindistress](https://open.kattis.com/problems/damsindistress "damsindistress")                                              | :beginner: [whostheboss](https://open.kattis.com/problems/whostheboss "whostheboss")                                              | :beginner: [whowantstoliveforever](https://open.kattis.com/problems/whowantstoliveforever "whowantstoliveforever")                         |
+| :beginner: [lineup](https://open.kattis.com/problems/lineup "lineup")                                                                               | :beginner: [crypto](https://open.kattis.com/problems/crypto "crypto")                                                                      | :beginner: [visual](https://open.kattis.com/problems/visual "visual")                                                             | :beginner: [tugofwar](https://open.kattis.com/problems/tugofwar "tugofwar")                                                                |
+| :beginner: [ladice](https://open.kattis.com/problems/ladice "ladice")                                                                               | :beginner: [checks](https://open.kattis.com/problems/checks "checks")                                                                      | :beginner: [trackingshares](https://open.kattis.com/problems/trackingshares "trackingshares")                                     | :beginner: [triangles2](https://open.kattis.com/problems/triangles2 "triangles2")                                                          |
+| :beginner: [grandpabernie](https://open.kattis.com/problems/grandpabernie "grandpabernie")                                                          | :beginner: [builddeps](https://open.kattis.com/problems/builddeps "builddeps")                                                             | :beginner: [thepointofnoreturn](https://open.kattis.com/problems/thepointofnoreturn "thepointofnoreturn")                         | :beginner: [theescape](https://open.kattis.com/problems/theescape "theescape")                                                             |
+| :beginner: [goodmorning](https://open.kattis.com/problems/goodmorning "goodmorning")                                                                | :beginner: [bread](https://open.kattis.com/problems/bread "bread")                                                                         | :beginner: [taxededitor](https://open.kattis.com/problems/taxededitor "taxededitor")                                              | :beginner: [sumsets](https://open.kattis.com/problems/sumsets "sumsets")                                                                   |
+| :beginner: [evenup](https://open.kattis.com/problems/evenup "evenup")                                                                               | :beginner: [blockcrusher](https://open.kattis.com/problems/blockcrusher "blockcrusher")                                                    | :beginner: [tantrix](https://open.kattis.com/problems/tantrix "tantrix")                                                          | :beginner: [science](https://open.kattis.com/problems/science "science")                                                                   |
+| :beginner: [carousel](https://open.kattis.com/problems/carousel "carousel")                                                                         | :beginner: [bells](https://open.kattis.com/problems/bells "bells")                                                                         | :beginner: [sweetandsmoky](https://open.kattis.com/problems/sweetandsmoky "sweetandsmoky")                                        | :beginner: [program](https://open.kattis.com/problems/program "program")                                                                   |
+| :beginner: [candlebox](https://open.kattis.com/problems/candlebox "candlebox")                                                                      | :beginner: [beehives2](https://open.kattis.com/problems/beehives2 "beehives2")                                                             | :beginner: [roomservice](https://open.kattis.com/problems/roomservice "roomservice")                                              | :beginner: [pieceofcake](https://open.kattis.com/problems/pieceofcake "pieceofcake")                                                       |
+| :beginner: [busnumbers](https://open.kattis.com/problems/busnumbers "busnumbers")                                                                   | :beginner: [battleship](https://open.kattis.com/problems/battleship "battleship")                                                          | :beginner: [quadres](https://open.kattis.com/problems/quadres "quadres")                                                          | :beginner: [pasijans](https://open.kattis.com/problems/pasijans "pasijans")                                                                |
+| :beginner: [bottledup](https://open.kattis.com/problems/bottledup "bottledup")                                                                      | :beginner: [azulejos](https://open.kattis.com/problems/azulejos "azulejos")                                                                | :beginner: [pokeball](https://open.kattis.com/problems/pokeball "pokeball")                                                       | :beginner: [ograda](https://open.kattis.com/problems/ograda "ograda")                                                                      |
+| :beginner: [bitbybit](https://open.kattis.com/problems/bitbybit "bitbybit")                                                                         | :beginner: [simplearithmetic](https://open.kattis.com/problems/simplearithmetic "simplearithmetic")                                        | :beginner: [planete](https://open.kattis.com/problems/planete "planete")                                                          | :beginner: [nvwls](https://open.kattis.com/problems/nvwls "nvwls")                                                                         |
+| :beginner: [bazen](https://open.kattis.com/problems/bazen "bazen")                                                                                  | :beginner: [shortestpath4](https://open.kattis.com/problems/shortestpath4 "shortestpath4")                                                 | :beginner: [olympiadtraining](https://open.kattis.com/problems/olympiadtraining "olympiadtraining")                               | :beginner: [nimcheater](https://open.kattis.com/problems/nimcheater "nimcheater")                                                          |
+| :beginner: [bard](https://open.kattis.com/problems/bard "bard")                                                                                     | :beginner: [forestfruits](https://open.kattis.com/problems/forestfruits "forestfruits")                                                    | :beginner: [oddandevenzeroes](https://open.kattis.com/problems/oddandevenzeroes "oddandevenzeroes")                               | :beginner: [necklace](https://open.kattis.com/problems/necklace "necklace")                                                                |
+| :beginner: [anthonyanddiablo](https://open.kattis.com/problems/anthonyanddiablo "anthonyanddiablo")                                                 | :beginner: [zabava](https://open.kattis.com/problems/zabava "zabava")                                                                      | :beginner: [nullarycomputer](https://open.kattis.com/problems/nullarycomputer "nullarycomputer")                                  | :beginner: [icecream](https://open.kattis.com/problems/icecream "icecream")                                                                |
+| :beginner: [amsterdamdistance](https://open.kattis.com/problems/amsterdamdistance "amsterdamdistance")                                              | :beginner: [unreadmessages](https://open.kattis.com/problems/unreadmessages "unreadmessages")                                              | :beginner: [newsalaries](https://open.kattis.com/problems/newsalaries "newsalaries")                                              | :beginner: [greeneggs](https://open.kattis.com/problems/greeneggs "greeneggs")                                                             |
+| :beginner: [listgame](https://open.kattis.com/problems/listgame "listgame")                                                                         | :beginner: [turningtrominos](https://open.kattis.com/problems/turningtrominos "turningtrominos")                                           | :beginner: [memory2](https://open.kattis.com/problems/memory2 "memory2")                                                          | :beginner: [feistelfun](https://open.kattis.com/problems/feistelfun "feistelfun")                                                          |
+| :beginner: [different](https://open.kattis.com/problems/different "different")                                                                      | :beginner: [thesaurus](https://open.kattis.com/problems/thesaurus "thesaurus")                                                             | :beginner: [manhattanshopping](https://open.kattis.com/problems/manhattanshopping "manhattanshopping")                            | :beginner: [debellatio](https://open.kattis.com/problems/debellatio "debellatio")                                                          |
+| :beginner: [waif](https://open.kattis.com/problems/waif "waif")                                                                                     | :beginner: [studentsko](https://open.kattis.com/problems/studentsko "studentsko")                                                          | :beginner: [magicalgcd](https://open.kattis.com/problems/magicalgcd "magicalgcd")                                                 | :beginner: [closingtheborders](https://open.kattis.com/problems/closingtheborders "closingtheborders")                                     |
+| :beginner: [queenspatio](https://open.kattis.com/problems/queenspatio "queenspatio")                                                                | :beginner: [stirlingsapproximation](https://open.kattis.com/problems/stirlingsapproximation "stirlingsapproximation")                      | :beginner: [parade](https://open.kattis.com/problems/parade "parade")                                                             | :beginner: [catmasgifts](https://open.kattis.com/problems/catmasgifts "catmasgifts")                                                       |
+| :beginner: [soundex](https://open.kattis.com/problems/soundex "soundex")                                                                            | :beginner: [stigavordur](https://open.kattis.com/problems/stigavordur "stigavordur")                                                       | :beginner: [jednakost](https://open.kattis.com/problems/jednakost "jednakost")                                                    | :beginner: [cars](https://open.kattis.com/problems/cars "cars")                                                                            |
+| :beginner: [snappereasy](https://open.kattis.com/problems/snappereasy "snappereasy")                                                                | :beginner: [safepassage](https://open.kattis.com/problems/safepassage "safepassage")                                                       | :beginner: [jackthelumberjack](https://open.kattis.com/problems/jackthelumberjack "jackthelumberjack")                            | :beginner: [badpacking](https://open.kattis.com/problems/badpacking "badpacking")                                                          |
+| :beginner: [shiritori](https://open.kattis.com/problems/shiritori "shiritori")                                                                      | :beginner: [roberthood](https://open.kattis.com/problems/roberthood "roberthood")                                                          | :beginner: [mortgage](https://open.kattis.com/problems/mortgage "mortgage")                                                       | :beginner: [attendance](https://open.kattis.com/problems/attendance "attendance")                                                          |
+| :beginner: [seti](https://open.kattis.com/problems/seti "seti")                                                                                     | :beginner: [reversingroads](https://open.kattis.com/problems/reversingroads "reversingroads")                                              | :beginner: [introtation](https://open.kattis.com/problems/introtation "introtation")                                              | :beginner: [areaofeffect](https://open.kattis.com/problems/areaofeffect "areaofeffect")                                                    |
+| :beginner: [secretsanta](https://open.kattis.com/problems/secretsanta "secretsanta")                                                                | :beginner: [replicate](https://open.kattis.com/problems/replicate "replicate")                                                             | :beginner: [insidersidentity](https://open.kattis.com/problems/insidersidentity "insidersidentity")                               | :beginner: [allergy](https://open.kattis.com/problems/allergy "allergy")                                                                   |
+| :beginner: [runningsteps](https://open.kattis.com/problems/runningsteps "runningsteps")                                                             | :beginner: [railway2](https://open.kattis.com/problems/railway2 "railway2")                                                                | :beginner: [hillnumbers](https://open.kattis.com/problems/hillnumbers "hillnumbers")                                              | :beginner: [withinarmsreach](https://open.kattis.com/problems/withinarmsreach "withinarmsreach")                                           |
+| :beginner: [roundedbuttons](https://open.kattis.com/problems/roundedbuttons "roundedbuttons")                                                       | :beginner: [prinova](https://open.kattis.com/problems/prinova "prinova")                                                                   | :beginner: [hiddencamera](https://open.kattis.com/problems/hiddencamera "hiddencamera")                                           | :beginner: [wheelgame](https://open.kattis.com/problems/wheelgame "wheelgame")                                                             |
+| :beginner: [robotprotection](https://open.kattis.com/problems/robotprotection "robotprotection")                                                    | :beginner: [primesieve](https://open.kattis.com/problems/primesieve "primesieve")                                                          | :beginner: [help2](https://open.kattis.com/problems/help2 "help2")                                                                | :beginner: [vending](https://open.kattis.com/problems/vending "vending")                                                                   |
+| :beginner: [rhyming](https://open.kattis.com/problems/rhyming "rhyming")                                                                            | :beginner: [playground](https://open.kattis.com/problems/playground "playground")                                                          | :beginner: [frozenrose](https://open.kattis.com/problems/frozenrose "frozenrose")                                                 | :beginner: [uprooted](https://open.kattis.com/problems/uprooted "uprooted")                                                                |
+| :beginner: [reseto](https://open.kattis.com/problems/reseto "reseto")                                                                               | :beginner: [pie](https://open.kattis.com/problems/pie "pie")                                                                               | :beginner: [easterholidays](https://open.kattis.com/problems/easterholidays "easterholidays")                                     | :beginner: [unrealestate](https://open.kattis.com/problems/unrealestate "unrealestate")                                                    |
+| :beginner: [primaryarithmetic](https://open.kattis.com/problems/primaryarithmetic "primaryarithmetic")                                              | :beginner: [pegsandlegs](https://open.kattis.com/problems/pegsandlegs "pegsandlegs")                                                       | :beginner: [dugovi](https://open.kattis.com/problems/dugovi "dugovi")                                                             | :beginner: [triangles](https://open.kattis.com/problems/triangles "triangles")                                                             |
+| :beginner: [powersof2easy](https://open.kattis.com/problems/powersof2easy "powersof2easy")                                                          | :beginner: [maximumsubarrays](https://open.kattis.com/problems/maximumsubarrays "maximumsubarrays")                                        | :beginner: [droppingball](https://open.kattis.com/problems/droppingball "droppingball")                                           | :beginner: [treasure](https://open.kattis.com/problems/treasure "treasure")                                                                |
+| :beginner: [playfair](https://open.kattis.com/problems/playfair "playfair")                                                                         | :beginner: [ljutnja](https://open.kattis.com/problems/ljutnja "ljutnja")                                                                   | :beginner: [difference](https://open.kattis.com/problems/difference "difference")                                                 | :beginner: [reseplanering](https://open.kattis.com/problems/reseplanering "reseplanering")                                                 |
+| :beginner: [platforme](https://open.kattis.com/problems/platforme "platforme")                                                                      | :beginner: [kinversions](https://open.kattis.com/problems/kinversions "kinversions")                                                       | :beginner: [dancehard](https://open.kattis.com/problems/dancehard "dancehard")                                                    | :beginner: [thebigmacquestion](https://open.kattis.com/problems/thebigmacquestion "thebigmacquestion")                                     |
+| :beginner: [piperotation](https://open.kattis.com/problems/piperotation "piperotation")                                                             | :beginner: [kingofthewaves](https://open.kattis.com/problems/kingofthewaves "kingofthewaves")                                              | :beginner: [dailydivision](https://open.kattis.com/problems/dailydivision "dailydivision")                                        | :beginner: [skakavac](https://open.kattis.com/problems/skakavac "skakavac")                                                                |
+| :beginner: [movingday](https://open.kattis.com/problems/movingday "movingday")                                                                      | :beginner: [justpassingthrough](https://open.kattis.com/problems/justpassingthrough "justpassingthrough")                                  | :beginner: [connect](https://open.kattis.com/problems/connect "connect")                                                          | :beginner: [sightseeingtour](https://open.kattis.com/problems/sightseeingtour "sightseeingtour")                                           |
+| :beginner: [kutevi](https://open.kattis.com/problems/kutevi "kutevi")                                                                               | :beginner: [janeeyre](https://open.kattis.com/problems/janeeyre "janeeyre")                                                                | :beginner: [cockchafer](https://open.kattis.com/problems/cockchafer "cockchafer")                                                 | :beginner: [rebeldie](https://open.kattis.com/problems/rebeldie "rebeldie")                                                                |
+| :beginner: [kolone](https://open.kattis.com/problems/kolone "kolone")                                                                               | :beginner: [inspectingillumination](https://open.kattis.com/problems/inspectingillumination "inspectingillumination")                      | :beginner: [carpool](https://open.kattis.com/problems/carpool "carpool")                                                          | :beginner: [prospecting](https://open.kattis.com/problems/prospecting "prospecting")                                                       |
+| :beginner: [judging](https://open.kattis.com/problems/judging "judging")                                                                            | :beginner: [ingredients](https://open.kattis.com/problems/ingredients "ingredients")                                                       | :beginner: [canyoncrossing](https://open.kattis.com/problems/canyoncrossing "canyoncrossing")                                     | :beginner: [nanagrams](https://open.kattis.com/problems/nanagrams "nanagrams")                                                             |
+| :beginner: [jointattack](https://open.kattis.com/problems/jointattack "jointattack")                                                                | :beginner: [icpccamp](https://open.kattis.com/problems/icpccamp "icpccamp")                                                                | :beginner: [canofworms](https://open.kattis.com/problems/canofworms "canofworms")                                                 | :beginner: [moveablemaze](https://open.kattis.com/problems/moveablemaze "moveablemaze")                                                    |
+| :beginner: [iwannabe](https://open.kattis.com/problems/iwannabe "iwannabe")                                                                         | :beginner: [halloweemirrors](https://open.kattis.com/problems/halloweemirrors "halloweemirrors")                                           | :beginner: [brickpartition](https://open.kattis.com/problems/brickpartition "brickpartition")                                     | :beginner: [kenken](https://open.kattis.com/problems/kenken "kenken")                                                                      |
+| :beginner: [helpme](https://open.kattis.com/problems/helpme "helpme")                                                                               | :beginner: [gridgame](https://open.kattis.com/problems/gridgame "gridgame")                                                                | :beginner: [brainfsckvm](https://open.kattis.com/problems/brainfsckvm "brainfsckvm")                                              | :beginner: [kabobs](https://open.kattis.com/problems/kabobs "kabobs")                                                                      |
+| :beginner: [hardwoodspecies](https://open.kattis.com/problems/hardwoodspecies "hardwoodspecies")                                                    | :beginner: [gravity](https://open.kattis.com/problems/gravity "gravity")                                                                   | :beginner: [blowingcandles](https://open.kattis.com/problems/blowingcandles "blowingcandles")                                     | :beginner: [highwayhassle](https://open.kattis.com/problems/highwayhassle "highwayhassle")                                                 |
+| :beginner: [goldbach2](https://open.kattis.com/problems/goldbach2 "goldbach2")                                                                      | :beginner: [goingtoseed](https://open.kattis.com/problems/goingtoseed "goingtoseed")                                                       | :beginner: [basicinterpreter](https://open.kattis.com/problems/basicinterpreter "basicinterpreter")                               | :beginner: [gameofdivisibility](https://open.kattis.com/problems/gameofdivisibility "gameofdivisibility")                                  |
+| :beginner: [glyphrecognition](https://open.kattis.com/problems/glyphrecognition "glyphrecognition")                                                 | :beginner: [clue](https://open.kattis.com/problems/clue "clue")                                                                            | :beginner: [tank](https://open.kattis.com/problems/tank "tank")                                                                   | :beginner: [foodreview](https://open.kattis.com/problems/foodreview "foodreview")                                                          |
+| :beginner: [fibonaccicycles](https://open.kattis.com/problems/fibonaccicycles "fibonaccicycles")                                                    | :beginner: [fareysums](https://open.kattis.com/problems/fareysums "fareysums")                                                             | :beginner: [xormax](https://open.kattis.com/problems/xormax "xormax")                                                             | :beginner: [roads](https://open.kattis.com/problems/roads "roads")                                                                         |
+| :beginner: [doubleplusgood](https://open.kattis.com/problems/doubleplusgood "doubleplusgood")                                                       | :beginner: [expeditiouscubing](https://open.kattis.com/problems/expeditiouscubing "expeditiouscubing")                                     | :beginner: [weirdflecksbutok](https://open.kattis.com/problems/weirdflecksbutok "weirdflecksbutok")                               | :beginner: [excludescoring](https://open.kattis.com/problems/excludescoring "excludescoring")                                              |
+| :beginner: [crosscountry](https://open.kattis.com/problems/crosscountry "crosscountry")                                                             | :beginner: [enviousexponents](https://open.kattis.com/problems/enviousexponents "enviousexponents")                                        | :beginner: [uniformsubtrees](https://open.kattis.com/problems/uniformsubtrees "uniformsubtrees")                                  | :beginner: [dvdscreensaver](https://open.kattis.com/problems/dvdscreensaver "dvdscreensaver")                                              |
+| :beginner: [busnumbers2](https://open.kattis.com/problems/busnumbers2 "busnumbers2")                                                                | :beginner: [contentprotection](https://open.kattis.com/problems/contentprotection "contentprotection")                                     | :beginner: [treequivalence](https://open.kattis.com/problems/treequivalence "treequivalence")                                     | :beginner: [djgigs](https://open.kattis.com/problems/djgigs "djgigs")                                                                      |
+| :beginner: [bobby](https://open.kattis.com/problems/bobby "bobby")                                                                                  | :beginner: [codenames](https://open.kattis.com/problems/codenames "codenames")                                                             | :beginner: [travelingmerchant](https://open.kattis.com/problems/travelingmerchant "travelingmerchant")                            | :beginner: [debug](https://open.kattis.com/problems/debug "debug")                                                                         |
+| :beginner: [bachetsgame](https://open.kattis.com/problems/bachetsgame "bachetsgame")                                                                | :beginner: [joggers](https://open.kattis.com/problems/joggers "joggers")                                                                   | :beginner: [topovi](https://open.kattis.com/problems/topovi "topovi")                                                             | :beginner: [cumulative](https://open.kattis.com/problems/cumulative "cumulative")                                                          |
+| :beginner: [acm2](https://open.kattis.com/problems/acm2 "acm2")                                                                                     | :beginner: [burglary](https://open.kattis.com/problems/burglary "burglary")                                                                | :beginner: [trip](https://open.kattis.com/problems/trip "trip")                                                                   | :beginner: [castingspells](https://open.kattis.com/problems/castingspells "castingspells")                                                 |
+| :beginner: [ninetynine](https://open.kattis.com/problems/ninetynine "ninetynine")                                                                   | :beginner: [bungeejumping](https://open.kattis.com/problems/bungeejumping "bungeejumping")                                                 | :beginner: [superdoku](https://open.kattis.com/problems/superdoku "superdoku")                                                    | :beginner: [borgboogie](https://open.kattis.com/problems/borgboogie "borgboogie")                                                          |
+| :beginner: [vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy "vaccineefficacy")                                                    | :beginner: [arachnophobia](https://open.kattis.com/problems/arachnophobia "arachnophobia")                                                 | :beginner: [sunlight](https://open.kattis.com/problems/sunlight "sunlight")                                                       | :beginner: [bling](https://open.kattis.com/problems/bling "bling")                                                                         |
+| :beginner: [tildes](https://open.kattis.com/problems/tildes "tildes")                                                                               | :beginner: [andrewant](https://open.kattis.com/problems/andrewant "andrewant")                                                             | :beginner: [slimcut](https://open.kattis.com/problems/slimcut "slimcut")                                                          | :beginner: [bearlymadeit](https://open.kattis.com/problems/bearlymadeit "bearlymadeit")                                                    |
+| :beginner: [weightofwords](https://open.kattis.com/problems/weightofwords "weightofwords")                                                          | :beginner: [alehouse](https://open.kattis.com/problems/alehouse "alehouse")                                                                | :beginner: [single](https://open.kattis.com/problems/single "single")                                                             | :beginner: [yikes](https://open.kattis.com/problems/yikes "yikes")                                                                         |
+| :beginner: [squarepegs](https://open.kattis.com/problems/squarepegs "squarepegs")                                                                   | :beginner: [adventuremoving4](https://open.kattis.com/problems/adventuremoving4 "adventuremoving4")                                        | :beginner: [runningroutes](https://open.kattis.com/problems/runningroutes "runningroutes")                                        | :beginner: [virussynthesis](https://open.kattis.com/problems/virussynthesis "virussynthesis")                                              |
+| :beginner: [smoothiestand](https://open.kattis.com/problems/smoothiestand "smoothiestand")                                                          | :beginner: [bokforing](https://open.kattis.com/problems/bokforing "bokforing")                                                             | :beginner: [zamboni](https://open.kattis.com/problems/zamboni "zamboni")                                                          | :beginner: [stogovi](https://open.kattis.com/problems/stogovi "stogovi")                                                                   |
+| :beginner: [shuffling](https://open.kattis.com/problems/shuffling "shuffling")                                                                      | :beginner: [restaurant](https://open.kattis.com/problems/restaurant "restaurant")                                                          | :beginner: [politicaldevelopment](https://open.kattis.com/problems/politicaldevelopment "politicaldevelopment")                   | :beginner: [stampstamp](https://open.kattis.com/problems/stampstamp "stampstamp")                                                          |
+| :beginner: [parsinghex](https://open.kattis.com/problems/parsinghex "parsinghex")                                                                   | :beginner: [wolf](https://open.kattis.com/problems/wolf "wolf")                                                                            | :beginner: [pipes2](https://open.kattis.com/problems/pipes2 "pipes2")                                                             | :beginner: [prokletnik](https://open.kattis.com/problems/prokletnik "prokletnik")                                                          |
+| :beginner: [narrowartgallery](https://open.kattis.com/problems/narrowartgallery "narrowartgallery")                                                 | :beginner: [virtualfriends](https://open.kattis.com/problems/virtualfriends "virtualfriends")                                              | :beginner: [paleta](https://open.kattis.com/problems/paleta "paleta")                                                             | :beginner: [produktsiffra](https://open.kattis.com/problems/produktsiffra "produktsiffra")                                                 |
+| :beginner: [mountainbiking](https://open.kattis.com/problems/mountainbiking "mountainbiking")                                                       | :beginner: [worminapple](https://open.kattis.com/problems/worminapple "worminapple")                                                       | :beginner: [flowers](https://open.kattis.com/problems/flowers "flowers")                                                          | :beginner: [probedroids](https://open.kattis.com/problems/probedroids "probedroids")                                                       |
+| :beginner: [keepitcool](https://open.kattis.com/problems/keepitcool "keepitcool")                                                                   | :beginner: [thecolonizationofelgarizm](https://open.kattis.com/problems/thecolonizationofelgarizm "thecolonizationofelgarizm")             | :beginner: [nuremberg](https://open.kattis.com/problems/nuremberg "nuremberg")                                                    | :beginner: [poslozi](https://open.kattis.com/problems/poslozi "poslozi")                                                                   |
+| :beginner: [islands](https://open.kattis.com/problems/islands "islands")                                                                            | :beginner: [tenkici](https://open.kattis.com/problems/tenkici "tenkici")                                                                   | :beginner: [mayhem](https://open.kattis.com/problems/mayhem "mayhem")                                                             | :beginner: [pinball](https://open.kattis.com/problems/pinball "pinball")                                                                   |
+| :beginner: [porpoises](https://open.kattis.com/problems/porpoises "porpoises")                                                                      | :beginner: [swapspace](https://open.kattis.com/problems/swapspace "swapspace")                                                             | :beginner: [more10](https://open.kattis.com/problems/more10 "more10")                                                             | :beginner: [letsmeet](https://open.kattis.com/problems/letsmeet "letsmeet")                                                                |
+| :beginner: [icpcteamselection](https://open.kattis.com/problems/icpcteamselection "icpcteamselection")                                              | :beginner: [svm](https://open.kattis.com/problems/svm "svm")                                                                               | :beginner: [lostisclosetolose](https://open.kattis.com/problems/lostisclosetolose "lostisclosetolose")                            | :beginner: [learningtocode](https://open.kattis.com/problems/learningtocode "learningtocode")                                              |
+| :beginner: [hopscotch50](https://open.kattis.com/problems/hopscotch50 "hopscotch50")                                                                | :beginner: [consecutivesums](https://open.kattis.com/problems/consecutivesums "consecutivesums")                                           | :beginner: [keepthemseparated](https://open.kattis.com/problems/keepthemseparated "keepthemseparated")                            | :beginner: [kthsubtree](https://open.kattis.com/problems/kthsubtree "kthsubtree")                                                          |
+| :beginner: [fractionallotion](https://open.kattis.com/problems/fractionallotion "fractionallotion")                                                 | :beginner: [subway2](https://open.kattis.com/problems/subway2 "subway2")                                                                   | :beginner: [interview](https://open.kattis.com/problems/interview "interview")                                                    | :beginner: [keepitsorted](https://open.kattis.com/problems/keepitsorted "keepitsorted")                                                    |
+| :beginner: [falcondive](https://open.kattis.com/problems/falcondive "falcondive")                                                                   | :beginner: [setnja](https://open.kattis.com/problems/setnja "setnja")                                                                      | :beginner: [double](https://open.kattis.com/problems/double "double")                                                             | :beginner: [hubtown](https://open.kattis.com/problems/hubtown "hubtown")                                                                   |
+| :beginner: [escapewallmaria](https://open.kattis.com/problems/escapewallmaria "escapewallmaria")                                                    | :beginner: [savinguniverse](https://open.kattis.com/problems/savinguniverse "savinguniverse")                                              | :beginner: [distinctivecharacter](https://open.kattis.com/problems/distinctivecharacter "distinctivecharacter")                   | :beginner: [funwithfibonacci](https://open.kattis.com/problems/funwithfibonacci "funwithfibonacci")                                        |
+| :beginner: [elevatortrouble](https://open.kattis.com/problems/elevatortrouble "elevatortrouble")                                                    | :beginner: [rainfall2](https://open.kattis.com/problems/rainfall2 "rainfall2")                                                             | :beginner: [cudak](https://open.kattis.com/problems/cudak "cudak")                                                                | :beginner: [doublets](https://open.kattis.com/problems/doublets "doublets")                                                                |
+| :beginner: [dasort](https://open.kattis.com/problems/dasort "dasort")                                                                               | :beginner: [rainbowgraph](https://open.kattis.com/problems/rainbowgraph "rainbowgraph")                                                    | :beginner: [cuckoo](https://open.kattis.com/problems/cuckoo "cuckoo")                                                             | :beginner: [containment](https://open.kattis.com/problems/containment "containment")                                                       |
+| :beginner: [conversationlog](https://open.kattis.com/problems/conversationlog "conversationlog")                                                    | :beginner: [quantumsuperposition](https://open.kattis.com/problems/quantumsuperposition "quantumsuperposition")                            | :beginner: [convexcontour](https://open.kattis.com/problems/convexcontour "convexcontour")                                        | :beginner: [compensation](https://open.kattis.com/problems/compensation "compensation")                                                    |
+| :beginner: [cantor](https://open.kattis.com/problems/cantor "cantor")                                                                               | :beginner: [pandapreserve](https://open.kattis.com/problems/pandapreserve "pandapreserve")                                                 | :beginner: [closestpair1](https://open.kattis.com/problems/closestpair1 "closestpair1")                                           | :beginner: [cactus](https://open.kattis.com/problems/cactus "cactus")                                                                      |
+| :beginner: [brokencalculator](https://open.kattis.com/problems/brokencalculator "brokencalculator")                                                 | :beginner: [minecraftdungeons](https://open.kattis.com/problems/minecraftdungeons "minecraftdungeons")                                     | :beginner: [cliffwalk](https://open.kattis.com/problems/cliffwalk "cliffwalk")                                                    | :beginner: [busclock](https://open.kattis.com/problems/busclock "busclock")                                                                |
+| :beginner: [batmanacci](https://open.kattis.com/problems/batmanacci "batmanacci")                                                                   | :beginner: [mathemagicians](https://open.kattis.com/problems/mathemagicians "mathemagicians")                                              | :beginner: [debt](https://open.kattis.com/problems/debt "debt")                                                                   | :beginner: [battleofpokenom](https://open.kattis.com/problems/battleofpokenom "battleofpokenom")                                           |
+| :beginner: [awkwardparty](https://open.kattis.com/problems/awkwardparty "awkwardparty")                                                             | :beginner: [matchgame](https://open.kattis.com/problems/matchgame "matchgame")                                                             | :beginner: [cheergame](https://open.kattis.com/problems/cheergame "cheergame")                                                    | :beginner: [applemarket](https://open.kattis.com/problems/applemarket "applemarket")                                                       |
+| :beginner: [anagramcounting](https://open.kattis.com/problems/anagramcounting "anagramcounting")                                                    | :beginner: [knapsack](https://open.kattis.com/problems/knapsack "knapsack")                                                                | :beginner: [catandmice](https://open.kattis.com/problems/catandmice "catandmice")                                                 | :beginner: [aplusb](https://open.kattis.com/problems/aplusb "aplusb")                                                                      |
+| :beginner: [almostperfect](https://open.kattis.com/problems/almostperfect "almostperfect")                                                          | :beginner: [jointexcavation](https://open.kattis.com/problems/jointexcavation "jointexcavation")                                           | :beginner: [atlantis](https://open.kattis.com/problems/atlantis "atlantis")                                                       | :beginner: [trimmingpolygons](https://open.kattis.com/problems/trimmingpolygons "trimmingpolygons")                                        |
+| :beginner: [4thought](https://open.kattis.com/problems/4thought "4thought")                                                                         | :beginner: [intents](https://open.kattis.com/problems/intents "intents")                                                                   | :beginner: [anttyping](https://open.kattis.com/problems/anttyping "anttyping")                                                    | :beginner: [trickshot](https://open.kattis.com/problems/trickshot "trickshot")                                                             |
+| :beginner: [2048](https://open.kattis.com/problems/2048 "2048")                                                                                     | :beginner: [inflagrantedelicto](https://open.kattis.com/problems/inflagrantedelicto "inflagrantedelicto")                                  | :beginner: [anothercoinweighingpuzzle](https://open.kattis.com/problems/anothercoinweighingpuzzle "anothercoinweighingpuzzle")    | :beginner: [triangularclouds](https://open.kattis.com/problems/triangularclouds "triangularclouds")                                        |
+| :beginner: [wffnproof](https://open.kattis.com/problems/wffnproof "wffnproof")                                                                      | :beginner: [incrementalinduction](https://open.kattis.com/problems/incrementalinduction "incrementalinduction")                            | :beginner: [race](https://open.kattis.com/problems/race "race")                                                                   | :beginner: [travelingsalesman](https://open.kattis.com/problems/travelingsalesman "travelingsalesman")                                     |
+| :beginner: [hailstone](https://open.kattis.com/problems/hailstone "hailstone")                                                                      | :beginner: [ghostbusters](https://open.kattis.com/problems/ghostbusters "ghostbusters")                                                    | :beginner: [administrativeproblems](https://open.kattis.com/problems/administrativeproblems "administrativeproblems")             | :beginner: [spider](https://open.kattis.com/problems/spider "spider")                                                                      |
+| :beginner: [queens](https://open.kattis.com/problems/queens "queens")                                                                               | :beginner: [garbagetracking](https://open.kattis.com/problems/garbagetracking "garbagetracking")                                           | :beginner: [wiseguy](https://open.kattis.com/problems/wiseguy "wiseguy")                                                          | :beginner: [ringworld](https://open.kattis.com/problems/ringworld "ringworld")                                                             |
+| :beginner: [trainboarding](https://open.kattis.com/problems/trainboarding "trainboarding")                                                          | :beginner: [gcpc](https://open.kattis.com/problems/gcpc "gcpc")                                                                            | :beginner: [wire](https://open.kattis.com/problems/wire "wire")                                                                   | :beginner: [nnnnn](https://open.kattis.com/problems/nnnnn "nnnnn")                                                                         |
+| :beginner: [trip2007](https://open.kattis.com/problems/trip2007 "trip2007")                                                                         | :beginner: [fakenews](https://open.kattis.com/problems/fakenews "fakenews")                                                                | :beginner: [twentyfour](https://open.kattis.com/problems/twentyfour "twentyfour")                                                 | :beginner: [languagesurvey](https://open.kattis.com/problems/languagesurvey "languagesurvey")                                              |
+| :beginner: [summertrip](https://open.kattis.com/problems/summertrip "summertrip")                                                                   | :beginner: [erdosnumbers](https://open.kattis.com/problems/erdosnumbers "erdosnumbers")                                                    | :beginner: [triangles3](https://open.kattis.com/problems/triangles3 "triangles3")                                                 | :beginner: [kiwitrees](https://open.kattis.com/problems/kiwitrees "kiwitrees")                                                             |
+| :beginner: [simplicity](https://open.kattis.com/problems/simplicity "simplicity")                                                                   | :beginner: [ecoins](https://open.kattis.com/problems/ecoins "ecoins")                                                                      | :beginner: [trianglecuts](https://open.kattis.com/problems/trianglecuts "trianglecuts")                                           | :beginner: [hack](https://open.kattis.com/problems/hack "hack")                                                                            |
+| :beginner: [safehouses](https://open.kattis.com/problems/safehouses "safehouses")                                                                   | :beginner: [dna](https://open.kattis.com/problems/dna "dna")                                                                               | :beginner: [trainsorting](https://open.kattis.com/problems/trainsorting "trainsorting")                                           | :beginner: [goldbandits](https://open.kattis.com/problems/goldbandits "goldbandits")                                                       |
+| :beginner: [polygonarea](https://open.kattis.com/problems/polygonarea "polygonarea")                                                                | :beginner: [dividingkingdom](https://open.kattis.com/problems/dividingkingdom "dividingkingdom")                                           | :beginner: [redgem](https://open.kattis.com/problems/redgem "redgem")                                                             | :beginner: [gathering](https://open.kattis.com/problems/gathering "gathering")                                                             |
+| :beginner: [pleasegofirst](https://open.kattis.com/problems/pleasegofirst "pleasegofirst")                                                          | :beginner: [detour](https://open.kattis.com/problems/detour "detour")                                                                      | :beginner: [surveillance2](https://open.kattis.com/problems/surveillance2 "surveillance2")                                        | :beginner: [fractaltree](https://open.kattis.com/problems/fractaltree "fractaltree")                                                       |
+| :beginner: [musicaltrees](https://open.kattis.com/problems/musicaltrees "musicaltrees")                                                             | :beginner: [cheats](https://open.kattis.com/problems/cheats "cheats")                                                                      | :beginner: [streamstats](https://open.kattis.com/problems/streamstats "streamstats")                                              | :beginner: [floatingpoints](https://open.kattis.com/problems/floatingpoints "floatingpoints")                                              |
+| :beginner: [multigram](https://open.kattis.com/problems/multigram "multigram")                                                                      | :beginner: [cheatingbooleantree](https://open.kattis.com/problems/cheatingbooleantree "cheatingbooleantree")                               | :beginner: [staza](https://open.kattis.com/problems/staza "staza")                                                                | :beginner: [fixingbugs](https://open.kattis.com/problems/fixingbugs "fixingbugs")                                                          |
+| :beginner: [plowking](https://open.kattis.com/problems/plowking "plowking")                                                                         | :beginner: [centsavings](https://open.kattis.com/problems/centsavings "centsavings")                                                       | :beginner: [starsinacan](https://open.kattis.com/problems/starsinacan "starsinacan")                                              | :beginner: [divljak](https://open.kattis.com/problems/divljak "divljak")                                                                   |
+| :beginner: [missinggnomes](https://open.kattis.com/problems/missinggnomes "missinggnomes")                                                          | :beginner: [buggyrobot2](https://open.kattis.com/problems/buggyrobot2 "buggyrobot2")                                                       | :beginner: [stanovi](https://open.kattis.com/problems/stanovi "stanovi")                                                          | :beginner: [deletethis](https://open.kattis.com/problems/deletethis "deletethis")                                                          |
+| :beginner: [matrix](https://open.kattis.com/problems/matrix "matrix")                                                                               | :beginner: [brexitnegotiations](https://open.kattis.com/problems/brexitnegotiations "brexitnegotiations")                                  | :beginner: [snakes](https://open.kattis.com/problems/snakes "snakes")                                                             | :beginner: [crisscross](https://open.kattis.com/problems/crisscross "crisscross")                                                          |
+| :beginner: [mandelbrot](https://open.kattis.com/problems/mandelbrot "mandelbrot")                                                                   | :beginner: [iforaneye](https://open.kattis.com/problems/iforaneye "iforaneye")                                                             | :beginner: [sellingland](https://open.kattis.com/problems/sellingland "sellingland")                                              | :beginner: [cantstopplaying](https://open.kattis.com/problems/cantstopplaying "cantstopplaying")                                           |
+| :beginner: [incognito](https://open.kattis.com/problems/incognito "incognito")                                                                      | :beginner: [zigzag2](https://open.kattis.com/problems/zigzag2 "zigzag2")                                                                   | :beginner: [roundtrips](https://open.kattis.com/problems/roundtrips "roundtrips")                                                 | :beginner: [pikemanhard](https://open.kattis.com/problems/pikemanhard "pikemanhard")                                                       |
+| :beginner: [tutorial](https://open.kattis.com/problems/tutorial "tutorial")                                                                         | :beginner: [xorequation](https://open.kattis.com/problems/xorequation "xorequation")                                                       | :beginner: [substrings](https://open.kattis.com/problems/substrings "substrings")                                                 | :beginner: [arable](https://open.kattis.com/problems/arable "arable")                                                                      |
+| :beginner: [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure "guessthedatastructure")                                  | :beginner: [vivoparc](https://open.kattis.com/problems/vivoparc "vivoparc")                                                                | :beginner: [rats](https://open.kattis.com/problems/rats "rats")                                                                   | :beginner: [anothersubstringqueryproblem](https://open.kattis.com/problems/anothersubstringqueryproblem "anothersubstringqueryproblem")    |
+| :beginner: [fromatob](https://open.kattis.com/problems/fromatob "fromatob")                                                                         | :beginner: [vanishingparentheses](https://open.kattis.com/problems/vanishingparentheses "vanishingparentheses")                            | :beginner: [proteins](https://open.kattis.com/problems/proteins "proteins")                                                       | :beginner: [wizarddance](https://open.kattis.com/problems/wizarddance "wizarddance")                                                       |
+| :beginner: [dvds](https://open.kattis.com/problems/dvds "dvds")                                                                                     | :beginner: [unfairplay](https://open.kattis.com/problems/unfairplay "unfairplay")                                                          | :beginner: [prisonrearrangement](https://open.kattis.com/problems/prisonrearrangement "prisonrearrangement")                      | :beginner: [tree](https://open.kattis.com/problems/tree "tree")                                                                            |
+| :beginner: [deathtaxes](https://open.kattis.com/problems/deathtaxes "deathtaxes")                                                                   | :beginner: [ultraquicksort](https://open.kattis.com/problems/ultraquicksort "ultraquicksort")                                              | :beginner: [princeandprincess](https://open.kattis.com/problems/princeandprincess "princeandprincess")                            | :beginner: [ultimatepipegame](https://open.kattis.com/problems/ultimatepipegame "ultimatepipegame")                                        |
+| :beginner: [cheese](https://open.kattis.com/problems/cheese "cheese")                                                                               | :beginner: [transportationplanning](https://open.kattis.com/problems/transportationplanning "transportationplanning")                      | :beginner: [polymul2](https://open.kattis.com/problems/polymul2 "polymul2")                                                       | :beginner: [trains](https://open.kattis.com/problems/trains "trains")                                                                      |
+| :beginner: [bottles](https://open.kattis.com/problems/bottles "bottles")                                                                            | :beginner: [tomosynthesis](https://open.kattis.com/problems/tomosynthesis "tomosynthesis")                                                 | :beginner: [poklon](https://open.kattis.com/problems/poklon "poklon")                                                             | :beginner: [foxandowl](https://open.kattis.com/problems/foxandowl "foxandowl")                                                             |
+| :beginner: [cuchitunnels](https://open.kattis.com/problems/cuchitunnels "cuchitunnels")                                                             | :beginner: [thedragonandtheknights](https://open.kattis.com/problems/thedragonandtheknights "thedragonandtheknights")                      | :beginner: [numbersetshard](https://open.kattis.com/problems/numbersetshard "numbersetshard")                                     | :beginner: [shovellingcost](https://open.kattis.com/problems/shovellingcost "shovellingcost")                                              |
+| :beginner: [countingstars](https://open.kattis.com/problems/countingstars "countingstars")                                                          | :beginner: [biggesttriangle](https://open.kattis.com/problems/biggesttriangle "biggesttriangle")                                           | :beginner: [nonboringsequences](https://open.kattis.com/problems/nonboringsequences "nonboringsequences")                         | :beginner: [shovelling](https://open.kattis.com/problems/shovelling "shovelling")                                                          |
+| :beginner: [closestsums](https://open.kattis.com/problems/closestsums "closestsums")                                                                | :beginner: [thathanoi](https://open.kattis.com/problems/thathanoi "thathanoi")                                                             | :beginner: [numbers](https://open.kattis.com/problems/numbers "numbers")                                                          | :beginner: [saturnbees](https://open.kattis.com/problems/saturnbees "saturnbees")                                                          |
+| :beginner: [chess](https://open.kattis.com/problems/chess "chess")                                                                                  | :beginner: [taxing](https://open.kattis.com/problems/taxing "taxing")                                                                      | :beginner: [neverjumpdown](https://open.kattis.com/problems/neverjumpdown "neverjumpdown")                                        | :beginner: [perfecttree](https://open.kattis.com/problems/perfecttree "perfecttree")                                                       |
+| :beginner: [cantinaofbabel](https://open.kattis.com/problems/cantinaofbabel "cantinaofbabel")                                                       | :beginner: [spiderman](https://open.kattis.com/problems/spiderman "spiderman")                                                             | :beginner: [monitoringskipaths](https://open.kattis.com/problems/monitoringskipaths "monitoringskipaths")                         | :beginner: [peaktower](https://open.kattis.com/problems/peaktower "peaktower")                                                             |
+| :beginner: [battlesimulation](https://open.kattis.com/problems/battlesimulation "battlesimulation")                                                 | :beginner: [junk](https://open.kattis.com/problems/junk "junk")                                                                            | :beginner: [gradient](https://open.kattis.com/problems/gradient "gradient")                                                       | :beginner: [niceprefixes](https://open.kattis.com/problems/niceprefixes "niceprefixes")                                                    |
+| :beginner: [industrialspy](https://open.kattis.com/problems/industrialspy "industrialspy")                                                          | :beginner: [sixdegrees](https://open.kattis.com/problems/sixdegrees "sixdegrees")                                                          | :beginner: [message](https://open.kattis.com/problems/message "message")                                                          | :beginner: [moneytransfers](https://open.kattis.com/problems/moneytransfers "moneytransfers")                                              |
+| :beginner: [wertyu](https://open.kattis.com/problems/wertyu "wertyu")                                                                               | :beginner: [shortestpath3](https://open.kattis.com/problems/shortestpath3 "shortestpath3")                                                 | :beginner: [maximizingyourpay](https://open.kattis.com/problems/maximizingyourpay "maximizingyourpay")                            | :beginner: [maptiles](https://open.kattis.com/problems/maptiles "maptiles")                                                                |
+| :beginner: [tourdefrance](https://open.kattis.com/problems/tourdefrance "tourdefrance")                                                             | :beginner: [roadtrip2](https://open.kattis.com/problems/roadtrip2 "roadtrip2")                                                             | :beginner: [equationsolver](https://open.kattis.com/problems/equationsolver "equationsolver")                                     | :beginner: [kcolouring](https://open.kattis.com/problems/kcolouring "kcolouring")                                                          |
+| :beginner: [loowater](https://open.kattis.com/problems/loowater "loowater")                                                                         | :beginner: [reservoir](https://open.kattis.com/problems/reservoir "reservoir")                                                             | :beginner: [jumpingmonkey](https://open.kattis.com/problems/jumpingmonkey "jumpingmonkey")                                        | :beginner: [icar](https://open.kattis.com/problems/icar "icar")                                                                            |
+| :beginner: [thanos](https://open.kattis.com/problems/thanos "thanos")                                                                               | :beginner: [redblacktree](https://open.kattis.com/problems/redblacktree "redblacktree")                                                    | :beginner: [juice2](https://open.kattis.com/problems/juice2 "juice2")                                                             | :beginner: [histogrami](https://open.kattis.com/problems/histogrami "histogrami")                                                          |
+| :beginner: [textmessaging](https://open.kattis.com/problems/textmessaging "textmessaging")                                                          | :beginner: [powers](https://open.kattis.com/problems/powers "powers")                                                                      | :beginner: [journalediting](https://open.kattis.com/problems/journalediting "journalediting")                                     | :beginner: [hilldriving](https://open.kattis.com/problems/hilldriving "hilldriving")                                                       |
+| :beginner: [teacherevaluation](https://open.kattis.com/problems/teacherevaluation "teacherevaluation")                                              | :beginner: [powereggs](https://open.kattis.com/problems/powereggs "powereggs")                                                             | :beginner: [joeislearningtospeak](https://open.kattis.com/problems/joeislearningtospeak "joeislearningtospeak")                   | :beginner: [hardevidence](https://open.kattis.com/problems/hardevidence "hardevidence")                                                    |
+| :beginner: [2naire](https://open.kattis.com/problems/2naire "2naire")                                                                               | :beginner: [polyomino](https://open.kattis.com/problems/polyomino "polyomino")                                                             | :beginner: [inkblots](https://open.kattis.com/problems/inkblots "inkblots")                                                       | :beginner: [guessthenumbers](https://open.kattis.com/problems/guessthenumbers "guessthenumbers")                                           |
+| :beginner: [rot](https://open.kattis.com/problems/rot "rot")                                                                                        | :beginner: [geometry](https://open.kattis.com/problems/geometry "geometry")                                                                | :beginner: [bettor](https://open.kattis.com/problems/bettor "bettor")                                                             | :beginner: [friendlyfire](https://open.kattis.com/problems/friendlyfire "friendlyfire")                                                    |
+| :beginner: [reducedidnumbers](https://open.kattis.com/problems/reducedidnumbers "reducedidnumbers")                                                 | :beginner: [pedalpower](https://open.kattis.com/problems/pedalpower "pedalpower")                                                          | :beginner: [gravamen](https://open.kattis.com/problems/gravamen "gravamen")                                                       | :beginner: [fishingcontest](https://open.kattis.com/problems/fishingcontest "fishingcontest")                                              |
+| :beginner: [recenice](https://open.kattis.com/problems/recenice "recenice")                                                                         | :beginner: [hyperpyramids](https://open.kattis.com/problems/hyperpyramids "hyperpyramids")                                                 | :beginner: [godzilla](https://open.kattis.com/problems/godzilla "godzilla")                                                       | :beginner: [dryicecream](https://open.kattis.com/problems/dryicecream "dryicecream")                                                       |
+| :beginner: [pyramidkonstruktion](https://open.kattis.com/problems/pyramidkonstruktion "pyramidkonstruktion")                                        | :beginner: [overlappingmaps](https://open.kattis.com/problems/overlappingmaps "overlappingmaps")                                           | :beginner: [galactic](https://open.kattis.com/problems/galactic "galactic")                                                       | :beginner: [dangerousskiing](https://open.kattis.com/problems/dangerousskiing "dangerousskiing")                                           |
+| :beginner: [posterize](https://open.kattis.com/problems/posterize "posterize")                                                                      | :beginner: [messages](https://open.kattis.com/problems/messages "messages")                                                                | :beginner: [freecell](https://open.kattis.com/problems/freecell "freecell")                                                       | :beginner: [cycleshard](https://open.kattis.com/problems/cycleshard "cycleshard")                                                          |
+| :beginner: [playingtheslots](https://open.kattis.com/problems/playingtheslots "playingtheslots")                                                    | :beginner: [manhattanmornings](https://open.kattis.com/problems/manhattanmornings "manhattanmornings")                                     | :beginner: [ferryloading](https://open.kattis.com/problems/ferryloading "ferryloading")                                           | :beginner: [countingpalindromes](https://open.kattis.com/problems/countingpalindromes "countingpalindromes")                               |
+| :beginner: [neutralground](https://open.kattis.com/problems/neutralground "neutralground")                                                          | :beginner: [luckynumber](https://open.kattis.com/problems/luckynumber "luckynumber")                                                       | :beginner: [fencing](https://open.kattis.com/problems/fencing "fencing")                                                          | :beginner: [buriedtreasure](https://open.kattis.com/problems/buriedtreasure "buriedtreasure")                                              |
+| :beginner: [missingnumber](https://open.kattis.com/problems/missingnumber "missingnumber")                                                          | :beginner: [litespace](https://open.kattis.com/problems/litespace "litespace")                                                             | :beginner: [familiar](https://open.kattis.com/problems/familiar "familiar")                                                       | :beginner: [buenosairlines](https://open.kattis.com/problems/buenosairlines "buenosairlines")                                              |
+| :beginner: [millionairemadness](https://open.kattis.com/problems/millionairemadness "millionairemadness")                                           | :beginner: [lazylearner](https://open.kattis.com/problems/lazylearner "lazylearner")                                                       | :beginner: [evolution](https://open.kattis.com/problems/evolution "evolution")                                                    | :beginner: [basincity](https://open.kattis.com/problems/basincity "basincity")                                                             |
+| :beginner: [maximumrent](https://open.kattis.com/problems/maximumrent "maximumrent")                                                                | :beginner: [joinstrings](https://open.kattis.com/problems/joinstrings "joinstrings")                                                       | :beginner: [elderscrollbar](https://open.kattis.com/problems/elderscrollbar "elderscrollbar")                                     | :beginner: [maintenance](https://open.kattis.com/problems/maintenance "maintenance")                                                       |
+| :beginner: [marblestree](https://open.kattis.com/problems/marblestree "marblestree")                                                                | :beginner: [jailbreak](https://open.kattis.com/problems/jailbreak "jailbreak")                                                             | :beginner: [eeriesubarrays](https://open.kattis.com/problems/eeriesubarrays "eeriesubarrays")                                     | :beginner: [assistantranking](https://open.kattis.com/problems/assistantranking "assistantranking")                                        |
+| :beginner: [islandhopping](https://open.kattis.com/problems/islandhopping "islandhopping")                                                          | :beginner: [ironman](https://open.kattis.com/problems/ironman "ironman")                                                                   | :beginner: [directingrainfall](https://open.kattis.com/problems/directingrainfall "directingrainfall")                            | :beginner: [zabe](https://open.kattis.com/problems/zabe "zabe")                                                                            |
+| :beginner: [illiteracy](https://open.kattis.com/problems/illiteracy "illiteracy")                                                                   | :beginner: [screen](https://open.kattis.com/problems/screen "screen")                                                                      | :beginner: [costlycontest](https://open.kattis.com/problems/costlycontest "costlycontest")                                        | :beginner: [structuralintegrity](https://open.kattis.com/problems/structuralintegrity "structuralintegrity")                               |
+| :beginner: [horror](https://open.kattis.com/problems/horror "horror")                                                                               | :beginner: [gruesomecave](https://open.kattis.com/problems/gruesomecave "gruesomecave")                                                    | :beginner: [coprimeintegers](https://open.kattis.com/problems/coprimeintegers "coprimeintegers")                                  | :beginner: [sms](https://open.kattis.com/problems/sms "sms")                                                                               |
+| :beginner: [rectangularspiral](https://open.kattis.com/problems/rectangularspiral "rectangularspiral")                                              | :beginner: [gigcombinatorics](https://open.kattis.com/problems/gigcombinatorics "gigcombinatorics")                                        | :beginner: [codetheft](https://open.kattis.com/problems/codetheft "codetheft")                                                    | :beginner: [polygon](https://open.kattis.com/problems/polygon "polygon")                                                                   |
+| :beginner: [geppetto](https://open.kattis.com/problems/geppetto "geppetto")                                                                         | :beginner: [ghostbusters2](https://open.kattis.com/problems/ghostbusters2 "ghostbusters2")                                                 | :beginner: [cheatingluck](https://open.kattis.com/problems/cheatingluck "cheatingluck")                                           | :beginner: [maze2](https://open.kattis.com/problems/maze2 "maze2")                                                                         |
+| :beginner: [flowfree](https://open.kattis.com/problems/flowfree "flowfree")                                                                         | :beginner: [gamenight](https://open.kattis.com/problems/gamenight "gamenight")                                                             | :beginner: [catenyms](https://open.kattis.com/problems/catenyms "catenyms")                                                       | :beginner: [knightofthetarotcards](https://open.kattis.com/problems/knightofthetarotcards "knightofthetarotcards")                         |
+| :beginner: [fencebowling](https://open.kattis.com/problems/fencebowling "fencebowling")                                                             | :beginner: [fulltank](https://open.kattis.com/problems/fulltank "fulltank")                                                                | :beginner: [bundles](https://open.kattis.com/problems/bundles "bundles")                                                          | :beginner: [thief](https://open.kattis.com/problems/thief "thief")                                                                         |
+| :beginner: [dyslectionary](https://open.kattis.com/problems/dyslectionary "dyslectionary")                                                          | :beginner: [freckles](https://open.kattis.com/problems/freckles "freckles")                                                                | :beginner: [fence2](https://open.kattis.com/problems/fence2 "fence2")                                                             | :beginner: [jabuke2](https://open.kattis.com/problems/jabuke2 "jabuke2")                                                                   |
+| :beginner: [dodecaphony](https://open.kattis.com/problems/dodecaphony "dodecaphony")                                                                | :beginner: [foldedmap](https://open.kattis.com/problems/foldedmap "foldedmap")                                                             | :beginner: [biggest](https://open.kattis.com/problems/biggest "biggest")                                                          | :beginner: [intellectualproperty](https://open.kattis.com/problems/intellectualproperty "intellectualproperty")                            |
+| :beginner: [safe](https://open.kattis.com/problems/safe "safe")                                                                                     | :beginner: [firstofhername](https://open.kattis.com/problems/firstofhername "firstofhername")                                              | :beginner: [beautifulsquare](https://open.kattis.com/problems/beautifulsquare "beautifulsquare")                                  | :beginner: [infectionestimation](https://open.kattis.com/problems/infectionestimation "infectionestimation")                               |
+| :beginner: [catcoat](https://open.kattis.com/problems/catcoat "catcoat")                                                                            | :beginner: [fibonacci](https://open.kattis.com/problems/fibonacci "fibonacci")                                                             | :beginner: [apostrophecatastrophe](https://open.kattis.com/problems/apostrophecatastrophe "apostrophecatastrophe")                | :beginner: [firingphaser](https://open.kattis.com/problems/firingphaser "firingphaser")                                                    |
+| :beginner: [pikemaneasy](https://open.kattis.com/problems/pikemaneasy "pikemaneasy")                                                                | :beginner: [crni](https://open.kattis.com/problems/crni "crni")                                                                            | :beginner: [abstractart](https://open.kattis.com/problems/abstractart "abstractart")                                              | :beginner: [cpu2](https://open.kattis.com/problems/cpu2 "cpu2")                                                                            |
+| :beginner: [airconditioned](https://open.kattis.com/problems/airconditioned "airconditioned")                                                       | :beginner: [coci](https://open.kattis.com/problems/coci "coci")                                                                            | :beginner: [snobollskrig2](https://open.kattis.com/problems/snobollskrig2 "snobollskrig2")                                        | :beginner: [enigma](https://open.kattis.com/problems/enigma "enigma")                                                                      |
+| :beginner: [fluortanten](https://open.kattis.com/problems/fluortanten "fluortanten")                                                                | :beginner: [chocolates](https://open.kattis.com/problems/chocolates "chocolates")                                                          | :beginner: [zoninghouses](https://open.kattis.com/problems/zoninghouses "zoninghouses")                                           | :beginner: [darts](https://open.kattis.com/problems/darts "darts")                                                                         |
+| :beginner: [rafting](https://open.kattis.com/problems/rafting "rafting")                                                                            | :beginner: [busticket](https://open.kattis.com/problems/busticket "busticket")                                                             | :beginner: [v](https://open.kattis.com/problems/v "v")                                                                            | :beginner: [cairocorridor](https://open.kattis.com/problems/cairocorridor "cairocorridor")                                                 |
+| :beginner: [turtlemaster](https://open.kattis.com/problems/turtlemaster "turtlemaster")                                                             | :beginner: [beeproblem](https://open.kattis.com/problems/beeproblem "beeproblem")                                                          | :beginner: [tourist](https://open.kattis.com/problems/tourist "tourist")                                                          | :beginner: [boardcovering](https://open.kattis.com/problems/boardcovering "boardcovering")                                                 |
+| :beginner: [tiredterry](https://open.kattis.com/problems/tiredterry "tiredterry")                                                                   | :beginner: [walkforest](https://open.kattis.com/problems/walkforest "walkforest")                                                          | :beginner: [kingswalk](https://open.kattis.com/problems/kingswalk "kingswalk")                                                    | :beginner: [betweendarkanddawn](https://open.kattis.com/problems/betweendarkanddawn "betweendarkanddawn")                                  |
+| :beginner: [tiles](https://open.kattis.com/problems/tiles "tiles")                                                                                  | :beginner: [assassins](https://open.kattis.com/problems/assassins "assassins")                                                             | :beginner: [stringgame](https://open.kattis.com/problems/stringgame "stringgame")                                                 | :beginner: [bats](https://open.kattis.com/problems/bats "bats")                                                                            |
+| :beginner: [mazemakers](https://open.kattis.com/problems/mazemakers "mazemakers")                                                                   | :beginner: [addemup](https://open.kattis.com/problems/addemup "addemup")                                                                   | :beginner: [starwarsmovies](https://open.kattis.com/problems/starwarsmovies "starwarsmovies")                                     | :beginner: [ascendingphoto](https://open.kattis.com/problems/ascendingphoto "ascendingphoto")                                              |
+| :beginner: [snim](https://open.kattis.com/problems/snim "snim")                                                                                     | :beginner: [zoning](https://open.kattis.com/problems/zoning "zoning")                                                                      | :beginner: [starwars](https://open.kattis.com/problems/starwars "starwars")                                                       | :beginner: [typecharts](https://open.kattis.com/problems/typecharts "typecharts")                                                          |
+| :beginner: [sequentialmanufacturing](https://open.kattis.com/problems/sequentialmanufacturing "sequentialmanufacturing")                            | :beginner: [uzastopni](https://open.kattis.com/problems/uzastopni "uzastopni")                                                             | :beginner: [securitybadge](https://open.kattis.com/problems/securitybadge "securitybadge")                                        | :beginner: [stretching](https://open.kattis.com/problems/stretching "stretching")                                                          |
+| :beginner: [problemclassification](https://open.kattis.com/problems/problemclassification "problemclassification")                                  | :beginner: [usingdigits](https://open.kattis.com/problems/usingdigits "usingdigits")                                                       | :beginner: [scenery](https://open.kattis.com/problems/scenery "scenery")                                                          | :beginner: [skysthelimit](https://open.kattis.com/problems/skysthelimit "skysthelimit")                                                    |
+| :beginner: [peggamefortwo](https://open.kattis.com/problems/peggamefortwo "peggamefortwo")                                                          | :beginner: [uniquedice](https://open.kattis.com/problems/uniquedice "uniquedice")                                                          | :beginner: [returnofthejedi](https://open.kattis.com/problems/returnofthejedi "returnofthejedi")                                  | :beginner: [shotcube](https://open.kattis.com/problems/shotcube "shotcube")                                                                |
+| :beginner: [outofsorts](https://open.kattis.com/problems/outofsorts "outofsorts")                                                                   | :beginner: [whiterabbit](https://open.kattis.com/problems/whiterabbit "whiterabbit")                                                       | :beginner: [redoks](https://open.kattis.com/problems/redoks "redoks")                                                             | :beginner: [flightpath](https://open.kattis.com/problems/flightpath "flightpath")                                                          |
+| :beginner: [moneymatters](https://open.kattis.com/problems/moneymatters "moneymatters")                                                             | :beginner: [politics](https://open.kattis.com/problems/politics "politics")                                                                | :beginner: [putnik](https://open.kattis.com/problems/putnik "putnik")                                                             | :beginner: [russiandolls](https://open.kattis.com/problems/russiandolls "russiandolls")                                                    |
+| :beginner: [milestones](https://open.kattis.com/problems/milestones "milestones")                                                                   | :beginner: [sound](https://open.kattis.com/problems/sound "sound")                                                                         | :beginner: [pseudorandomnumbers](https://open.kattis.com/problems/pseudorandomnumbers "pseudorandomnumbers")                      | :beginner: [palindromes](https://open.kattis.com/problems/palindromes "palindromes")                                                       |
+| :beginner: [lektira](https://open.kattis.com/problems/lektira "lektira")                                                                            | :beginner: [subsequencesinsubstrings](https://open.kattis.com/problems/subsequencesinsubstrings "subsequencesinsubstrings")                | :beginner: [princeza](https://open.kattis.com/problems/princeza "princeza")                                                       | :beginner: [maxloot](https://open.kattis.com/problems/maxloot "maxloot")                                                                   |
+| :beginner: [kaleidoscopicpalindromes](https://open.kattis.com/problems/kaleidoscopicpalindromes "kaleidoscopicpalindromes")                         | :beginner: [stretchingstreamers](https://open.kattis.com/problems/stretchingstreamers "stretchingstreamers")                               | :beginner: [poplocavanje](https://open.kattis.com/problems/poplocavanje "poplocavanje")                                           | :beginner: [lcmtree](https://open.kattis.com/problems/lcmtree "lcmtree")                                                                   |
+| :beginner: [integerdivision](https://open.kattis.com/problems/integerdivision "integerdivision")                                                    | :beginner: [stopcounting](https://open.kattis.com/problems/stopcounting "stopcounting")                                                    | :beginner: [pieceittogether](https://open.kattis.com/problems/pieceittogether "pieceittogether")                                  | :beginner: [kemija](https://open.kattis.com/problems/kemija "kemija")                                                                      |
+| :beginner: [ignore](https://open.kattis.com/problems/ignore "ignore")                                                                               | :beginner: [spaceprobe](https://open.kattis.com/problems/spaceprobe "spaceprobe")                                                          | :beginner: [permrle](https://open.kattis.com/problems/permrle "permrle")                                                          | :beginner: [guessthedigits](https://open.kattis.com/problems/guessthedigits "guessthedigits")                                              |
+| :beginner: [hypercube](https://open.kattis.com/problems/hypercube "hypercube")                                                                      | :beginner: [slom](https://open.kattis.com/problems/slom "slom")                                                                            | :beginner: [review](https://open.kattis.com/problems/review "review")                                                             | :beginner: [forestofcelery](https://open.kattis.com/problems/forestofcelery "forestofcelery")                                              |
+| :beginner: [guess](https://open.kattis.com/problems/guess "guess")                                                                                  | :beginner: [sheldon](https://open.kattis.com/problems/sheldon "sheldon")                                                                   | :beginner: [parovi2](https://open.kattis.com/problems/parovi2 "parovi2")                                                          | :beginner: [dominant](https://open.kattis.com/problems/dominant "dominant")                                                                |
+| :beginner: [guessinggame](https://open.kattis.com/problems/guessinggame "guessinggame")                                                             | :beginner: [sabor](https://open.kattis.com/problems/sabor "sabor")                                                                         | :beginner: [pachinko](https://open.kattis.com/problems/pachinko "pachinko")                                                       | :beginner: [cuttingstrings](https://open.kattis.com/problems/cuttingstrings "cuttingstrings")                                              |
+| :beginner: [grid](https://open.kattis.com/problems/grid "grid")                                                                                     | :beginner: [razbibriga](https://open.kattis.com/problems/razbibriga "razbibriga")                                                          | :beginner: [multitouch](https://open.kattis.com/problems/multitouch "multitouch")                                                 | :beginner: [cuttingpolygon](https://open.kattis.com/problems/cuttingpolygon "cuttingpolygon")                                              |
+| :beginner: [golombrulers](https://open.kattis.com/problems/golombrulers "golombrulers")                                                             | :beginner: [passingsecrets](https://open.kattis.com/problems/passingsecrets "passingsecrets")                                              | :beginner: [modelling](https://open.kattis.com/problems/modelling "modelling")                                                    | :beginner: [courseplanning](https://open.kattis.com/problems/courseplanning "courseplanning")                                              |
+| :beginner: [fridge](https://open.kattis.com/problems/fridge "fridge")                                                                               | :beginner: [particlecollision](https://open.kattis.com/problems/particlecollision "particlecollision")                                     | :beginner: [linije](https://open.kattis.com/problems/linije "linije")                                                             | :beginner: [colorwalk](https://open.kattis.com/problems/colorwalk "colorwalk")                                                             |
+| :beginner: [fractalarea](https://open.kattis.com/problems/fractalarea "fractalarea")                                                                | :beginner: [oceancurrents](https://open.kattis.com/problems/oceancurrents "oceancurrents")                                                 | :beginner: [segmentintersection](https://open.kattis.com/problems/segmentintersection "segmentintersection")                      | :beginner: [boom](https://open.kattis.com/problems/boom "boom")                                                                            |
+| :beginner: [floodit](https://open.kattis.com/problems/floodit "floodit")                                                                            | :beginner: [multiplicationgame](https://open.kattis.com/problems/multiplicationgame "multiplicationgame")                                  | :beginner: [jusaccrescendi](https://open.kattis.com/problems/jusaccrescendi "jusaccrescendi")                                     | :beginner: [solarly](https://open.kattis.com/problems/solarly "solarly")                                                                   |
+| :beginner: [flipfive](https://open.kattis.com/problems/flipfive "flipfive")                                                                         | :beginner: [lumbercraft](https://open.kattis.com/problems/lumbercraft "lumbercraft")                                                       | :beginner: [jurassicjungle](https://open.kattis.com/problems/jurassicjungle "jurassicjungle")                                     | :beginner: [aladin](https://open.kattis.com/problems/aladin "aladin")                                                                      |
+| :beginner: [findpoly](https://open.kattis.com/problems/findpoly "findpoly")                                                                         | :beginner: [letterwheels](https://open.kattis.com/problems/letterwheels "letterwheels")                                                    | :beginner: [jumpingyoshi](https://open.kattis.com/problems/jumpingyoshi "jumpingyoshi")                                           | :beginner: [3sideddice](https://open.kattis.com/problems/3sideddice "3sideddice")                                                          |
+| :beginner: [ferryloading4](https://open.kattis.com/problems/ferryloading4 "ferryloading4")                                                          | :beginner: [keyboard](https://open.kattis.com/problems/keyboard "keyboard")                                                                | :beginner: [joiningnetwork](https://open.kattis.com/problems/joiningnetwork "joiningnetwork")                                     | :beginner: [winterroads](https://open.kattis.com/problems/winterroads "winterroads")                                                       |
+| :beginner: [eatingout](https://open.kattis.com/problems/eatingout "eatingout")                                                                      | :beginner: [juice](https://open.kattis.com/problems/juice "juice")                                                                         | :beginner: [tower](https://open.kattis.com/problems/tower "tower")                                                                | :beginner: [amiga](https://open.kattis.com/problems/amiga "amiga")                                                                         |
+| :beginner: [downtime](https://open.kattis.com/problems/downtime "downtime")                                                                         | :beginner: [joiningflows](https://open.kattis.com/problems/joiningflows "joiningflows")                                                    | :beginner: [hexagon](https://open.kattis.com/problems/hexagon "hexagon")                                                          | :beginner: [tourdefrance2](https://open.kattis.com/problems/tourdefrance2 "tourdefrance2")                                                 |
+| :beginner: [countingchocolate](https://open.kattis.com/problems/countingchocolate "countingchocolate")                                              | :beginner: [jobpostings](https://open.kattis.com/problems/jobpostings "jobpostings")                                                       | :beginner: [camels](https://open.kattis.com/problems/camels "camels")                                                             | :beginner: [theendingoftheendpart1](https://open.kattis.com/problems/theendingoftheendpart1 "theendingoftheendpart1")                      |
+| :beginner: [capsules](https://open.kattis.com/problems/capsules "capsules")                                                                         | :beginner: [beanbag](https://open.kattis.com/problems/beanbag "beanbag")                                                                   | :beginner: [getrichquickschemes](https://open.kattis.com/problems/getrichquickschemes "getrichquickschemes")                      | :beginner: [bookcase](https://open.kattis.com/problems/bookcase "bookcase")                                                                |
+| :beginner: [bridgesandtunnels](https://open.kattis.com/problems/bridgesandtunnels "bridgesandtunnels")                                              | :beginner: [itcanbearranged](https://open.kattis.com/problems/itcanbearranged "itcanbearranged")                                           | :beginner: [gears](https://open.kattis.com/problems/gears "gears")                                                                | :beginner: [sudokunique](https://open.kattis.com/problems/sudokunique "sudokunique")                                                       |
+| :beginner: [arithmeticdecoding](https://open.kattis.com/problems/arithmeticdecoding "arithmeticdecoding")                                           | :beginner: [ironcoal](https://open.kattis.com/problems/ironcoal "ironcoal")                                                                | :beginner: [forestevolution](https://open.kattis.com/problems/forestevolution "forestevolution")                                  | :beginner: [subwaymap](https://open.kattis.com/problems/subwaymap "subwaymap")                                                             |
+| :beginner: [allaboutthatbase](https://open.kattis.com/problems/allaboutthatbase "allaboutthatbase")                                                 | :beginner: [incaseofinvasion](https://open.kattis.com/problems/incaseofinvasion "incaseofinvasion")                                        | :beginner: [findingpolly](https://open.kattis.com/problems/findingpolly "findingpolly")                                           | :beginner: [studentcounsel](https://open.kattis.com/problems/studentcounsel "studentcounsel")                                              |
+| :beginner: [zebrasocelots](https://open.kattis.com/problems/zebrasocelots "zebrasocelots")                                                          | :beginner: [importspaghetti](https://open.kattis.com/problems/importspaghetti "importspaghetti")                                           | :beginner: [factovisors](https://open.kattis.com/problems/factovisors "factovisors")                                              | :beginner: [snowninjas](https://open.kattis.com/problems/snowninjas "snowninjas")                                                          |
+| :beginner: [newfiber](https://open.kattis.com/problems/newfiber "newfiber")                                                                         | :beginner: [imagecompression](https://open.kattis.com/problems/imagecompression "imagecompression")                                        | :beginner: [exitsinexcess](https://open.kattis.com/problems/exitsinexcess "exitsinexcess")                                        | :beginner: [odometeranalysis](https://open.kattis.com/problems/odometeranalysis "odometeranalysis")                                        |
+| :beginner: [water](https://open.kattis.com/problems/water "water")                                                                                  | :beginner: [hyacinth](https://open.kattis.com/problems/hyacinth "hyacinth")                                                                | :beginner: [evenland](https://open.kattis.com/problems/evenland "evenland")                                                       | :beginner: [kitesurfing](https://open.kattis.com/problems/kitesurfing "kitesurfing")                                                       |
+| :beginner: [trojke](https://open.kattis.com/problems/trojke "trojke")                                                                               | :beginner: [gcds](https://open.kattis.com/problems/gcds "gcds")                                                                            | :beginner: [equinumerous](https://open.kattis.com/problems/equinumerous "equinumerous")                                           | :beginner: [jackjill](https://open.kattis.com/problems/jackjill "jackjill")                                                                |
+| :beginner: [tgif](https://open.kattis.com/problems/tgif "tgif")                                                                                     | :beginner: [frogger](https://open.kattis.com/problems/frogger "frogger")                                                                   | :beginner: [divisorgame](https://open.kattis.com/problems/divisorgame "divisorgame")                                              | :beginner: [interception](https://open.kattis.com/problems/interception "interception")                                                    |
+| :beginner: [textencryption](https://open.kattis.com/problems/textencryption "textencryption")                                                       | :beginner: [fairwarning](https://open.kattis.com/problems/fairwarning "fairwarning")                                                       | :beginner: [crackingthecode](https://open.kattis.com/problems/crackingthecode "crackingthecode")                                  | :beginner: [fancy](https://open.kattis.com/problems/fancy "fancy")                                                                         |
+| :beginner: [smallschedule](https://open.kattis.com/problems/smallschedule "smallschedule")                                                          | :beginner: [exactchange2](https://open.kattis.com/problems/exactchange2 "exactchange2")                                                    | :beginner: [commemorativerace](https://open.kattis.com/problems/commemorativerace "commemorativerace")                            | :beginner: [easyprobability](https://open.kattis.com/problems/easyprobability "easyprobability")                                           |
+| :beginner: [scrollingsign](https://open.kattis.com/problems/scrollingsign "scrollingsign")                                                          | :beginner: [erraticants](https://open.kattis.com/problems/erraticants "erraticants")                                                       | :beginner: [canthoexpressway](https://open.kattis.com/problems/canthoexpressway "canthoexpressway")                               | :beginner: [blacksmithtraining](https://open.kattis.com/problems/blacksmithtraining "blacksmithtraining")                                  |
+| :beginner: [rotatecut](https://open.kattis.com/problems/rotatecut "rotatecut")                                                                      | :beginner: [divisors](https://open.kattis.com/problems/divisors "divisors")                                                                | :beginner: [blazingnewtrails](https://open.kattis.com/problems/blazingnewtrails "blazingnewtrails")                               | :beginner: [bakterije](https://open.kattis.com/problems/bakterije "bakterije")                                                             |
+| :beginner: [delivery](https://open.kattis.com/problems/delivery "delivery")                                                                         | :beginner: [deadfraction](https://open.kattis.com/problems/deadfraction "deadfraction")                                                    | :beginner: [biometrics](https://open.kattis.com/problems/biometrics "biometrics")                                                 | :beginner: [gerrymander](https://open.kattis.com/problems/gerrymander "gerrymander")                                                       |
+| :beginner: [pathtracing](https://open.kattis.com/problems/pathtracing "pathtracing")                                                                | :beginner: [crane](https://open.kattis.com/problems/crane "crane")                                                                         | :beginner: [bicikli](https://open.kattis.com/problems/bicikli "bicikli")                                                          | :beginner: [tagresan](https://open.kattis.com/problems/tagresan "tagresan")                                                                |
+| :beginner: [speed](https://open.kattis.com/problems/speed "speed")                                                                                  | :beginner: [cookieselection](https://open.kattis.com/problems/cookieselection "cookieselection")                                           | :beginner: [avoidingairports](https://open.kattis.com/problems/avoidingairports "avoidingairports")                               | :beginner: [tripletfreequeens](https://open.kattis.com/problems/tripletfreequeens "tripletfreequeens")                                     |
+| :beginner: [modulararithmetic](https://open.kattis.com/problems/modulararithmetic "modulararithmetic")                                              | :beginner: [conveyorbelts](https://open.kattis.com/problems/conveyorbelts "conveyorbelts")                                                 | :beginner: [convex](https://open.kattis.com/problems/convex "convex")                                                             | :beginner: [tangotango](https://open.kattis.com/problems/tangotango "tangotango")                                                          |
+| :beginner: [keypad](https://open.kattis.com/problems/keypad "keypad")                                                                               | :beginner: [colorland](https://open.kattis.com/problems/colorland "colorland")                                                             | :beginner: [almostunionfind](https://open.kattis.com/problems/almostunionfind "almostunionfind")                                  | :beginner: [sudoku](https://open.kattis.com/problems/sudoku "sudoku")                                                                      |
+| :beginner: [longswaps](https://open.kattis.com/problems/longswaps "longswaps")                                                                      | :beginner: [bestrational](https://open.kattis.com/problems/bestrational "bestrational")                                                    | :beginner: [alea](https://open.kattis.com/problems/alea "alea")                                                                   | :beginner: [sneakattack](https://open.kattis.com/problems/sneakattack "sneakattack")                                                       |
+| :beginner: [logo](https://open.kattis.com/problems/logo "logo")                                                                                     | :beginner: [wordclouds](https://open.kattis.com/problems/wordclouds "wordclouds")                                                          | :beginner: [genetics2](https://open.kattis.com/problems/genetics2 "genetics2")                                                    | :beginner: [ambush](https://open.kattis.com/problems/ambush "ambush")                                                                      |
+| :beginner: [monopoly](https://open.kattis.com/problems/monopoly "monopoly")                                                                         | :beginner: [wherehaveyoubin](https://open.kattis.com/problems/wherehaveyoubin "wherehaveyoubin")                                           | :beginner: [jatten](https://open.kattis.com/problems/jatten "jatten")                                                             | :beginner: [costofliving](https://open.kattis.com/problems/costofliving "costofliving")                                                    |
+| :beginner: [jollyjumpers](https://open.kattis.com/problems/jollyjumpers "jollyjumpers")                                                             | :beginner: [grass](https://open.kattis.com/problems/grass "grass")                                                                         | :beginner: [lampknappar](https://open.kattis.com/problems/lampknappar "lampknappar")                                              | :beginner: [condorcet](https://open.kattis.com/problems/condorcet "condorcet")                                                             |
+| :beginner: [apples](https://open.kattis.com/problems/apples "apples")                                                                               | :beginner: [thekingofthenorth](https://open.kattis.com/problems/thekingofthenorth "thekingofthenorth")                                     | :beginner: [trickandtreat](https://open.kattis.com/problems/trickandtreat "trickandtreat")                                        | :beginner: [barktree](https://open.kattis.com/problems/barktree "barktree")                                                                |
+| :beginner: [enlarginghashtables](https://open.kattis.com/problems/enlarginghashtables "enlarginghashtables")                                        | :beginner: [targetpractice](https://open.kattis.com/problems/targetpractice "targetpractice")                                              | :beginner: [zuma](https://open.kattis.com/problems/zuma "zuma")                                                                   | :beginner: [friends](https://open.kattis.com/problems/friends "friends")                                                                   |
+| :beginner: [dobra](https://open.kattis.com/problems/dobra "dobra")                                                                                  | :beginner: [stoichiometry](https://open.kattis.com/problems/stoichiometry "stoichiometry")                                                 | :beginner: [xyzzy](https://open.kattis.com/problems/xyzzy "xyzzy")                                                                | :beginner: [alchemy](https://open.kattis.com/problems/alchemy "alchemy")                                                                   |
+| :beginner: [cuttingcorners](https://open.kattis.com/problems/cuttingcorners "cuttingcorners")                                                       | :beginner: [sentryrobots](https://open.kattis.com/problems/sentryrobots "sentryrobots")                                                    | :beginner: [winterfestival](https://open.kattis.com/problems/winterfestival "winterfestival")                                     | :beginner: [threedprinter](https://open.kattis.com/problems/threedprinter "threedprinter")                                                 |
+| :beginner: [cropeasy](https://open.kattis.com/problems/cropeasy "cropeasy")                                                                         | :beginner: [hnumbers](https://open.kattis.com/problems/hnumbers "hnumbers")                                                                | :beginner: [whatsinit](https://open.kattis.com/problems/whatsinit "whatsinit")                                                    | :beginner: [mwvc](https://open.kattis.com/problems/mwvc "mwvc")                                                                            |
+| :beginner: [clockconstruction](https://open.kattis.com/problems/clockconstruction "clockconstruction")                                              | :beginner: [rings](https://open.kattis.com/problems/rings "rings")                                                                         | :beginner: [videopoker](https://open.kattis.com/problems/videopoker "videopoker")                                                 | :beginner: [widgettree](https://open.kattis.com/problems/widgettree "widgettree")                                                          |
+| :beginner: [circular](https://open.kattis.com/problems/circular "circular")                                                                         | :beginner: [orders](https://open.kattis.com/problems/orders "orders")                                                                      | :beginner: [vacuum](https://open.kattis.com/problems/vacuum "vacuum")                                                             | :beginner: [tictactoe](https://open.kattis.com/problems/tictactoe "tictactoe")                                                             |
+| :beginner: [cheeseifyouplease](https://open.kattis.com/problems/cheeseifyouplease "cheeseifyouplease")                                              | :beginner: [rainbowroads](https://open.kattis.com/problems/rainbowroads "rainbowroads")                                                    | :beginner: [unicycliccount](https://open.kattis.com/problems/unicycliccount "unicycliccount")                                     | :beginner: [playlist](https://open.kattis.com/problems/playlist "playlist")                                                                |
+| :beginner: [chatter](https://open.kattis.com/problems/chatter "chatter")                                                                            | :beginner: [primalrepresentation](https://open.kattis.com/problems/primalrepresentation "primalrepresentation")                            | :beginner: [tickets](https://open.kattis.com/problems/tickets "tickets")                                                          | :beginner: [magicaldistances](https://open.kattis.com/problems/magicaldistances "magicaldistances")                                        |
+| :beginner: [caveexploration2](https://open.kattis.com/problems/caveexploration2 "caveexploration2")                                                 | :beginner: [presidentialelections](https://open.kattis.com/problems/presidentialelections "presidentialelections")                         | :beginner: [stol](https://open.kattis.com/problems/stol "stol")                                                                   | :beginner: [finalexam](https://open.kattis.com/problems/finalexam "finalexam")                                                             |
+| :beginner: [catalansquare](https://open.kattis.com/problems/catalansquare "catalansquare")                                                          | :beginner: [paintingafence](https://open.kattis.com/problems/paintingafence "paintingafence")                                              | :beginner: [carpet](https://open.kattis.com/problems/carpet "carpet")                                                             | :beginner: [easyquery](https://open.kattis.com/problems/easyquery "easyquery")                                                             |
+| :beginner: [candydivision](https://open.kattis.com/problems/candydivision "candydivision")                                                          | :beginner: [origami](https://open.kattis.com/problems/origami "origami")                                                                   | :beginner: [squarerooms](https://open.kattis.com/problems/squarerooms "squarerooms")                                              | :beginner: [downpayment](https://open.kattis.com/problems/downpayment "downpayment")                                                       |
+| :beginner: [bootstrappingnumber](https://open.kattis.com/problems/bootstrappingnumber "bootstrappingnumber")                                        | :beginner: [muzicari](https://open.kattis.com/problems/muzicari "muzicari")                                                                | :beginner: [monkey](https://open.kattis.com/problems/monkey "monkey")                                                             | :beginner: [citytour](https://open.kattis.com/problems/citytour "citytour")                                                                |
+| :beginner: [bigtruck](https://open.kattis.com/problems/bigtruck "bigtruck")                                                                         | :beginner: [mali](https://open.kattis.com/problems/mali "mali")                                                                            | :beginner: [skiing](https://open.kattis.com/problems/skiing "skiing")                                                             | :beginner: [skogsbrand](https://open.kattis.com/problems/skogsbrand "skogsbrand")                                                          |
+| :beginner: [basicremains](https://open.kattis.com/problems/basicremains "basicremains")                                                             | :beginner: [low](https://open.kattis.com/problems/low "low")                                                                               | :beginner: [prefixfreecode](https://open.kattis.com/problems/prefixfreecode "prefixfreecode")                                     | :beginner: [appelspelet](https://open.kattis.com/problems/appelspelet "appelspelet")                                                       |
+| :beginner: [alphabet](https://open.kattis.com/problems/alphabet "alphabet")                                                                         | :beginner: [littletoys](https://open.kattis.com/problems/littletoys "littletoys")                                                          | :beginner: [pokegene](https://open.kattis.com/problems/pokegene "pokegene")                                                       | :beginner: [visitorstrain](https://open.kattis.com/problems/visitorstrain "visitorstrain")                                                 |
+| :beginner: [zipline](https://open.kattis.com/problems/zipline "zipline")                                                                            | :beginner: [lcmpairsum](https://open.kattis.com/problems/lcmpairsum "lcmpairsum")                                                          | :beginner: [pixelated](https://open.kattis.com/problems/pixelated "pixelated")                                                    | :beginner: [pipes](https://open.kattis.com/problems/pipes "pipes")                                                                         |
+| :beginner: [zagrade](https://open.kattis.com/problems/zagrade "zagrade")                                                                            | :beginner: [kratki](https://open.kattis.com/problems/kratki "kratki")                                                                      | :beginner: [mushroommisery](https://open.kattis.com/problems/mushroommisery "mushroommisery")                                     | :beginner: [wine](https://open.kattis.com/problems/wine "wine")                                                                            |
+| :beginner: [wimbledon](https://open.kattis.com/problems/wimbledon "wimbledon")                                                                      | :beginner: [kolinje](https://open.kattis.com/problems/kolinje "kolinje")                                                                   | :beginner: [medals](https://open.kattis.com/problems/medals "medals")                                                             | :beginner: [maxexpression](https://open.kattis.com/problems/maxexpression "maxexpression")                                                 |
+| :beginner: [units](https://open.kattis.com/problems/units "units")                                                                                  | :beginner: [kitchencombinatorics](https://open.kattis.com/problems/kitchencombinatorics "kitchencombinatorics")                            | :beginner: [lifeguards](https://open.kattis.com/problems/lifeguards "lifeguards")                                                 | :beginner: [foodreviewhard](https://open.kattis.com/problems/foodreviewhard "foodreviewhard")                                              |
+| :beginner: [torn2pieces](https://open.kattis.com/problems/torn2pieces "torn2pieces")                                                                | :beginner: [historicexhibition](https://open.kattis.com/problems/historicexhibition "historicexhibition")                                  | :beginner: [kletva](https://open.kattis.com/problems/kletva "kletva")                                                             | :beginner: [drivesafely](https://open.kattis.com/problems/drivesafely "drivesafely")                                                       |
+| :beginner: [succession](https://open.kattis.com/problems/succession "succession")                                                                   | :beginner: [han](https://open.kattis.com/problems/han "han")                                                                               | :beginner: [kallaxconstruction](https://open.kattis.com/problems/kallaxconstruction "kallaxconstruction")                         | :beginner: [callacab](https://open.kattis.com/problems/callacab "callacab")                                                                |
+| :beginner: [researchproductivityindex](https://open.kattis.com/problems/researchproductivityindex "researchproductivityindex")                      | :beginner: [greatexpectations](https://open.kattis.com/problems/greatexpectations "greatexpectations")                                     | :beginner: [kaboom](https://open.kattis.com/problems/kaboom "kaboom")                                                             | :beginner: [busschedules](https://open.kattis.com/problems/busschedules "busschedules")                                                    |
+| :beginner: [radir](https://open.kattis.com/problems/radir "radir")                                                                                  | :beginner: [game](https://open.kattis.com/problems/game "game")                                                                            | :beginner: [initials](https://open.kattis.com/problems/initials "initials")                                                       | :beginner: [easyascab](https://open.kattis.com/problems/easyascab "easyascab")                                                             |
+| :beginner: [pseudoprime](https://open.kattis.com/problems/pseudoprime "pseudoprime")                                                                | :beginner: [froshweek](https://open.kattis.com/problems/froshweek "froshweek")                                                             | :beginner: [hilbertsort](https://open.kattis.com/problems/hilbertsort "hilbertsort")                                              | :beginner: [aroundthetrack](https://open.kattis.com/problems/aroundthetrack "aroundthetrack")                                              |
+| :beginner: [polish](https://open.kattis.com/problems/polish "polish")                                                                               | :beginner: [explosion](https://open.kattis.com/problems/explosion "explosion")                                                             | :beginner: [hidingchickens](https://open.kattis.com/problems/hidingchickens "hidingchickens")                                     | :beginner: [ahorseshoein](https://open.kattis.com/problems/ahorseshoein "ahorseshoein")                                                    |
+| :beginner: [pivot](https://open.kattis.com/problems/pivot "pivot")                                                                                  | :beginner: [expectingrain](https://open.kattis.com/problems/expectingrain "expectingrain")                                                 | :beginner: [gasstationnumbers](https://open.kattis.com/problems/gasstationnumbers "gasstationnumbers")                            | :beginner: [swapfrenzy](https://open.kattis.com/problems/swapfrenzy "swapfrenzy")                                                          |
+| :beginner: [ovalwatch](https://open.kattis.com/problems/ovalwatch "ovalwatch")                                                                      | :beginner: [emptyingbaltic](https://open.kattis.com/problems/emptyingbaltic "emptyingbaltic")                                              | :beginner: [evenodd](https://open.kattis.com/problems/evenodd "evenodd")                                                          | :beginner: [ranklistsorting](https://open.kattis.com/problems/ranklistsorting "ranklistsorting")                                           |
+| :beginner: [loopytransit](https://open.kattis.com/problems/loopytransit "loopytransit")                                                             | :beginner: [elementarymath](https://open.kattis.com/problems/elementarymath "elementarymath")                                              | :beginner: [deckrandomisation](https://open.kattis.com/problems/deckrandomisation "deckrandomisation")                            | :beginner: [oop](https://open.kattis.com/problems/oop "oop")                                                                               |
+| :beginner: [knightsearch](https://open.kattis.com/problems/knightsearch "knightsearch")                                                             | :beginner: [efficientexchange](https://open.kattis.com/problems/efficientexchange "efficientexchange")                                     | :beginner: [city](https://open.kattis.com/problems/city "city")                                                                   | :beginner: [oldschooldays](https://open.kattis.com/problems/oldschooldays "oldschooldays")                                                 |
+| :beginner: [jughard](https://open.kattis.com/problems/jughard "jughard")                                                                            | :beginner: [dexsave](https://open.kattis.com/problems/dexsave "dexsave")                                                                   | :beginner: [budget](https://open.kattis.com/problems/budget "budget")                                                             | :beginner: [kingdomofkittens](https://open.kattis.com/problems/kingdomofkittens "kingdomofkittens")                                        |
+| :beginner: [infiniteslides](https://open.kattis.com/problems/infiniteslides "infiniteslides")                                                       | :beginner: [crazedboar](https://open.kattis.com/problems/crazedboar "crazedboar")                                                          | :beginner: [bipartitebattle](https://open.kattis.com/problems/bipartitebattle "bipartitebattle")                                  | :beginner: [eggs](https://open.kattis.com/problems/eggs "eggs")                                                                            |
+| :beginner: [imagedecoding](https://open.kattis.com/problems/imagedecoding "imagedecoding")                                                          | :beginner: [countingcodes](https://open.kattis.com/problems/countingcodes "countingcodes")                                                 | :beginner: [beetle](https://open.kattis.com/problems/beetle "beetle")                                                             | :beginner: [banjo](https://open.kattis.com/problems/banjo "banjo")                                                                         |
+| :beginner: [iks](https://open.kattis.com/problems/iks "iks")                                                                                        | :beginner: [countdown](https://open.kattis.com/problems/countdown "countdown")                                                             | :beginner: [basic](https://open.kattis.com/problems/basic "basic")                                                                | :beginner: [atrivialpursuit](https://open.kattis.com/problems/atrivialpursuit "atrivialpursuit")                                           |
+| :beginner: [harddrive](https://open.kattis.com/problems/harddrive "harddrive")                                                                      | :beginner: [coloring](https://open.kattis.com/problems/coloring "coloring")                                                                | :beginner: [barica](https://open.kattis.com/problems/barica "barica")                                                             | :beginner: [worm](https://open.kattis.com/problems/worm "worm")                                                                            |
+| :beginner: [telephones](https://open.kattis.com/problems/telephones "telephones")                                                                   | :beginner: [circumsphere](https://open.kattis.com/problems/circumsphere "circumsphere")                                                    | :beginner: [alienmicrowave](https://open.kattis.com/problems/alienmicrowave "alienmicrowave")                                     | :beginner: [fries](https://open.kattis.com/problems/fries "fries")                                                                         |
+| :beginner: [forests](https://open.kattis.com/problems/forests "forests")                                                                            | :beginner: [cd](https://open.kattis.com/problems/cd "cd")                                                                                  | :beginner: [airlinehub](https://open.kattis.com/problems/airlinehub "airlinehub")                                                 | :beginner: [magicalstring](https://open.kattis.com/problems/magicalstring "magicalstring")                                                 |
+| :beginner: [orchard](https://open.kattis.com/problems/orchard "orchard")                                                                            | :beginner: [camplunches](https://open.kattis.com/problems/camplunches "camplunches")                                                       | :beginner: [zgodan](https://open.kattis.com/problems/zgodan "zgodan")                                                             | :beginner: [funnygames](https://open.kattis.com/problems/funnygames "funnygames")                                                          |
+| :beginner: [evilstraw](https://open.kattis.com/problems/evilstraw "evilstraw")                                                                      | :beginner: [automatictrading](https://open.kattis.com/problems/automatictrading "automatictrading")                                        | :beginner: [wordequations](https://open.kattis.com/problems/wordequations "wordequations")                                        | :beginner: [div2mul2mul3](https://open.kattis.com/problems/div2mul2mul3 "div2mul2mul3")                                                    |
+| :beginner: [europeantrip](https://open.kattis.com/problems/europeantrip "europeantrip")                                                             | :beginner: [arrayofdiscord](https://open.kattis.com/problems/arrayofdiscord "arrayofdiscord")                                              | :beginner: [wedding](https://open.kattis.com/problems/wedding "wedding")                                                          | :beginner: [connectdots](https://open.kattis.com/problems/connectdots "connectdots")                                                       |
+| :beginner: [draughts](https://open.kattis.com/problems/draughts "draughts")                                                                         | :beginner: [rationalsequence](https://open.kattis.com/problems/rationalsequence "rationalsequence")                                        | :beginner: [variabelnamn](https://open.kattis.com/problems/variabelnamn "variabelnamn")                                           | :beginner: [listgame2](https://open.kattis.com/problems/listgame2 "listgame2")                                                             |
+| :beginner: [dominoes2](https://open.kattis.com/problems/dominoes2 "dominoes2")                                                                      | :beginner: [altruisticamphibians](https://open.kattis.com/problems/altruisticamphibians "altruisticamphibians")                            | :beginner: [toursdesalesforce](https://open.kattis.com/problems/toursdesalesforce "toursdesalesforce")                            | :beginner: [textprocessor](https://open.kattis.com/problems/textprocessor "textprocessor")                                                 |
+| :beginner: [decisions](https://open.kattis.com/problems/decisions "decisions")                                                                      | :beginner: [citations](https://open.kattis.com/problems/citations "citations")                                                             | :beginner: [thesockpile](https://open.kattis.com/problems/thesockpile "thesockpile")                                              | :beginner: [icefloes](https://open.kattis.com/problems/icefloes "icefloes")                                                                |
+| :beginner: [stockbroker](https://open.kattis.com/problems/stockbroker "stockbroker")                                                                | :beginner: [driving](https://open.kattis.com/problems/driving "driving")                                                                   | :beginner: [polarexpress](https://open.kattis.com/problems/polarexpress "polarexpress")                                           | :beginner: [hiringfiring](https://open.kattis.com/problems/hiringfiring "hiringfiring")                                                    |
+| :beginner: [crowdcontrol](https://open.kattis.com/problems/crowdcontrol "crowdcontrol")                                                             | :beginner: [twoknights](https://open.kattis.com/problems/twoknights "twoknights")                                                          | :beginner: [theendingoftheendpart2](https://open.kattis.com/problems/theendingoftheendpart2 "theendingoftheendpart2")             | :beginner: [harvard](https://open.kattis.com/problems/harvard "harvard")                                                                   |
+| :beginner: [chopwood](https://open.kattis.com/problems/chopwood "chopwood")                                                                         | :beginner: [tombraider](https://open.kattis.com/problems/tombraider "tombraider")                                                          | :beginner: [test2](https://open.kattis.com/problems/test2 "test2")                                                                | :beginner: [balancedcut](https://open.kattis.com/problems/balancedcut "balancedcut")                                                       |
+| :beginner: [chewbacca](https://open.kattis.com/problems/chewbacca "chewbacca")                                                                      | :beginner: [slikar2](https://open.kattis.com/problems/slikar2 "slikar2")                                                                   | :beginner: [target](https://open.kattis.com/problems/target "target")                                                             | :beginner: [246greaaat](https://open.kattis.com/problems/246greaaat "246greaaat")                                                          |
+| :beginner: [canvas](https://open.kattis.com/problems/canvas "canvas")                                                                               | :beginner: [rimstyrka](https://open.kattis.com/problems/rimstyrka "rimstyrka")                                                             | :beginner: [takeover](https://open.kattis.com/problems/takeover "takeover")                                                       | :beginner: [mnist2class](https://open.kattis.com/problems/mnist2class "mnist2class")                                                       |
+| :beginner: [buttonbashing](https://open.kattis.com/problems/buttonbashing "buttonbashing")                                                          | :beginner: [rectilinear](https://open.kattis.com/problems/rectilinear "rectilinear")                                                       | :beginner: [swimmingballs](https://open.kattis.com/problems/swimmingballs "swimmingballs")                                        | :beginner: [tsp](https://open.kattis.com/problems/tsp "tsp")                                                                               |
+| :beginner: [buslines](https://open.kattis.com/problems/buslines "buslines")                                                                         | :beginner: [rainbowtrees](https://open.kattis.com/problems/rainbowtrees "rainbowtrees")                                                    | :beginner: [sumandproduct](https://open.kattis.com/problems/sumandproduct "sumandproduct")                                        | :beginner: [husbygge](https://open.kattis.com/problems/husbygge "husbygge")                                                                |
+| :beginner: [blockgame2](https://open.kattis.com/problems/blockgame2 "blockgame2")                                                                   | :beginner: [pravokutni](https://open.kattis.com/problems/pravokutni "pravokutni")                                                          | :beginner: [scaffolding](https://open.kattis.com/problems/scaffolding "scaffolding")                                              | :beginner: [dictionary](https://open.kattis.com/problems/dictionary "dictionary")                                                          |
+| :beginner: [asciifigurerotation](https://open.kattis.com/problems/asciifigurerotation "asciifigurerotation")                                        | :beginner: [mosquitoes](https://open.kattis.com/problems/mosquitoes "mosquitoes")                                                          | :beginner: [savez](https://open.kattis.com/problems/savez "savez")                                                                | :beginner: [woodencrates](https://open.kattis.com/problems/woodencrates "woodencrates")                                                    |
+| :beginner: [architecture](https://open.kattis.com/problems/architecture "architecture")                                                             | :beginner: [perfectpowers](https://open.kattis.com/problems/perfectpowers "perfectpowers")                                                 | :beginner: [restoran](https://open.kattis.com/problems/restoran "restoran")                                                       | :beginner: [towers](https://open.kattis.com/problems/towers "towers")                                                                      |
+| :beginner: [paths](https://open.kattis.com/problems/paths "paths")                                                                                  | :beginner: [palindromicdna](https://open.kattis.com/problems/palindromicdna "palindromicdna")                                              | :beginner: [simplification](https://open.kattis.com/problems/simplification "simplification")                                     | :beginner: [thewireghost](https://open.kattis.com/problems/thewireghost "thewireghost")                                                    |
+| :beginner: [raidteams](https://open.kattis.com/problems/raidteams "raidteams")                                                                      | :beginner: [organising](https://open.kattis.com/problems/organising "organising")                                                          | :beginner: [patuljci2](https://open.kattis.com/problems/patuljci2 "patuljci2")                                                    | :beginner: [printerscheduling](https://open.kattis.com/problems/printerscheduling "printerscheduling")                                     |
+| :beginner: [clinic](https://open.kattis.com/problems/clinic "clinic")                                                                               | :beginner: [contestscheduling](https://open.kattis.com/problems/contestscheduling "contestscheduling")                                     | :beginner: [museum](https://open.kattis.com/problems/museum "museum")                                                             | :beginner: [mravihard](https://open.kattis.com/problems/mravihard "mravihard")                                                             |
+| :beginner: [basicprogramming2](https://open.kattis.com/problems/basicprogramming2 "basicprogramming2")                                              | :beginner: [mincostmaxflow](https://open.kattis.com/problems/mincostmaxflow "mincostmaxflow")                                              | :beginner: [mravojed](https://open.kattis.com/problems/mravojed "mravojed")                                                       | :beginner: [cameramakers](https://open.kattis.com/problems/cameramakers "cameramakers")                                                    |
+| :beginner: [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet "wheresmyinternet")                                                 | :beginner: [maxcolinear](https://open.kattis.com/problems/maxcolinear "maxcolinear")                                                       | :beginner: [metal](https://open.kattis.com/problems/metal "metal")                                                                | :beginner: [mnist10class](https://open.kattis.com/problems/mnist10class "mnist10class")                                                    |
+
+>### AND NOW *`LAST BUT THE BEAST`*:smiling_imp: problems waiting for you for a long time 
+| </> | </> | Very Hard | </> | </> |
+| :---: | :---: | :---: | :---: | :---: |
+| <......................../........................> | <......................../........................> | :beginner:[satisfaction](https://open.kattis.com/problems/satisfaction "satisfaction") | <......................../........................>  | <......................../........................>  |
+| <......................../........................>  | <......................../........................>  | :beginner:[hopper](https://open.kattis.com/problems/hopper "hopper") | <......................../........................>  | <......................../........................>  |
+| <......................../........................>  | <......................../........................>  | :beginner:[magicalmysteryknigh](https://open.kattis.com/problems/magicalmysteryknigh "magicalmysteryknigh") | <......................../........................>  | <......................../........................>  |

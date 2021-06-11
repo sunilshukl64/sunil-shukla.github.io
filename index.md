@@ -70,19 +70,10 @@ int main()
 }
 
 ```
-## Run code [here](https://ide.usaco.guide/)
+ !-->
 
-### Support or Contact
-
-Having trouble with code? Catch me on [dummyforsunil@gmail.com](mailto:dummyforsunil@gmail.com) and we’ll help you sort it out.
-
-Made in :india: 
-![indiaflag](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png =100x20 "INDIA")
-
- -->
-
-| Easy                                                                                                                                                | Lower Medium                                                                                                                               | Upper Medium                                                                                                                      | Hard                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Easy | Lower Medium | Upper Medium | Hard                                                                                                                          
+| :---: | :---: | :---: | :---: |
 | :beginner: [tarifa](https://open.katts.com/problems/tarifa "tarifa")                                                                                | :beginner: [weather](https://open.kattis.com/problems/weather "weather")                                                                   | :beginner: [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring")                                           | :beginner: [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |
 | :beginner: [twostones](https://open.kattis.com/problems/twostones "twostones")                                                                      | :beginner: [ummcode](https://open.kattis.com/problems/ummcode "ummcode")                                                                   | :beginner: [likenooneeverwas](https://open.kattis.com/problems/likenooneeverwas "likenooneeverwas")                               | :beginner: [kraljevi](https://open.kattis.com/problems/kraljevi "kraljevi")                                                                |
 | :beginner: [timeloop](https://open.kattis.com/problems/timeloop "timeloop")                                                                         | :beginner: [monk](https://open.kattis.com/problems/monk "monk")                                                                            | :beginner: [dogs](https://open.kattis.com/problems/dogs "dogs")                                                                   | :beginner: [intercept](https://open.kattis.com/problems/intercept "intercept")                                                             |

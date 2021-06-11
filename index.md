@@ -835,7 +835,8 @@ int main()
 | :beginner: [basicprogramming2](https://open.kattis.com/problems/basicprogramming2 "basicprogramming2")                                              | :beginner: [mincostmaxflow](https://open.kattis.com/problems/mincostmaxflow "mincostmaxflow")                                              | :beginner: [mravojed](https://open.kattis.com/problems/mravojed "mravojed")                                                       | :beginner: [cameramakers](https://open.kattis.com/problems/cameramakers "cameramakers")                                                    |
 | :beginner: [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet "wheresmyinternet")                                                 | :beginner: [maxcolinear](https://open.kattis.com/problems/maxcolinear "maxcolinear")                                                       | :beginner: [metal](https://open.kattis.com/problems/metal "metal")                                                                | :beginner: [mnist10class](https://open.kattis.com/problems/mnist10class "mnist10class")                                                    |
 
->### AND NOW *`LAST BUT THE BEAST`*:smiling_imp: problems waiting for you for a long time 
+>### AND NOW *`LAST BUT THE BEAST`* problems waiting for you for a long time 
+---
 | </> | </> | Very Hard | </> | </> |
 | :---: | :---: | :---: | :---: | :---: |
 | <......................../........................> | <......................../........................> | :beginner:[satisfaction](https://open.kattis.com/problems/satisfaction "satisfaction") | <......................../........................>  | <......................../........................>  |

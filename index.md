@@ -1,5 +1,7 @@
-| **Easy** | **Lower Medium** | **Upper Medium** | **Hard** |
+| <h2>`>Easy`</h2> | <h2>`>Lower Medium`</h2> | <h2>`>Upper Medium`</h2> | <h2>`>Hard`</h2>|
 |:-:|:-:|:-:|:-:|
+|||||
+|||||
 | 🔰[tarifa](https://open.kattis.com/problems/tarifa)xs | 🔰[weather](https://open.kattis.com/problems/weather)xd | 🔰[mapcolouring](https://open.kattis.com/problems/mapcolouring)xc | 🔰[loopingaround](https://open.kattis.com/problems/loopingaround)xa |
 |||||
 | 🔰[twostones](https://open.kattis.com/problems/twostones)xs | 🔰[ummcode](https://open.kattis.com/problems/ummcode)xd | 🔰[likenooneeverwas](https://open.kattis.com/problems/likenooneeverwas)xc | 🔰[kraljevi](https://open.kattis.com/problems/kraljevi)xa |
@@ -96,7 +98,7 @@
 |||||
 | 🔰[ladder](https://open.kattis.com/problems/ladder)xs | 🔰[slikar](https://open.kattis.com/problems/slikar)xd | 🔰[flightcollision](https://open.kattis.com/problems/flightcollision)xc | 🔰[longestlife](https://open.kattis.com/problems/longestlife)xa |
 |||||
-| 🔰[judgingmoose](https://open.kattis.com/problems/judgingmoose)xs | 🔰[shortestpath1](https://open.kattis.com/problems/shortestpath1)xd | 🔰[fire3](https://open.kattis.com/problems/fire3)xc | 🔰[lazystudents](https://open.kattis.com/problems/lazystudents)xa |
+| 🔰[judgingmoose](https://open.kattis.com/problems/judgingmoose)xs | 🔰[shortestpath2](https://open.kattis.com/problems/shortestpath2)xd | 🔰[fire3](https://open.kattis.com/problems/fire3)xc | 🔰[lazystudents](https://open.kattis.com/problems/lazystudents)xa |
 |||||
 | 🔰[jobexpenses](https://open.kattis.com/problems/jobexpenses)xs | 🔰[score](https://open.kattis.com/problems/score)xd | 🔰[exchangerates](https://open.kattis.com/problems/exchangerates)xc | 🔰[johnny5](https://open.kattis.com/problems/johnny5)xa |
 |||||
@@ -1520,4 +1522,4 @@
 |||||
 | 🔰[wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet)xs | 🔰[maxcolinear](https://open.kattis.com/problems/maxcolinear)xd | 🔰[metal](https://open.kattis.com/problems/metal)xc | 🔰[mnist10class](https://open.kattis.com/problems/mnist10class)xa |
 |||||
-|[:-x-:]|[:-x-:]|[:-x-:]|[:-x-:]|
+| ------------:----x----:------------ |------------:----x----:------------ | ------------:----x----:------------ | ------------:----x----:------------ |

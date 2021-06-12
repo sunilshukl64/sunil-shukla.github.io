@@ -77,7 +77,7 @@ int main()
 ---
 ### Arranged difficulty wise
 > | Go down 👇	| Difficulty up 👆
----
+<br>
 | Easy | Lower Medium | Upper Medium | Hard |
 |:---:|:---:|:---:|:---:|
 | 🔰 [tarifa](https://open.kattis.com/problems/tarifa "tarifa") | 🔰 [weather](https://open.kattis.com/problems/weather "weather") | 🔰 [mapcolouring](https://open.kattis.com/problems/mapcolouring "mapcolouring") | 🔰 [loopingaround](https://open.kattis.com/problems/loopingaround "loopingaround")                                                 |

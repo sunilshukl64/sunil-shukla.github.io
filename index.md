@@ -1,4 +1,4 @@
-| <h2>`>Easy`</h2> | <h2>`>Lower Medium`</h2> | <h2>`>Upper Medium`</h2> | <h2>`>Hard`</h2>|
+<!-- | <h2>`>Easy`</h2> | <h2>`>Lower Medium`</h2> | <h2>`>Upper Medium`</h2> | <h2>`>Hard`</h2>|
 |:-:|:-:|:-:|:-:|
 |||||
 |||||
@@ -1522,4 +1522,10 @@
 |||||
 | 🔰[wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet)xs | 🔰[maxcolinear](https://open.kattis.com/problems/maxcolinear)xd | 🔰[metal](https://open.kattis.com/problems/metal)xc | 🔰[mnist10class](https://open.kattis.com/problems/mnist10class)xa |
 |||||
-| ------------:----x----:------------ |------------:----x----:------------ | ------------:----x----:------------ | ------------:----x----:------------ |
+| ------------:----x----:------------ |------------:----x----:------------ | ------------:----x----:------------ | ------------:----x----:------------ | -->
+
+**collatz on wiki:[collatz-wiki](https://en.wikipedia.org/wiki/Collatz_conjecture#Experimental_evidence)**
+
+**code on usaco:[codusaco](https://ide.usaco.guide/MhvbcW-ltAJO7G6i4yh?lang=cpp)**
+
+**code on gitpod:[gitpcode](https://apricot-viper-3vszxkc5.ws-us15.gitpod.io/)**

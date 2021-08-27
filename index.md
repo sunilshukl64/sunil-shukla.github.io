@@ -1524,8 +1524,8 @@
 |||||
 | ------------:----x----:------------ |------------:----x----:------------ | ------------:----x----:------------ | ------------:----x----:------------ | -->
 
-**collatz on wiki : [collatz-wiki](https://en.wikipedia.org/wiki/Collatz_conjecture#Experimental_evidence)**
+## **collatz on wiki : [collatz-wiki](https://en.wikipedia.org/wiki/Collatz_conjecture#Experimental_evidence)**
 
-**code on usaco : [codusaco {py+cpp}](https://ide.usaco.guide/MhvbcW-ltAJO7G6i4yh?lang=cpp)**
+## **code on usaco : [codusaco {py+cpp}](https://ide.usaco.guide/MhvbcW-ltAJO7G6i4yh?lang=cpp)**
 
-**code on gitpod : [gitpcode](https://apricot-viper-3vszxkc5.ws-us15.gitpod.io/)**
+## **code on gitpod : [gitpcode](https://apricot-viper-3vszxkc5.ws-us15.gitpod.io/)**
